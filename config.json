@@ -1,0 +1,17 @@
+{
+  "_aide": "page_url = ton adresse GitHub Pages. mode 'cr7' = détecte tout maillot de Cristiano (tous numéros), ignore le Ronaldo brésilien. collection = handle après /collections/ (null = scanne tout le catalogue). currency = symbole affiché. Vérifie qu'un shop est Shopify en ouvrant LE-SHOP/products.json ; s'il ne répond pas en JSON, l'agent l'ignore proprement (à passer alors en alerte native).",
+
+  "page_url": "https://TON-USER.github.io/TON-REPO/",
+
+  "shopify": [
+    { "name": "The Vault",                "base": "https://thevault.co.uk",                 "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Cult Kits",                 "base": "https://cultkits.com",                   "collection": "cristiano-ronaldo-football-shirts",        "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Football Shirt Collective", "base": "https://www.footballshirtcollective.com","collection": "authentic-cristiano-ronaldo-football-shirts","mode": "cr7", "currency": "$", "max_price": null },
+    { "name": "Vintage Football Shirts",   "base": "https://www.vintagefootballshirts.com",  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "The Soccer Archive",        "base": "https://thesoccerarchive.com",           "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "$", "max_price": null },
+    { "name": "Classic11",                 "base": "https://classic11.com",                  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Classic Football Kit",      "base": "https://classicfootballkit.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null }
+  ],
+
+  "pages": []
+}

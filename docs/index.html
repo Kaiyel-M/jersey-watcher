@@ -1,0 +1,121 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Catalogue maillots CR7</title>
+<style>
+:root{--bg:#0c0e12;--panel:#161b24;--line:#2a323f;--ink:#eef1f6;--muted:#9aa3b2;--gold:#e6bd50}
+*{box-sizing:border-box;margin:0}body{background:var(--bg);color:var(--ink);font-family:Inter,system-ui,Arial,sans-serif;padding:0 0 60px}
+.wrap{max-width:1000px;margin:0 auto;padding:0 16px}
+h1{font-size:26px;padding:28px 0 4px}.sub{color:var(--muted);font-size:13px;margin-bottom:18px}
+.tabs{display:flex;gap:8px;margin-bottom:12px}
+.tabs button,.ctrl{background:var(--panel);border:1px solid var(--line);color:var(--muted);border-radius:99px;padding:8px 14px;font-size:13px;cursor:pointer}
+.tabs button.on{background:var(--gold);color:#12140f;border-color:var(--gold);font-weight:600}
+.ctrls{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.ctrl{-webkit-appearance:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.card img{width:100%;height:190px;object-fit:cover;background:#0f1318}
+.noimg{width:100%;height:190px;display:flex;align-items:center;justify-content:center;color:#3b4451;font-size:13px}
+.body{padding:12px 13px;display:flex;flex-direction:column;gap:7px;flex:1}
+.top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tier{font-weight:700;font-size:12px;border-radius:6px;padding:1px 7px}
+.tS{background:#e6bd50;color:#12140f}.tA{background:#c7923b;color:#12140f}.tB{background:#3b4658;color:#dfe4ec}.tC{background:#2a323f;color:#9aa3b2}
+.chip{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:1px 7px}
+.club{font-weight:600;font-size:15px;line-height:1.2}.desc{font-size:12px;color:var(--muted);flex:1}
+.price{font-size:17px;font-weight:700}.cmp{font-size:11px;color:var(--muted)}
+.src{font-size:11px;color:#6b7382}
+.links{display:flex;gap:8px;margin-top:4px}
+a.btn{flex:1;text-align:center;text-decoration:none;font-size:12.5px;padding:8px;border-radius:8px;background:var(--gold);color:#12140f;font-weight:600}
+.hist{font-size:11px;color:var(--muted);border-top:1px solid var(--line);padding-top:6px;margin-top:2px}
+.empty{color:#6b7382;text-align:center;padding:40px 0}
+.section{margin-bottom:20px;border:1px solid var(--line);border-left:4px solid var(--acc,var(--line));border-radius:14px;overflow:hidden}
+.shead{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--line)}
+.sdot{width:12px;height:12px;border-radius:99px;flex:0 0 auto}
+.stitle{font-weight:700;font-size:16px;letter-spacing:.02em}
+.ssub{color:var(--muted);font-size:12.5px}
+.scount{margin-left:auto;color:var(--muted);font-size:12.5px;font-weight:600}
+.sbody{padding:14px 16px}
+</style></head><body><div class="wrap">
+<h1>Catalogue maillots <span style="color:var(--gold)">CR7</span></h1>
+<div class="sub" id="sub"></div>
+<div class="tabs">
+  <button id="tab-active" class="on" onclick="setTab('active')">En vente</button>
+  <button id="tab-gone" onclick="setTab('gone')">Historique (prix)</button>
+</div>
+<div class="ctrls">
+  <select class="ctrl" id="sort" onchange="render()">
+    <option value="rarity">Trier : rareté</option>
+    <option value="year">Trier : année</option>
+    <option value="price">Trier : prix</option>
+  </select>
+  <select class="ctrl" id="club" onchange="render()"><option value="">Tous les clubs</option></select>
+  <select class="ctrl" id="ha" onchange="render()">
+    <option value="">Dom + Ext</option><option>Domicile</option><option>Extérieur</option><option>Third</option>
+  </select>
+  <select class="ctrl" id="ver" onchange="render()">
+    <option value="">Toutes versions</option><option value="Version joueur">Version joueur</option><option value="Rétail">Supporter</option>
+  </select>
+</div>
+<div id="content"></div>
+</div>
+<script>
+const DATA = {"items": {}, "updated": "2026-07-12 22:21"};
+let TAB='active';
+const items=Object.values(DATA.items||{});
+const clubs=[...new Set(items.map(i=>i.club).filter(c=>c&&c!=='?'))].sort();
+const csel=document.getElementById('club');
+clubs.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;csel.appendChild(o)});
+function groupKey(i){return i.club+'|'+i.year+'|'+i.home_away}
+function setTab(t){TAB=t;document.getElementById('tab-active').classList.toggle('on',t==='active');
+  document.getElementById('tab-gone').classList.toggle('on',t==='gone');render()}
+function fnum(n){return n==null?'?':Number(n).toLocaleString('fr-FR')}
+const TIER_META={S:{t:'Mythiques',c:'#e6bd50',bg:'rgba(230,189,80,.10)'},A:{t:'Rares',c:'#c7923b',bg:'rgba(199,146,59,.10)'},B:{t:'Recherchés',c:'#5b6b86',bg:'rgba(91,107,134,.13)'},C:{t:'Courants',c:'#3a4453',bg:'rgba(58,68,83,.16)'}};
+function cardHTML(i,g){
+  const g2=g[groupKey(i)]||[]; const cmp=g2.length>1?`<div class="cmp">${g2.length} offres même saison : ${fnum(Math.min(...g2))}–${fnum(Math.max(...g2))} ${i.currency||''}</div>`:'';
+  const img=i.image?`<img src="${i.image}" loading="lazy" alt="">`:`<div class="noimg">pas de photo</div>`;
+  const hist=(TAB==='gone'&&i.history)?`<div class="hist">Historique prix : ${i.history.map(h=>`${fnum(h.price)}${i.currency||''} (${h.date})`).join(' → ')}<br>Vu pour la dernière fois : ${i.last_seen||'?'}</div>`:'';
+  const price=i.price?`${fnum(i.price)} ${i.currency||''}`:'prix ?';
+  const deal=i.good_deal?`<span class="chip" style="color:#7bd88f;border-color:#2e5a3a">bon prix</span>`:'';
+  return `<div class="card">${img}<div class="body">
+    <div class="top"><span class="tier t${i.tier}">${i.tier} · ${i.rarity}</span>
+      ${i.home_away&&i.home_away!=='?'?`<span class="chip">${i.home_away}</span>`:''}
+      ${i.sleeve?`<span class="chip">${i.sleeve}</span>`:''}
+      ${i.version==='Version joueur'?`<span class="chip">Version joueur</span>`:''}${deal}</div>
+    <div class="club">${i.club} ${i.year||''}</div>
+    <div class="desc">${i.desc||i.title}</div>
+    <div class="price">${price}</div>${cmp}
+    <div class="src">${i.source}</div>
+    <div class="links"><a class="btn" href="${i.url}" target="_blank" rel="noopener">Voir l'annonce</a></div>
+    ${hist}</div></div>`;
+}
+function sectionHTML(sec,g){
+  const cards=`<div class="grid">${sec.items.map(i=>cardHTML(i,g)).join('')}</div>`;
+  if(sec.title==null) return cards;
+  const acc=sec.color||'#5b6b86', bg=sec.bg||'rgba(120,132,150,.10)';
+  return `<div class="section" style="--acc:${acc}">
+    <div class="shead" style="background:${bg}"><span class="sdot" style="background:${acc}"></span><span class="stitle">${sec.title}</span>${sec.sub?`<span class="ssub">${sec.sub}</span>`:''}<span class="scount">${sec.items.length} maillot${sec.items.length>1?'s':''}</span></div>
+    <div class="sbody">${cards}</div></div>`;
+}
+function render(){
+  const sort=document.getElementById('sort').value, fc=document.getElementById('club').value, fh=document.getElementById('ha').value, fv=document.getElementById('ver').value;
+  let list=items.filter(i=> TAB==='active'? i.available!==false : i.available===false);
+  if(fc)list=list.filter(i=>i.club===fc); if(fh)list=list.filter(i=>i.home_away===fh); if(fv)list=list.filter(i=>i.version===fv);
+  const g={}; items.filter(i=>i.available!==false&&i.price).forEach(i=>{(g[groupKey(i)]=g[groupKey(i)]||[]).push(i.price)});
+  const act=items.filter(i=>i.available!==false).length, gone=items.filter(i=>i.available===false).length;
+  document.getElementById('sub').textContent=`${act} en vente · ${gone} archivés · mis à jour ${DATA.updated||''}`;
+  const box=document.getElementById('content');
+  if(!list.length){box.innerHTML='<div class="empty">Rien ici pour le moment. Le catalogue se remplira au fil des trouvailles.</div>';return}
+  let sections;
+  if(sort==='rarity'){
+    sections=['S','A','B','C'].map(t=>({title:'Rareté '+t,sub:TIER_META[t].t,color:TIER_META[t].c,bg:TIER_META[t].bg,
+      items:list.filter(i=>i.tier===t).sort((a,b)=>b.rarity-a.rarity)})).filter(s=>s.items.length);
+  }else if(sort==='year'){
+    const ys=[...new Set(list.map(i=>i.year).filter(Boolean))].sort((a,b)=>a-b);
+    sections=ys.map(y=>({title:String(y),color:'#6b7688',bg:'rgba(120,132,150,.10)',items:list.filter(i=>i.year===y).sort((a,b)=>b.rarity-a.rarity)}));
+    const nay=list.filter(i=>!i.year); if(nay.length)sections.push({title:'Année inconnue',color:'#6b7688',bg:'rgba(120,132,150,.10)',items:nay});
+  }else{
+    sections=[{title:null,items:list.slice().sort((a,b)=>(a.price||1e9)-(b.price||1e9))}];
+  }
+  box.innerHTML=sections.map(s=>sectionHTML(s,g)).join('');
+}
+render();
+</script></body></html>
