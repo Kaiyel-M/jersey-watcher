@@ -24,6 +24,10 @@ CONFIG_PATH = "config.json"
 DATA_PATH   = "data.json"        # base de tous les maillots (actifs + historiques)
 SITE_PATH   = "docs/index.html"  # page servie par GitHub Pages
 UA = {"User-Agent": "Mozilla/5.0 (compatible; jersey-watcher/2.0)"}
+# UA "navigateur" pour les pages non-Shopify (certains WAF refusent les bots).
+BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                            "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+              "Accept-Language": "en-US,en;q=0.9"}
 TIMEOUT = 20
 MAX_PAGES = 15
 
@@ -235,6 +239,47 @@ def scan_shopify(src):
     return items
 
 
+# ---------- surveillance de pages (sites non-Shopify) ----------
+# Liens à ignorer (navigation, réseaux sociaux) et liens "produit" à conserver.
+SKIP_HREF = ("/cart", "/account", "/login", "/register", "/policies", "/blogs",
+             "/pages/", "javascript:", "mailto:", "tel:", "facebook.com",
+             "instagram.com", "twitter.com", "x.com", "tiktok.com", "youtube.com",
+             "/wishlist", "/compare", "/checkout", "/contact", "/faq")
+KEEP_HREF = ("/product", "/products/", "/item", "/buy", "/shop/", "-shirt",
+             "ronaldo", ".html", "/lot", "/itm/", "/dp/", "/p/")
+
+def page_signature(html_text, url):
+    """Empreinte 'liste de produits' d'une page : ensemble trié des liens produits.
+    Un nouvel article -> nouveau lien -> empreinte différente. Repli sur le texte."""
+    host = re.sub(r"^https?://", "", url).split("/")[0].lower()
+    keep = []
+    for h in re.findall(r'href=["\']([^"\'>]+)', html_text):
+        hl = h.lower()
+        if any(s in hl for s in SKIP_HREF): continue
+        if not (h.startswith("/") or host in hl): continue
+        if any(k in hl for k in KEEP_HREF):
+            keep.append(h.split("?")[0].split("#")[0])
+    keep = sorted(set(keep))
+    if len(keep) >= 3:
+        return hashlib.sha1("\n".join(keep).encode("utf-8", "ignore")).hexdigest(), len(keep)
+    # repli : empreinte du texte visible normalisé (scripts/styles retirés)
+    txt = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", html_text, flags=re.S | re.I)
+    txt = re.sub(r"<[^>]+>", " ", txt)
+    txt = re.sub(r"\s+", " ", txt).strip().lower()
+    return hashlib.sha1(txt.encode("utf-8", "ignore")).hexdigest(), 0
+
+def fetch_page_sig(url):
+    r = requests.get(url, headers=BROWSER_UA, timeout=TIMEOUT)
+    if r.status_code != 200: raise RuntimeError(f"HTTP {r.status_code}")
+    return page_signature(r.text, url)
+
+def alert_page(name, url, page_url):
+    msg = (f"🔔 <b>{html.escape(name)}</b> — la page a changé\n"
+           f"Probable nouvel arrivage CR7 à vérifier.\n🔗 {url}")
+    if page_url: msg += f"\n📚 {page_url}"
+    notify(msg)
+
+
 # ---------- page HTML ----------
 PAGE = r"""<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -409,6 +454,27 @@ def main():
         if iid not in seen_now and it.get("available") is not False:
             it["available"] = False; it["last_seen"] = it.get("last_seen", today())
 
+    # surveillance des pages non-Shopify (alerte au changement de contenu)
+    pstate = data.setdefault("pages_state", {})
+    page_alerts = []
+    for pg in cfg.get("pages", []):
+        name, url = pg.get("name"), pg.get("url")
+        if not url: continue
+        print(f">> [page] {name}")
+        try:
+            sig, count = fetch_page_sig(url)
+        except Exception as e:
+            print(f"   {name}: {e} (page ignorée ce run)"); continue
+        st = pstate.get(name)
+        if not st:  # 1re observation -> on mémorise la base, pas d'alerte
+            pstate[name] = {"sig": sig, "count": count, "url": url,
+                            "first_seen": today(), "last_change": today(), "last_checked": today()}
+        else:
+            st["last_checked"] = today(); st["url"] = url
+            if sig != st.get("sig"):
+                st["sig"] = sig; st["count"] = count; st["last_change"] = today()
+                if not first_run: page_alerts.append((name, url))
+
     data["updated"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     save_json(DATA_PATH, data)
     build_site(data, page_url)
@@ -417,10 +483,16 @@ def main():
         alert_new(it, page_url, kind)
         print(f"   {kind}:", it["title"])
 
+    for name, url in page_alerts:
+        alert_page(name, url, page_url)
+        print("   PAGE CHANGÉE:", name)
+
     if first_run:
-        notify(f"🟢 Catalogue CR7 armé. J'ai indexé {len(db)} maillot(s) au départ. "
-               f"Je te préviens dès qu'il y a du nouveau." + (f"\n📚 {page_url}" if page_url else ""))
-    print(f"Terminé. {len(db)} au catalogue, {len(alerts)} alerte(s).")
+        notify(f"🟢 Catalogue CR7 armé. J'ai indexé {len(db)} maillot(s) et je surveille "
+               f"{len(pstate)} page(s) partenaire(s). Je te préviens dès qu'il y a du nouveau."
+               + (f"\n📚 {page_url}" if page_url else ""))
+    print(f"Terminé. {len(db)} au catalogue, {len(pstate)} page(s) suivie(s), "
+          f"{len(alerts)+len(page_alerts)} alerte(s).")
 
 
 if __name__ == "__main__":

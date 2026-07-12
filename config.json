@@ -10,8 +10,20 @@
     { "name": "Vintage Football Shirts",   "base": "https://www.vintagefootballshirts.com",  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
     { "name": "The Soccer Archive",        "base": "https://thesoccerarchive.com",           "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "$", "max_price": null },
     { "name": "Classic11",                 "base": "https://classic11.com",                  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
-    { "name": "Classic Football Kit",      "base": "https://classicfootballkit.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null }
+    { "name": "Classic Football Kit",      "base": "https://classicfootballkit.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Authentic Football Club",   "base": "https://authenticfootballclub.com",      "collection": null,                                       "mode": "cr7", "currency": "€", "max_price": null },
+    { "name": "RetrOriginalFootball",      "base": "https://retroriginalfootball.com",       "collection": null,                                       "mode": "cr7", "currency": "€", "max_price": null },
+    { "name": "Football Finery",           "base": "https://www.footballfinery.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Walkouts",                  "base": "https://walkouts.com",                   "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null }
   ],
 
-  "pages": []
+  "_aide_pages": "Sites non-Shopify : l'agent surveille l'URL indiquée (idéalement une page listant les CR7) et t'alerte au moindre changement de contenu (probable nouvel arrivage). name = libellé de l'alerte, url = page à surveiller.",
+
+  "pages": [
+    { "name": "Top Vintage (CR7)",           "url": "https://www.topvintagefootballshirts.com/search?q=ronaldo",                 "currency": "€" },
+    { "name": "Classic Football Shirts (CR7)","url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",       "currency": "£" },
+    { "name": "Icons.com (CR7)",             "url": "https://www.icons.com/players/cristiano-ronaldo.html",                       "currency": "€" },
+    { "name": "Heritage Auctions (CR7)",     "url": "https://sports.ha.com/sports-player-index/cristiano-ronaldo.s?id=318",       "currency": "$" },
+    { "name": "A1 Sporting Memorabilia (CR7)","url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo", "currency": "£" }
+  ]
 }
