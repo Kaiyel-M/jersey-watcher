@@ -1,7 +1,7 @@
 {
   "_aide": "page_url = ton adresse GitHub Pages. mode 'cr7' = détecte tout maillot de Cristiano (tous numéros), ignore le Ronaldo brésilien. collection = handle après /collections/ (null = scanne tout le catalogue). currency = symbole affiché. Vérifie qu'un shop est Shopify en ouvrant LE-SHOP/products.json ; s'il ne répond pas en JSON, l'agent l'ignore proprement (à passer alors en alerte native).",
 
-  "page_url": "https://TON-USER.github.io/TON-REPO/",
+  "page_url": "https://kaiyel-m.github.io/jersey-watcher/",
 
   "shopify": [
     { "name": "The Vault",                "base": "https://thevault.co.uk",                 "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "£", "max_price": null },
