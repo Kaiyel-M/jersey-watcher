@@ -227,9 +227,7 @@ def scan_shopify(src):
         elif p.get("featured_image"): img = p["featured_image"]
         yr = year_of(title); club = club_of(title); ha = homeaway_of(title)
         sl = sleeve_of(title)
-        body = re.sub("<[^>]+>", " ", p.get("body_html") or "")
-        tags = " ".join(p.get("tags")) if isinstance(p.get("tags"), list) else (p.get("tags") or "")
-        ver = version_of(f"{title} {body} {tags}")
+        ver = version_of(title)   # version joueur détectée depuis le TITRE seul (évite les faux positifs du marketing)
         sc, tier = rarity(club, yr, ha, sl, ver)
         iid = f"{src['name']}:{p.get('id')}"
         items[iid] = {
@@ -447,7 +445,7 @@ def main():
                 if not silent: alerts.append((it, "NEW"))
             else:
                 old["last_seen"] = today(); old["available"] = it["available"]
-                for k in ("price","image","desc","rarity","tier","home_away","year","club"): old[k] = it[k]
+                for k in ("price","image","desc","rarity","tier","home_away","year","club","version","sleeve"): old[k] = it[k]
                 last = old["history"][-1]["price"] if old.get("history") else None
                 if it["price"] is not None and it["price"] != last:
                     old.setdefault("history", []).append({"date": today(), "price": it["price"]})
