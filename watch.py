@@ -104,11 +104,25 @@ def sleeve_of(t):
     if any(w in t for w in ["long sleeve", "long-sleeve", "manches longues", " l/s", " ls "]): return "Manches longues"
     return ""
 
-def version_of(t):
-    t = t.lower()
-    if any(w in t for w in ["player issue", "player version", "player edition", "match issue", "match version",
-                            "match worn", "matchworn", "on-field", "on field", "formotion", "adizero", "techfit",
-                            "heat.rdy", "vaporknit", "vapor", "dri-fit adv", "authentic", "match prepared", "player spec"]):
+# Mots qui disqualifient d'office la version joueur (rééditions / répliques).
+RETAIL_MARKERS = ("replica", "retro", "reissue", "re-issue", "reproduction", "remake",
+                  "fan version", "fans version", "supporter version", "supporters version")
+# Vrais marqueurs joueur, fiables même dans une description.
+PLAYER_MARKERS = ("player issue", "player version", "player edition", "player spec",
+                  "match issue", "match version", "match worn", "matchworn", "match prepared",
+                  "on-field", "on field", "adizero", "formotion", "techfit", "heat.rdy",
+                  "vaporknit", "dri-fit adv", "dri fit adv")
+# Ambigus : ne comptent QUE dans le titre (dans une description "authentic" = "authentique").
+PLAYER_TITLE_ONLY = ("authentic", "vapor")
+
+def version_of(title, body=""):
+    ti = title.lower()
+    full = (title + " " + body).lower()
+    if any(w in full for w in RETAIL_MARKERS):        # 1) "retro/replica" -> Supporter, prioritaire
+        return "Rétail"
+    if any(w in full for w in PLAYER_MARKERS):         # 2) vrai marqueur joueur (titre ou description)
+        return "Version joueur"
+    if any(w in ti for w in PLAYER_TITLE_ONLY):        # 3) "authentic/vapor" seulement dans le titre
         return "Version joueur"
     return "Rétail"
 
@@ -227,7 +241,8 @@ def scan_shopify(src):
         elif p.get("featured_image"): img = p["featured_image"]
         yr = year_of(title); club = club_of(title); ha = homeaway_of(title)
         sl = sleeve_of(title)
-        ver = version_of(title)   # version joueur détectée depuis le TITRE seul (évite les faux positifs du marketing)
+        body = re.sub("<[^>]+>", " ", p.get("body_html") or "")
+        ver = version_of(title, body)   # titre + description, mots "supporter" prioritaires
         sc, tier = rarity(club, yr, ha, sl, ver)
         iid = f"{src['name']}:{p.get('id')}"
         items[iid] = {
