@@ -10,10 +10,10 @@
     { "name": "Vintage Football Shirts",   "base": "https://www.vintagefootballshirts.com",  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
     { "name": "The Soccer Archive",        "base": "https://thesoccerarchive.com",           "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "$", "max_price": null },
     { "name": "Classic11",                 "base": "https://classic11.com",                  "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
-    { "name": "Classic Football Kit",      "base": "https://classicfootballkit.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Classic Football Kit",      "base": "https://classicfootballkit.co.uk",       "collection": "cristiano-ronaldo",                        "mode": "cr7", "currency": "£", "max_price": null },
     { "name": "Authentic Football Club",   "base": "https://authenticfootballclub.com",      "collection": null,                                       "mode": "cr7", "currency": "€", "max_price": null },
     { "name": "RetrOriginalFootball",      "base": "https://retroriginalfootball.com",       "collection": null,                                       "mode": "cr7", "currency": "€", "max_price": null },
-    { "name": "Football Finery",           "base": "https://www.footballfinery.co.uk",       "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null },
+    { "name": "Football Finery",           "base": "https://www.footballfinery.co.uk",       "collection": "cristiano-ronaldo-football-shirts",        "mode": "cr7", "currency": "£", "max_price": null },
     { "name": "Walkouts",                  "base": "https://walkouts.com",                   "collection": null,                                       "mode": "cr7", "currency": "£", "max_price": null }
   ],
 

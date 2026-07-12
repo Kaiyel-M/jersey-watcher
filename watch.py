@@ -29,7 +29,7 @@ BROWSER_UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebK
                             "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
               "Accept-Language": "en-US,en;q=0.9"}
 TIMEOUT = 20
-MAX_PAGES = 15
+MAX_PAGES = 40   # 40 x 250 = 10 000 produits max par boutique en mode 'catalogue entier'
 
 
 # ---------- utils ----------
@@ -197,6 +197,9 @@ def fetch_shopify(base, coll):
         batch = r.json().get("products", [])
         if not batch: break
         out += batch; page += 1
+    else:  # boucle terminée sans page vide -> le catalogue dépasse MAX_PAGES
+        print(f"   ⚠️ {base}: catalogue tronqué à {MAX_PAGES*250} produits "
+              f"(augmenter MAX_PAGES ou cibler une collection CR7)")
     return out
 
 def scan_shopify(src):
@@ -418,6 +421,8 @@ def main():
     data = load_json(DATA_PATH, {"items": {}})
     db = data["items"]
     first_run = not db
+    # backfill silencieux : indexe sans alerter (pour un re-scan élargi sans spam)
+    silent = first_run or os.environ.get("SILENT_BACKFILL", "").lower() == "true"
 
     seen_now, alerts = set(), []
     for src in cfg.get("shopify", []):
@@ -439,14 +444,14 @@ def main():
                     same.sort(); med = same[len(same)//2]
                     it["good_deal"] = it["price"] < med*0.9
                 db[iid] = it
-                if not first_run: alerts.append((it, "NEW"))
+                if not silent: alerts.append((it, "NEW"))
             else:
                 old["last_seen"] = today(); old["available"] = it["available"]
                 for k in ("price","image","desc","rarity","tier","home_away","year","club"): old[k] = it[k]
                 last = old["history"][-1]["price"] if old.get("history") else None
                 if it["price"] is not None and it["price"] != last:
                     old.setdefault("history", []).append({"date": today(), "price": it["price"]})
-                    if last is not None and it["price"] < last and not first_run:
+                    if last is not None and it["price"] < last and not silent:
                         alerts.append((old, "DROP"))
 
     # réconciliation : maillots connus mais absents ce run -> plus dispo (historique)
@@ -473,7 +478,7 @@ def main():
             st["last_checked"] = today(); st["url"] = url
             if sig != st.get("sig"):
                 st["sig"] = sig; st["count"] = count; st["last_change"] = today()
-                if not first_run: page_alerts.append((name, url))
+                if not silent: page_alerts.append((name, url))
 
     data["updated"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     save_json(DATA_PATH, data)

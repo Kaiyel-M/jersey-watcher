@@ -3,7 +3,12 @@ name: jersey-watcher
 on:
   schedule:
     - cron: "*/20 * * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      silent_backfill:
+        description: "Indexer sans envoyer d'alertes (re-scan élargi)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -25,6 +30,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          SILENT_BACKFILL: ${{ inputs.silent_backfill }}
         run: python watch.py
       - name: Persist data + page
         run: |
