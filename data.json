@@ -24117,9 +24117,36 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:10543120777503": {
+      "id": "The Soccer Archive:10543120777503",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2021-22 THIRD SHIRT - RONALDO 7 - KIDS - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2021-22-third-shirt-ronaldo-7-kids-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSMRONALDO.png?v=1783947889",
+      "price": 40.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "history": [
+        {
+          "date": "2026-07-13",
+          "price": 40.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-13 11:01",
+  "updated": "2026-07-13 13:24",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24130,8 +24157,8 @@
       "last_checked": "2026-07-13"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "607c75637817392a96fa4a0924366f1fd00af410",
-      "count": 25,
+      "sig": "d01a9c0443a9d3229c1696b44c78f2cbe09367c8",
+      "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-13",
@@ -24170,7 +24197,7 @@
       "last_checked": "2026-07-13"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "487928967c596a09d00eca1e12a0283428750221",
+      "sig": "2b03b8788de820b118dcb29161f5c9f25f2e7c1d",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
