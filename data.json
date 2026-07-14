@@ -24144,9 +24144,36 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:10527763923231": {
+      "id": "The Soccer Archive:10527763923231",
+      "source": "The Soccer Archive",
+      "title": "JUVENTUS 2018-19 HOME SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/juventus-2018-19-home-shirt-ronaldo-7-8-11",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/2XLRONALDO_f4facd5a-321c-46c7-a882-d673922aab68.png?v=1751379416",
+      "price": 100.0,
+      "currency": "$",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "history": [
+        {
+          "date": "2026-07-14",
+          "price": 100.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-14 08:41",
+  "updated": "2026-07-14 10:23",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24157,8 +24184,8 @@
       "last_checked": "2026-07-14"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "7b12853aa7a484ebb088e126dbb682d05ef17226",
-      "count": 23,
+      "sig": "550704aab7adeb98572af1218edb87b4d79ccb75",
+      "count": 22,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-14",
