@@ -24180,7 +24180,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/PORTUGAL_2014-16_AWAY_SHIRT_-_RONALDO_7.png?v=1784026127",
       "price": 160.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Portugal",
       "year": 2014,
       "home_away": "Extérieur",
@@ -24190,7 +24190,7 @@
       "tier": "B",
       "desc": "Portugal · 2014 · Extérieur.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "history": [
         {
           "date": "2026-07-14",
@@ -24227,7 +24227,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-15 09:46",
+  "updated": "2026-07-15 11:19",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
