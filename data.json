@@ -24225,9 +24225,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16226982691151": {
+      "id": "Authentic Football Club:16226982691151",
+      "source": "Authentic Football Club",
+      "title": "2020-21 JUVENTUS HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2020-21-juventus-home-shirt-ronaldo-7-m-8",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9F0361FB-DAFE-48AD-B5DE-10F91D9BE81A.jpg?v=1783846071",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2020,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2020 · Domicile.",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "history": [
+        {
+          "date": "2026-07-15",
+          "price": 99.95
+        }
+      ],
+      "good_deal": true
+    },
+    "Authentic Football Club:16197837488463": {
+      "id": "Authentic Football Club:16197837488463",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-m-6",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/33D0BF19-3B8E-4D32-8976-9E324AAFEA87.jpg?v=1783844143",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "history": [
+        {
+          "date": "2026-07-15",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16197835522383": {
+      "id": "Authentic Football Club:16197835522383",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED THIRD SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-third-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/D8D92AD2-FC73-4A8A-B376-6671E563D9A4.jpg?v=1783844146",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "history": [
+        {
+          "date": "2026-07-15",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16101377409359": {
+      "id": "Authentic Football Club:16101377409359",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-ronaldo-7-l-8",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/4630CC45-8561-4507-97BF-76AE123657CA.jpg?v=1783846072",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "history": [
+        {
+          "date": "2026-07-15",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-15 16:08",
+  "updated": "2026-07-15 17:40",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24238,8 +24346,8 @@
       "last_checked": "2026-07-15"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "286629a01b8c5a943b32584c6e9b4b196a176db6",
-      "count": 27,
+      "sig": "5a4c7ae8a794c12f27daf40224fdbd584807806e",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-15",
