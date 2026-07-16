@@ -24360,9 +24360,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16002140864894": {
+      "id": "Cult Kits:16002140864894",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-cristiano-ronaldo-7-home-shirt-m-adidas-m9a436ed",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0013_408180c5-443a-4955-bb05-c35fc56c1180.jpg?v=1784211318",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "history": [
+        {
+          "date": "2026-07-16",
+          "price": 124.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-16 16:09",
+  "updated": "2026-07-16 17:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
