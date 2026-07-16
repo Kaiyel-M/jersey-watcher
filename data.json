@@ -24126,7 +24126,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSMRONALDO.png?v=1783947889",
       "price": 40.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Third",
@@ -24153,7 +24153,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/2XLRONALDO_f4facd5a-321c-46c7-a882-d673922aab68.png?v=1751379416",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -24207,7 +24207,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24342,7 +24342,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSXLRONALDOPL.png?v=1784195500",
       "price": 120.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -24362,7 +24362,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-16 11:20",
+  "updated": "2026-07-16 12:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24373,7 +24373,7 @@
       "last_checked": "2026-07-16"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "b7bffceeb421fa2dfa3138e0397cbcf16072c56d",
+      "sig": "036c5d2891a840828efb83e4a78bbae12640c9e0",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -24397,11 +24397,11 @@
       "last_checked": "2026-07-16"
     },
     "classic-shirts.com (CR7)": {
-      "sig": "a0ddbe60373e566612b68594d33091e58847a721",
-      "count": 293,
+      "sig": "8786c74cafd0b28a46d7a9e1ebf6e67c31df8955",
+      "count": 292,
       "url": "https://classic-shirts.com/search.php?text=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-12",
+      "last_change": "2026-07-16",
       "last_checked": "2026-07-16"
     },
     "Footuni Japan (CR7)": {
