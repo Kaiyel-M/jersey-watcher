@@ -24333,9 +24333,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10545521262879": {
+      "id": "The Soccer Archive:10545521262879",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2008-09 THIRD SHIRT - RONALDO 7 - KIDS - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2008-09-third-shirt-ronaldo-7-kids-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSXLRONALDOPL.png?v=1784195500",
+      "price": 120.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 98,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "history": [
+        {
+          "date": "2026-07-16",
+          "price": 120.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-16 09:30",
+  "updated": "2026-07-16 11:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
