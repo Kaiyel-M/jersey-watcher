@@ -24342,7 +24342,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSXLRONALDOPL.png?v=1784195500",
       "price": 120.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -24387,9 +24387,90 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16003007480190": {
+      "id": "Cult Kits:16003007480190",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-s-adidas-3of4xkh7",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0043_4508b365-ce19-426c-9103-69bd5b93bdbe.jpg?v=1784291393",
+      "price": 89.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "history": [
+        {
+          "date": "2026-07-17",
+          "price": 89.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16003005317502": {
+      "id": "Cult Kits:16003005317502",
+      "source": "Cult Kits",
+      "title": "2012/13 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-home-shirt-l-adidas-ve191xxx",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0020_4fabd181-ab81-46ee-80d8-cb90b7486cb3.jpg?v=1784290818",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2012,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2012 · Domicile.",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "history": [
+        {
+          "date": "2026-07-17",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16003005186430": {
+      "id": "Cult Kits:16003005186430",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Away Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-away-shirt-m-adidas-ubj5gksp",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0018_01995067-92a4-4d59-8d87-7bf15726d7d9.jpg?v=1784290785",
+      "price": 249.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Extérieur.",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "history": [
+        {
+          "date": "2026-07-17",
+          "price": 249.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-17 16:44",
+  "updated": "2026-07-17 17:56",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24400,8 +24481,8 @@
       "last_checked": "2026-07-17"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "2d549f60fe8bb3bafe2ab33b7b9bbbde9ba417ef",
-      "count": 27,
+      "sig": "c62c78d06e65dc0075fd83831473eb5030ecb3c9",
+      "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-17",
