@@ -24389,7 +24389,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-17 11:00",
+  "updated": "2026-07-17 12:06",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24400,7 +24400,7 @@
       "last_checked": "2026-07-17"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "297ac6794b091a2e58670856f879772c419ea251",
+      "sig": "2ce76bf672c90fbff52885a4a4b03effaa853eae",
       "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -24440,11 +24440,11 @@
       "last_checked": "2026-07-17"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "9d0e65f6c81ad1b0b91f5b191774b62a4717b543",
+      "sig": "b52a65b068dde3a257038a7310b2e72d5dc92d2b",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-16",
+      "last_change": "2026-07-17",
       "last_checked": "2026-07-17"
     }
   }
