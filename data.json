@@ -24126,7 +24126,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSMRONALDO.png?v=1783947889",
       "price": 40.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Third",
@@ -24136,7 +24136,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Third.",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "history": [
         {
           "date": "2026-07-13",
@@ -24153,7 +24153,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/2XLRONALDO_f4facd5a-321c-46c7-a882-d673922aab68.png?v=1751379416",
       "price": 100.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -24163,7 +24163,7 @@
       "tier": "B",
       "desc": "Juventus · 2018 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "history": [
         {
           "date": "2026-07-14",
@@ -24207,7 +24207,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24217,7 +24217,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "history": [
         {
           "date": "2026-07-14",
@@ -24342,7 +24342,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSXLRONALDOPL.png?v=1784195500",
       "price": 120.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -24352,7 +24352,7 @@
       "tier": "S",
       "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "history": [
         {
           "date": "2026-07-16",
@@ -24389,7 +24389,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-17 12:06",
+  "updated": "2026-07-17 14:05",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24400,8 +24400,8 @@
       "last_checked": "2026-07-17"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "2ce76bf672c90fbff52885a4a4b03effaa853eae",
-      "count": 26,
+      "sig": "43be08adfe2c319bd64a8f8fdc34c1277ac560c8",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-17",
@@ -24440,7 +24440,7 @@
       "last_checked": "2026-07-17"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "b52a65b068dde3a257038a7310b2e72d5dc92d2b",
+      "sig": "9d0e65f6c81ad1b0b91f5b191774b62a4717b543",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
