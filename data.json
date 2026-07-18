@@ -24423,7 +24423,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-home-shirt-l-adidas-cult-kits-4315230.jpg?v=1784343807",
       "price": 149.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Domicile",
@@ -24470,7 +24470,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-18 06:20",
+  "updated": "2026-07-18 08:13",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24481,11 +24481,11 @@
       "last_checked": "2026-07-18"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "c62c78d06e65dc0075fd83831473eb5030ecb3c9",
-      "count": 26,
+      "sig": "1575c3668dc6b453dcb1f3736423ec0274808ef5",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-17",
+      "last_change": "2026-07-18",
       "last_checked": "2026-07-18"
     },
     "Icons.com (CR7)": {
