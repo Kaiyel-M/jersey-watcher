@@ -19673,7 +19673,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/BAFCBFA7-539C-4E0D-A9A7-4E7271B6C915.jpg?v=1783505263",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -24470,7 +24470,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-19 11:48",
+  "updated": "2026-07-19 12:44",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24521,11 +24521,11 @@
       "last_checked": "2026-07-19"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "ed3668f08075e3a76aaa09f5b00b74f17a35fc7b",
+      "sig": "502f4ece49622fe31874e7167413f054e13d380f",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-18",
+      "last_change": "2026-07-19",
       "last_checked": "2026-07-19"
     }
   }
