@@ -24468,9 +24468,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16233520398671": {
+      "id": "Authentic Football Club:16233520398671",
+      "source": "Authentic Football Club",
+      "title": "2007-09 MANCHESTER UNITED HOME SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2007-09-manchester-united-home-shirt-ronaldo-7-xl-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/F89D1220-FBF7-4A8B-B2E3-F91FAE4F052F.jpg?v=1784116720",
+      "price": 279.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "history": [
+        {
+          "date": "2026-07-19",
+          "price": 279.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16206270693711": {
+      "id": "Authentic Football Club:16206270693711",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-third-shirt-ronaldo-7-m-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/84621864-037A-453C-856E-A03CF00D778C.jpg?v=1784118587",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "history": [
+        {
+          "date": "2026-07-19",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16206162821455": {
+      "id": "Authentic Football Club:16206162821455",
+      "source": "Authentic Football Club",
+      "title": "2007-09 MANCHESTER UNITED HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2007-09-manchester-united-home-shirt-ronaldo-7-m-3",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/458704AF-FE83-49EE-B3FE-AF6883A13D82.jpg?v=1784116720",
+      "price": 279.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "history": [
+        {
+          "date": "2026-07-19",
+          "price": 279.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16201929851215": {
+      "id": "Authentic Football Club:16201929851215",
+      "source": "Authentic Football Club",
+      "title": "2010-11 PORTUGAL HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2010-11-portugal-home-shirt-ronaldo-7-l-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/B32D4AEA-DAB2-4E5E-A158-FFC7839D825F.jpg?v=1784221475",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Portugal",
+      "year": 2010,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 66,
+      "tier": "B",
+      "desc": "Portugal · 2010 · Domicile.",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "history": [
+        {
+          "date": "2026-07-19",
+          "price": 129.95
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-19 12:44",
+  "updated": "2026-07-19 14:18",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
