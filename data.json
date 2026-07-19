@@ -20024,7 +20024,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/955C586C-D9F0-4844-8564-3D09489E0195.jpg?v=1782051198",
       "price": 99.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -24315,7 +24315,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/4630CC45-8561-4507-97BF-76AE123657CA.jpg?v=1783846072",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -24578,7 +24578,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-19 17:18",
+  "updated": "2026-07-19 18:10",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
