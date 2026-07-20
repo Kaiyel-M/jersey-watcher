@@ -24576,9 +24576,90 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16005211652478": {
+      "id": "Cult Kits:16005211652478",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-l-adidas-qyfkdnk7",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0028_d8ade81e-afb0-487d-81bd-dc15a120def0.jpg?v=1784554397",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "history": [
+        {
+          "date": "2026-07-20",
+          "price": 124.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16005211750782": {
+      "id": "Cult Kits:16005211750782",
+      "source": "Cult Kits",
+      "title": "2012/13 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-home-shirt-l-adidas-hd0hisr8",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0032_1ac2339f-71c1-410b-a80e-9d41d24d14fb.jpg?v=1784554310",
+      "price": 79.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2012,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2012 · Domicile.",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "history": [
+        {
+          "date": "2026-07-20",
+          "price": 79.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16005211914622": {
+      "id": "Cult Kits:16005211914622",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-xl-adidas-j5jnjx21",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0039_1767f3cd-f8db-4c5d-a221-d9871076c4d4.jpg?v=1784553963",
+      "price": 224.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2014 · Third.",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "history": [
+        {
+          "date": "2026-07-20",
+          "price": 224.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-20 16:19",
+  "updated": "2026-07-20 18:24",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
