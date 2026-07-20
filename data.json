@@ -18379,7 +18379,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2016-17RealMadridadidasThirdShirtRonaldo_7wtagsM.Boys.jpg?v=1783348580",
       "price": 98.0,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Real Madrid",
       "year": 2016,
       "home_away": "Third",
@@ -24578,7 +24578,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-20 07:50",
+  "updated": "2026-07-20 10:38",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24589,8 +24589,8 @@
       "last_checked": "2026-07-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "9bb7ec11c6cc3a12d8c960477b79ee5085daccb4",
-      "count": 28,
+      "sig": "9b6a61579ba35b293d45763e3ac0e46eb23cb04d",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-20",
