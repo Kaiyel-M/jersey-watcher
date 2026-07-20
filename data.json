@@ -18730,7 +18730,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -20375,7 +20375,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/012AAB58-C1E8-4FFC-90B0-32E30D1358C7.jpg?v=1779632984",
       "price": 279.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -24207,7 +24207,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24558,7 +24558,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/B32D4AEA-DAB2-4E5E-A158-FFC7839D825F.jpg?v=1784221475",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2010,
       "home_away": "Domicile",
@@ -24578,7 +24578,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-20 12:37",
+  "updated": "2026-07-20 14:53",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24589,7 +24589,7 @@
       "last_checked": "2026-07-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "605a8c85b09f93684e5e1408d9d2a07400249c11",
+      "sig": "809ba051bd51f00d38bfc59261c1941d24fbef5a",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
