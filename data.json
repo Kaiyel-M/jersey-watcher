@@ -20699,7 +20699,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0585/1312/9648/files/PXL_20260508_172043266.webp?v=1778421948",
       "price": 109.0,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Domicile",
@@ -24659,7 +24659,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-20 20:11",
+  "updated": "2026-07-20 21:34",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
