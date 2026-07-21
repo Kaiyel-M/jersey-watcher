@@ -18730,7 +18730,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 100.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -18740,7 +18740,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-07-21",
       "history": [
         {
           "date": "2026-07-12",
@@ -24659,7 +24659,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-21 13:05",
+  "updated": "2026-07-21 15:19",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
