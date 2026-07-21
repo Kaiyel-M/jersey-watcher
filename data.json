@@ -19727,7 +19727,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/15444BA9-5E5F-454E-94B8-D75FE2CA352B.jpg?v=1782049409",
       "price": 149.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Extérieur",
@@ -20294,7 +20294,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1F70E1A5-20C7-4896-A581-4282A2E05932.jpg?v=1779632475",
       "price": 279.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -24657,9 +24657,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16006402539902": {
+      "id": "Cult Kits:16006402539902",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-m-adidas-z2jp2qi1",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0038_9e829cd1-67bf-4709-ab76-9a62ea80e809.jpg?v=1784631365",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "history": [
+        {
+          "date": "2026-07-21",
+          "price": 99.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16006402310526": {
+      "id": "Cult Kits:16006402310526",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-m-adidas-qe2j8xj5",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0028_7a6be395-29a8-4081-ab5b-282d2b323a0d.jpg?v=1784631713",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "history": [
+        {
+          "date": "2026-07-21",
+          "price": 124.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-21 16:45",
+  "updated": "2026-07-21 18:07",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
