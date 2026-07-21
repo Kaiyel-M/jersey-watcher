@@ -3108,7 +3108,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-away-shirt-s-adidas-cult-kits-5444152.jpg?v=1781687298",
       "price": 59.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -24582,7 +24582,7 @@
       "source": "Cult Kits",
       "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
       "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-l-adidas-qyfkdnk7",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0028_d8ade81e-afb0-487d-81bd-dc15a120def0.jpg?v=1784554397",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201617-real-madrid-ronaldo-7-home-shirt-l-adidas-cult-kits-7921313.jpg?v=1784630534",
       "price": 124.99,
       "currency": "£",
       "available": true,
@@ -24609,7 +24609,7 @@
       "source": "Cult Kits",
       "title": "2012/13 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
       "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-home-shirt-l-adidas-hd0hisr8",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0032_1ac2339f-71c1-410b-a80e-9d41d24d14fb.jpg?v=1784554310",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-home-shirt-l-adidas-cult-kits-9150605.jpg?v=1784630536",
       "price": 79.99,
       "currency": "£",
       "available": true,
@@ -24636,7 +24636,7 @@
       "source": "Cult Kits",
       "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (XL) Adidas",
       "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-xl-adidas-j5jnjx21",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0039_1767f3cd-f8db-4c5d-a221-d9871076c4d4.jpg?v=1784553963",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201415-real-madrid-ronaldo-7-third-shirt-xl-adidas-cult-kits-5603347.jpg?v=1784630534",
       "price": 224.99,
       "currency": "£",
       "available": false,
@@ -24659,7 +24659,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-21 09:42",
+  "updated": "2026-07-21 11:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24670,7 +24670,7 @@
       "last_checked": "2026-07-21"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "a55efb4db2856d8e62c3d5a879390a5666607b48",
+      "sig": "ed9420c0a5430c057a05de1c078feda6e45a6b39",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
