@@ -24180,7 +24180,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/PORTUGAL_2014-16_AWAY_SHIRT_-_RONALDO_7.png?v=1784026127",
       "price": 160.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2014,
       "home_away": "Extérieur",
@@ -24956,7 +24956,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-07-23 07:13",
+  "updated": "2026-07-23 09:38",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24967,8 +24967,8 @@
       "last_checked": "2026-07-23"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "ed2f9fb5306a872dac22f713441275ee215d1ae6",
-      "count": 26,
+      "sig": "2633f0e4ce6e53268920e551e7c46bed118a2181",
+      "count": 25,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-23",
