@@ -24180,7 +24180,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/PORTUGAL_2014-16_AWAY_SHIRT_-_RONALDO_7.png?v=1784026127",
       "price": 160.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2014,
       "home_away": "Extérieur",
@@ -25010,7 +25010,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-24 11:21",
+  "updated": "2026-07-24 12:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25029,7 +25029,7 @@
       "last_checked": "2026-07-24"
     },
     "Icons.com (CR7)": {
-      "sig": "deaed12e9898e703a82e4a11d779c32cfab97658",
+      "sig": "c8c6810f8d187eb350b8797edf756528acf10fa8",
       "count": 172,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
