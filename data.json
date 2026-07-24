@@ -25010,7 +25010,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-24 14:32",
+  "updated": "2026-07-24 17:54",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25037,11 +25037,11 @@
       "last_checked": "2026-07-24"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "80699933feeed9392f860d3b6f687e2e6a98856d",
-      "count": 133,
+      "sig": "46f88d6cf5e2a104eba78ef670981e7e0c47e37f",
+      "count": 135,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-15",
+      "last_change": "2026-07-24",
       "last_checked": "2026-07-24"
     },
     "classic-shirts.com (CR7)": {
@@ -25061,11 +25061,11 @@
       "last_checked": "2026-07-24"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "502f4ece49622fe31874e7167413f054e13d380f",
-      "count": 0,
+      "sig": "67a74b1febe81ad434bdcbd4abff12a7802207df",
+      "count": 6,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-21",
+      "last_change": "2026-07-24",
       "last_checked": "2026-07-24"
     }
   }
