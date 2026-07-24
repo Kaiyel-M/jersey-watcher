@@ -18271,7 +18271,7 @@
       "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2021-22-ronaldo-7-manchester-united-adidas-teamgeist-football-shirt-m-1239228118.png?v=1779196515",
       "price": 64.99,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "?",
@@ -19808,7 +19808,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/DDD5AB43-9DEF-49BE-A5F6-9EDFA966680D.jpg?v=1783198948",
       "price": 99.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -19862,7 +19862,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/DAB1D6EE-FB41-4144-AE0E-2E34BE88A333.jpg?v=1783424706",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -24981,9 +24981,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Football Finery:15037109469560": {
+      "id": "Football Finery:15037109469560",
+      "source": "Football Finery",
+      "title": "2014/15 Real Madrid Away Football Shirt (M) Adidas #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2014-15-real-madrid-away-football-shirt-m-adidas-7-ronaldo-ff306674",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_f939ae83-041e-4eeb-a23c-265a42683a70.jpg?v=1783081150",
+      "price": 80.0,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "history": [
+        {
+          "date": "2026-07-24",
+          "price": 80.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-24 07:15",
+  "updated": "2026-07-24 09:36",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -24994,8 +25021,8 @@
       "last_checked": "2026-07-24"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "899d724525aae7b47619283c43babe82b81d930d",
-      "count": 27,
+      "sig": "d2e88102ebd3f1e7900d39a3348296280fa4f20e",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-24",
