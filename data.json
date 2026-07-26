@@ -24261,7 +24261,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/33D0BF19-3B8E-4D32-8976-9E324AAFEA87.jpg?v=1783844143",
       "price": 99.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -25035,9 +25035,63 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16235029659983": {
+      "id": "Authentic Football Club:16235029659983",
+      "source": "Authentic Football Club",
+      "title": "2003-05 MANCHESTER UNITED THIRD SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2003-05-manchester-united-third-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6EF79306-FF67-4EEF-9EC1-9195E1C1D23E.jpg?v=1784744497",
+      "price": 349.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2003,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 88,
+      "tier": "S",
+      "desc": "Manchester United · 2003 · Third.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "history": [
+        {
+          "date": "2026-07-26",
+          "price": 349.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16235003543887": {
+      "id": "Authentic Football Club:16235003543887",
+      "source": "Authentic Football Club",
+      "title": "2016-17 REAL MADRID THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2016-17-real-madrid-third-shirt-ronaldo-7-m-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1DDC4A8E-7D7C-4F23-AFB5-4F8815A254E6.jpg?v=1784744633",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2016 · Third.",
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "history": [
+        {
+          "date": "2026-07-26",
+          "price": 109.95
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-26 10:44",
+  "updated": "2026-07-26 11:53",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
