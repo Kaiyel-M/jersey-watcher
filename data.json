@@ -2299,7 +2299,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/0057.jpg?v=1782832334",
       "price": 164.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -25251,9 +25251,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:9714618073375": {
+      "id": "The Soccer Archive:9714618073375",
+      "source": "The Soccer Archive",
+      "title": "JUVENTUS 2019-20 HOME SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/juventus-2019-20-home-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_bf24b0a2-5dcb-474e-8b6a-6c51a1a72324.png?v=1744634618",
+      "price": 130.0,
+      "currency": "$",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "history": [
+        {
+          "date": "2026-07-28",
+          "price": 130.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-28 11:55",
+  "updated": "2026-07-28 13:25",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
