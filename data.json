@@ -244,7 +244,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Framed-Ronaldo-Manchester-United-Signed-Shirt-Home.jpg?v=1783025419",
       "price": 1499.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": null,
       "home_away": "Domicile",
@@ -1119,7 +1119,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Ronaldo-Signed-Manchester-United-Shirt.jpg?v=1783025371",
       "price": 1399.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -1146,7 +1146,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Ronaldo-Signed-Framed-Shirt.jpg?v=1783025419",
       "price": 1479.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -18676,7 +18676,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
       "price": 160.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -18686,7 +18686,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "history": [
         {
           "date": "2026-07-12",
@@ -24207,7 +24207,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24217,7 +24217,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "history": [
         {
           "date": "2026-07-14",
@@ -25260,7 +25260,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_bf24b0a2-5dcb-474e-8b6a-6c51a1a72324.png?v=1744634618",
       "price": 130.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Domicile",
@@ -25270,7 +25270,7 @@
       "tier": "B",
       "desc": "Juventus · 2019 · Domicile.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "history": [
         {
           "date": "2026-07-28",
@@ -25314,7 +25314,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/50_3c8cd65f-a220-406a-80f3-76da68b4ce2e.png?v=1754405290",
       "price": 100.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -25324,7 +25324,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-07-30",
       "history": [
         {
           "date": "2026-07-29",
@@ -25388,7 +25388,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-30 11:45",
+  "updated": "2026-07-30 13:21",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
