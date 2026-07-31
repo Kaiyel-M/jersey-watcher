@@ -351,7 +351,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Ronaldo-Signed-Manchester-United-Shirt-Framed-2022.jpg?v=1768136405",
       "price": 899.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": null,
       "home_away": "Domicile",
@@ -536,7 +536,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Ronaldo-Signed-Shirt-Manchester-United-2022-23.jpg?v=1768136143",
       "price": 799.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -1173,7 +1173,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Signed-Cristiano-Ronaldo-Manchester-United-Shirt-Framed.jpg?v=1768136243",
       "price": 879.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": null,
       "home_away": "Domicile",
@@ -1200,7 +1200,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Framed-Signed-Ronaldo-Purple-Real-Madrid-Shirt.jpg?v=1749826434",
       "price": 1199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Extérieur",
@@ -25504,7 +25504,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-07-31 22:48",
+  "updated": "2026-07-31 23:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25555,7 +25555,7 @@
       "last_checked": "2026-07-31"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "08a11da3f584764add01477858041c0c25e93a4a",
+      "sig": "eb3734be605d851efbbbcffce5a03cededc6cf79",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
