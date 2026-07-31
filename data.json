@@ -25160,7 +25160,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201617-real-madrid-ronaldo-7-home-shirt-l-adidas-cult-kits-3936157.jpg?v=1785211223",
       "price": 99.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2016,
       "home_away": "Domicile",
@@ -25448,9 +25448,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16018223137150": {
+      "id": "Cult Kits:16018223137150",
+      "source": "Cult Kits",
+      "title": "2008/09 Manchester United Ronaldo #7 Away Shirt (S) Nike",
+      "url": "https://cultkits.com/products/2008-09-manchester-united-ronaldo-7-away-shirt-s-nike-n6q16jyi",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0014_81cd05e7-3d9a-414f-bbdc-3a347b869534.jpg?v=1785420400",
+      "price": 69.99,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Extérieur. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-07-31",
+          "price": 69.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16018223104382": {
+      "id": "Cult Kits:16018223104382",
+      "source": "Cult Kits",
+      "title": "2011/12 Real Madrid Ronaldo #7 C/L Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2011-12-real-madrid-ronaldo-7-c-l-home-shirt-m-adidas-eliejm29",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0012_2a625450-3a13-427d-bd21-d96480f51b44.jpg?v=1785420432",
+      "price": 69.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2011,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2011 · Domicile.",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-07-31",
+          "price": 69.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-07-31 16:58",
+  "updated": "2026-07-31 18:17",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
