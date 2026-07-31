@@ -24799,7 +24799,7 @@
       "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 M",
       "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-m-7",
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/B271B955-74D2-41AD-90B9-33177881FF3A.jpg?v=1784544359",
-      "price": 109.95,
+      "price": 99.95,
       "currency": "€",
       "available": false,
       "club": "Manchester United",
@@ -24816,6 +24816,10 @@
         {
           "date": "2026-07-22",
           "price": 109.95
+        },
+        {
+          "date": "2026-07-31",
+          "price": 99.95
         }
       ],
       "good_deal": false
@@ -24880,7 +24884,7 @@
       "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 L",
       "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-l-4",
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1495BC4A-870B-45DD-B24F-37586F674584.jpg?v=1784458338",
-      "price": 109.95,
+      "price": 99.95,
       "currency": "€",
       "available": false,
       "club": "Manchester United",
@@ -24897,6 +24901,10 @@
         {
           "date": "2026-07-22",
           "price": 109.95
+        },
+        {
+          "date": "2026-07-31",
+          "price": 99.95
         }
       ],
       "good_deal": false
@@ -25386,9 +25394,63 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:10077615587615": {
+      "id": "The Soccer Archive:10077615587615",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2021-22 HOME SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2021-22-home-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_356a432c-252a-4861-a810-967b5e3090d0.jpg?v=1744633207",
+      "price": 80.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2021 · Domicile.",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-07-31",
+          "price": 80.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Finery:15030053929336": {
+      "id": "Football Finery:15030053929336",
+      "source": "Football Finery",
+      "title": "2004/06 Manchester United Home Football Shirt (XL) Nike #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2004-06-manchester-united-home-football-shirt-xl-nike-7-ronaldo-ff306385",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_0c2bad56-b383-40e6-8e2d-c887208c2bce.jpg?v=1783592605",
+      "price": 120.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "history": [
+        {
+          "date": "2026-07-31",
+          "price": 120.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-07-31 07:44",
+  "updated": "2026-07-31 10:26",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25399,19 +25461,19 @@
       "last_checked": "2026-07-31"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "bdbbd3a4da87dba1b3d29bef56513f503a1595d4",
-      "count": 26,
+      "sig": "43b19ecb90ab1a6970e77112bcab264325396dc0",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-07-31",
       "last_checked": "2026-07-31"
     },
     "Icons.com (CR7)": {
-      "sig": "c8c6810f8d187eb350b8797edf756528acf10fa8",
-      "count": 172,
+      "sig": "640626d1d2562200ae9fe756a93647e35ddedddb",
+      "count": 173,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-24",
+      "last_change": "2026-07-31",
       "last_checked": "2026-07-31"
     },
     "A1 Sporting Memorabilia (CR7)": {
@@ -25439,11 +25501,11 @@
       "last_checked": "2026-07-31"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "15ed6e228a78a6487f1c95486b71315ace4c5ffa",
+      "sig": "1b6c96db690cb3df2cf58a201944cc60c190db53",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-07-30",
+      "last_change": "2026-07-31",
       "last_checked": "2026-07-31"
     }
   }
