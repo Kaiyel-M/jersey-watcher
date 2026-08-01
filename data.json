@@ -25502,9 +25502,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16019092537726": {
+      "id": "Cult Kits:16019092537726",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 Away Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-away-shirt-xl-adidas-kn84w5dz",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0012_fc9dab84-b52c-42ea-8b9a-31d9e24868df.jpg?v=1785502861",
+      "price": 149.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "history": [
+        {
+          "date": "2026-08-01",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-01 15:50",
+  "updated": "2026-08-01 16:44",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25515,8 +25542,8 @@
       "last_checked": "2026-08-01"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "de0aa716c1b41f8020dea610b927e56b0060c0c0",
-      "count": 27,
+      "sig": "4d2a2f5e5097a9dbb6b6b182ade9e86d1340afa8",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-01",
