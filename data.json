@@ -25529,9 +25529,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16240470950223": {
+      "id": "Authentic Football Club:16240470950223",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED AWAY SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-away-shirt-ronaldo-7-xl-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/73B07059-1DC4-4A88-AF12-E747F494AFCB.jpg?v=1785261879",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 62,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Extérieur.",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16236463882575": {
+      "id": "Authentic Football Club:16236463882575",
+      "source": "Authentic Football Club",
+      "title": "2014-15 REAL MADRID AWAY SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2014-15-real-madrid-away-shirt-ronaldo-7-l-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/D2C6AB28-E16B-4519-9F5D-2FF809FA399A.jpg?v=1785267365",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16236387926351": {
+      "id": "Authentic Football Club:16236387926351",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED THIRD SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-third-shirt-ronaldo-7-l",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/E57083B1-2E12-4C48-BEDB-1E61AC2D0F72.jpg?v=1785316308",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16236344410447": {
+      "id": "Authentic Football Club:16236344410447",
+      "source": "Authentic Football Club",
+      "title": "2010-11 REAL MADRID HOME SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2010-11-real-madrid-home-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/BFF991F2-C5B0-456F-B1B3-2459001B054E.jpg?v=1785266851",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2010,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2010 · Domicile.",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "history": [
+        {
+          "date": "2026-08-02",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-02 10:27",
+  "updated": "2026-08-02 11:46",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
