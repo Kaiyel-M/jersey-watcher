@@ -25457,7 +25457,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200809-manchester-united-ronaldo-7-away-shirt-s-nike-cult-kits-4763755.jpg?v=1785612334",
       "price": 69.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -25637,9 +25637,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Classic11:8829668262106": {
+      "id": "Classic11:8829668262106",
+      "source": "Classic11",
+      "title": "2015/16 Real Madrid Home La Liga Football Shirt Ronaldo #7 (S)",
+      "url": "https://classic11.com/products/2015-16-real-madrid-home-la-liga-football-shirt-ronaldo-7-s-1",
+      "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/20260727_163134.jpg?v=1785741340",
+      "price": 39.95,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Domicile.",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "history": [
+        {
+          "date": "2026-08-03",
+          "price": 39.95
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-08-03 04:49",
+  "updated": "2026-08-03 08:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
