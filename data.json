@@ -18190,7 +18190,7 @@
       "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2003-04-ronaldo-7-manchester-united-vintage-nike-third-football-shirt-s-1220490558.png?v=1770798346",
       "price": 149.99,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2003,
       "home_away": "Third",
@@ -25745,9 +25745,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16025823445374": {
+      "id": "Cult Kits:16025823445374",
+      "source": "Cult Kits",
+      "title": "2020/21 Juventus Ronaldo #7 Away Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2020-21-juventus-ronaldo-7-away-shirt-m-adidas-juva42994",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0011_e54d4a57-2cb3-4cae-80e8-f76df79b45b1.jpg?v=1785762278",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2020,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 69,
+      "tier": "B",
+      "desc": "Juventus · 2020 · Extérieur.",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "history": [
+        {
+          "date": "2026-08-03",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-03 16:43",
+  "updated": "2026-08-03 18:31",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
