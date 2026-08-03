@@ -25691,9 +25691,63 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:9724252651807": {
+      "id": "The Soccer Archive:9724252651807",
+      "source": "The Soccer Archive",
+      "title": "JUVENTUS 2020-21 AWAY SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/juventus-2020-21-away-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_9de86b3a-a28d-4e6f-bd01-ebba8b00945a.png?v=1749118508",
+      "price": 100.0,
+      "currency": "$",
+      "available": true,
+      "club": "Juventus",
+      "year": 2020,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 69,
+      "tier": "B",
+      "desc": "Juventus · 2020 · Extérieur.",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "history": [
+        {
+          "date": "2026-08-03",
+          "price": 100.0
+        }
+      ],
+      "good_deal": true
+    },
+    "The Soccer Archive:10559654068511": {
+      "id": "The Soccer Archive:10559654068511",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2004-06 HOME SHIRT - RONALDO 7 - 2XL",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2004-06-home-shirt-ronaldo-7",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/12_d1f7fd2f-5d99-4022-ba1d-92f6915ce258.png?v=1785759680",
+      "price": 140.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "history": [
+        {
+          "date": "2026-08-03",
+          "price": 140.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-03 14:08",
+  "updated": "2026-08-03 16:43",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25704,7 +25758,7 @@
       "last_checked": "2026-08-03"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "8eda051581ef5e9d92290d198c8b197b0973fb0e",
+      "sig": "2d760b97a5c84405579eb4d6e193359d54e953b7",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -25744,7 +25798,7 @@
       "last_checked": "2026-08-03"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "a78dd61f34a0710d38933b4ca60a885f6cfc223d",
+      "sig": "b4b92dc407965975e508c54e55fb1dd050060594",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
