@@ -18676,7 +18676,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
       "price": 160.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -22370,9 +22370,9 @@
       "title": "2021-22 Manchester United adidas Home Shirt Ronaldo #7 L",
       "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-home-shirt-ronaldo-7-l",
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2021-22-manchester-united-adid-66587-1.jpg?v=1730199112",
-      "price": 80.0,
+      "price": 98.0,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -22387,6 +22387,10 @@
         {
           "date": "2026-07-12",
           "price": 80.0
+        },
+        {
+          "date": "2026-08-04",
+          "price": 98.0
         }
       ],
       "good_deal": false
@@ -25774,7 +25778,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-04 10:01",
+  "updated": "2026-08-04 12:03",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25785,11 +25789,11 @@
       "last_checked": "2026-08-04"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "2d760b97a5c84405579eb4d6e193359d54e953b7",
-      "count": 29,
+      "sig": "3889d7a4b09671b3327d7337ff3871336d336d79",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-03",
+      "last_change": "2026-08-04",
       "last_checked": "2026-08-04"
     },
     "Icons.com (CR7)": {
