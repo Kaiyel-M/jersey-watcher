@@ -25776,9 +25776,35 @@
         }
       ],
       "good_deal": false
+    },
+    "Classic11:9417456156890": {
+      "id": "Classic11:9417456156890",
+      "source": "Classic11",
+      "title": "2023/24 Sporting Lisbon 3rd Europa League Football Shirt Ronaldo #7 (XXL)",
+      "url": "https://classic11.com/products/2023-24-sporting-lisbon-3rd-kit-europa-league-football-shirt-ronaldo-7-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260730_151355.jpg?v=1785926693",
+      "price": 79.95,
+      "currency": "£",
+      "available": true,
+      "club": "Sporting CP",
+      "year": 2023,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 100,
+      "tier": "S",
+      "desc": "Sporting CP · 2023 · Third.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 79.95
+        }
+      ]
     }
   },
-  "updated": "2026-08-05 09:08",
+  "updated": "2026-08-05 11:31",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25789,8 +25815,8 @@
       "last_checked": "2026-08-05"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "44113a99c96d86208f9a2ab1742a4162a9b227e8",
-      "count": 29,
+      "sig": "6d2bfff860beff629398cd80a3a095433f7760d9",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-05",
