@@ -25802,9 +25802,171 @@
           "price": 79.95
         }
       ]
+    },
+    "Authentic Football Club:16243531219279": {
+      "id": "Authentic Football Club:16243531219279",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-third-shirt-ronaldo-7-m-3",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/438ED5CF-39DE-420A-8294-A979C7898DC1.jpg?v=1785617003",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2022 · Third.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16240462299471": {
+      "id": "Authentic Football Club:16240462299471",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-xl-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/90777452-C51D-491D-A365-F904562EA02C.jpg?v=1785614919",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16240444080463": {
+      "id": "Authentic Football Club:16240444080463",
+      "source": "Authentic Football Club",
+      "title": "2007-09 MANCHESTER UNITED HOME SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2007-09-manchester-united-home-shirt-ronaldo-7-xl-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/75ADD61A-3464-486C-BF32-1CC39AE99D84.jpg?v=1785617003",
+      "price": 239.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 239.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16237695992143": {
+      "id": "Authentic Football Club:16237695992143",
+      "source": "Authentic Football Club",
+      "title": "2019-20 JUVENTUS HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2019-20-juventus-home-shirt-ronaldo-7-l-7",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/CBDD7574-8220-45BA-A56A-E547E0590741.jpg?v=1785610212",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 109.95
+        }
+      ],
+      "good_deal": true
+    },
+    "Authentic Football Club:16236388155727": {
+      "id": "Authentic Football Club:16236388155727",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-third-shirt-ronaldo-7-m-3",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/A29BCF55-806B-4BA4-8E61-12D15E84CFF8.jpg?v=1785614919",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16231960936783": {
+      "id": "Authentic Football Club:16231960936783",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 XXL",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/4A9BB360-73C9-4C56-ACE9-7D88B864E961.jpg?v=1785612709",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "history": [
+        {
+          "date": "2026-08-05",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-05 15:29",
+  "updated": "2026-08-05 17:07",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
