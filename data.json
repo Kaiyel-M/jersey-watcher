@@ -20969,7 +20969,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/202021-portugal-away-football-shirt-2xl-nike-7-ronaldo-ff303463-2250131.png?v=1773472286",
       "price": 80.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2020,
       "home_away": "Extérieur",
@@ -25966,7 +25966,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-05 18:55",
+  "updated": "2026-08-05 20:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25977,8 +25977,8 @@
       "last_checked": "2026-08-05"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "ea54ea4fc713ead442c0c038d8617fd70ebbb54c",
-      "count": 26,
+      "sig": "5ee67384bae44f6643ea1672ca7da4ae3c10695b",
+      "count": 25,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-05",
