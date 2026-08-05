@@ -1333,7 +1333,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-manchester-united-ronaldo-7-away-shirt-xxxl-nike-cult-kits-7519658.jpg?v=1773202158",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -25966,7 +25966,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-05 17:07",
+  "updated": "2026-08-05 18:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -25977,8 +25977,8 @@
       "last_checked": "2026-08-05"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "27af07df14321fc0fdf86eb57fbc037e9a304bd6",
-      "count": 27,
+      "sig": "ea54ea4fc713ead442c0c038d8617fd70ebbb54c",
+      "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-05",
