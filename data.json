@@ -2731,7 +2731,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-home-shirt-s-adidas-cult-kits-5414833.jpg?v=1781687245",
       "price": 69.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Domicile",
@@ -18730,7 +18730,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -25966,7 +25966,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-06 09:27",
+  "updated": "2026-08-06 11:51",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
