@@ -25677,7 +25677,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/10_18b00ba9-f601-4fe7-89e2-3c8c805c6d53.png?v=1785750782",
       "price": 60.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -25687,7 +25687,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "history": [
         {
           "date": "2026-08-03",
@@ -25704,7 +25704,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_9de86b3a-a28d-4e6f-bd01-ebba8b00945a.png?v=1749118508",
       "price": 100.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Extérieur",
@@ -25714,7 +25714,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Extérieur.",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-06",
+      "last_seen": "2026-08-07",
       "history": [
         {
           "date": "2026-08-03",
@@ -26047,7 +26047,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-07 12:27",
+  "updated": "2026-08-07 13:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26058,8 +26058,8 @@
       "last_checked": "2026-08-07"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "98aefbfd9f693c89c1eca65093815b54c33a6217",
-      "count": 28,
+      "sig": "e55b753a82f1e9a63c74f1997bbf0a2ff20aa04a",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-07",
