@@ -26045,9 +26045,171 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16254643831119": {
+      "id": "Authentic Football Club:16254643831119",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-ronaldo-7-m-4",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/D027229A-D269-4390-AFEC-51E76DCC09C4.jpg?v=1786029300",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16254443028815": {
+      "id": "Authentic Football Club:16254443028815",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS AWAY SHIRT RONALDO #7 S",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-away-shirt-ronaldo-7-s",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/E8C232B3-10A2-4936-BB2B-52692951B511.jpg?v=1786029359",
+      "price": 109.95,
+      "currency": "€",
+      "available": false,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 69,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Extérieur.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16249833914703": {
+      "id": "Authentic Football Club:16249833914703",
+      "source": "Authentic Football Club",
+      "title": "2012-13 REAL MADRID AWAY SHIRT RONALDO #7 XXL",
+      "url": "https://authenticfootballclub.com/products/2012-13-real-madrid-away-shirt-ronaldo-7-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/37F24E3A-6359-4349-95DA-139EBBF07DA5.jpg?v=1786029393",
+      "price": 149.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2012,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2012 · Extérieur.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 149.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16249792266575": {
+      "id": "Authentic Football Club:16249792266575",
+      "source": "Authentic Football Club",
+      "title": "2014-15 REAL MADRID HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2014-15-real-madrid-home-shirt-ronaldo-7-m-4",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/293DF526-6AC0-428C-840A-EA9EFCB77617.jpg?v=1786029299",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Domicile.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16248083841359": {
+      "id": "Authentic Football Club:16248083841359",
+      "source": "Authentic Football Club",
+      "title": "2014-15 REAL MADRID AWAY SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2014-15-real-madrid-away-shirt-ronaldo-7-xl-3",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6783B454-10A1-4EF3-BBC1-FBB1607B4B19.jpg?v=1786029393",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16246759915855": {
+      "id": "Authentic Football Club:16246759915855",
+      "source": "Authentic Football Club",
+      "title": "2019-20 JUVENTUS THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2019-20-juventus-third-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/B645EB59-6EC5-4F11-9F9D-C919B3BC5B0B.jpg?v=1786029358",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 71,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Third.",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "history": [
+        {
+          "date": "2026-08-09",
+          "price": 109.95
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-08-09 10:01",
+  "updated": "2026-08-09 10:34",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
