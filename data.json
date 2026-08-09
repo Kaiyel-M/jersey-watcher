@@ -906,7 +906,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Ronaldo-2006-08-Manchester-United-Away-Shirt-White.jpg?v=1767820429",
       "price": 109.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Extérieur",
@@ -25407,7 +25407,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_356a432c-252a-4861-a810-967b5e3090d0.jpg?v=1744633207",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -25417,7 +25417,7 @@
       "tier": "C",
       "desc": "Manchester United · 2021 · Domicile.",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "history": [
         {
           "date": "2026-07-31",
@@ -26135,7 +26135,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/293DF526-6AC0-428C-840A-EA9EFCB77617.jpg?v=1786029299",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Domicile",
@@ -26209,7 +26209,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-09 13:34",
+  "updated": "2026-08-09 14:12",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26220,8 +26220,8 @@
       "last_checked": "2026-08-09"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "f132565a66d30e328ee63ddbc02d49d19d44ccaf",
-      "count": 26,
+      "sig": "b98b78a38780256a1af3c4c3168b5145ea0a26d2",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-09",
