@@ -25785,7 +25785,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260730_151355.jpg?v=1785926693",
       "price": 79.95,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Sporting CP",
       "year": 2023,
       "home_away": "Third",
@@ -26209,7 +26209,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-10 06:07",
+  "updated": "2026-08-10 08:06",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26220,11 +26220,11 @@
       "last_checked": "2026-08-10"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "b98b78a38780256a1af3c4c3168b5145ea0a26d2",
-      "count": 27,
+      "sig": "97b190a21320f3109d4b6a9f119df7a13601dcf7",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-09",
+      "last_change": "2026-08-10",
       "last_checked": "2026-08-10"
     },
     "Icons.com (CR7)": {
@@ -26260,11 +26260,11 @@
       "last_checked": "2026-08-10"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "60e14b6767890d65fff8d1332c934860ea9ebda2",
+      "sig": "5a9cbf7db48be68c144e07283137dc8aac57256c",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-07",
+      "last_change": "2026-08-10",
       "last_checked": "2026-08-10"
     }
   }
