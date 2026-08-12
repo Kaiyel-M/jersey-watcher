@@ -18703,7 +18703,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2006-07_HOME_SHIRT_-_RONALDO.jpg?v=1767018703",
       "price": 180.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Domicile",
@@ -18713,7 +18713,7 @@
       "tier": "A",
       "desc": "Manchester United · 2006 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-08-12",
       "history": [
         {
           "date": "2026-07-12",
@@ -26290,7 +26290,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-12 08:09",
+  "updated": "2026-08-12 09:33",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
