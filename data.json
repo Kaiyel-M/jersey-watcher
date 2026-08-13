@@ -18676,7 +18676,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
       "price": 160.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -25731,7 +25731,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/12_d1f7fd2f-5d99-4022-ba1d-92f6915ce258.png?v=1785759680",
       "price": 140.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -26398,7 +26398,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-13 10:50",
+  "updated": "2026-08-13 11:38",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26449,11 +26449,11 @@
       "last_checked": "2026-08-13"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "e2f1cf8af6157524be16edb7960d585cf3eb24a7",
+      "sig": "8fc962d205415c36b425282002ae3245f38e044c",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-10",
+      "last_change": "2026-08-13",
       "last_checked": "2026-08-13"
     }
   }
