@@ -24157,7 +24157,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/2XLRONALDO_f4facd5a-321c-46c7-a882-d673922aab68.png?v=1751379416",
       "price": 100.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -24167,7 +24167,7 @@
       "tier": "B",
       "desc": "Juventus · 2018 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-18",
+      "last_seen": "2026-08-13",
       "history": [
         {
           "date": "2026-07-14",
@@ -26398,7 +26398,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-13 07:02",
+  "updated": "2026-08-13 08:22",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
