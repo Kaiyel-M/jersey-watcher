@@ -26477,9 +26477,90 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16249805439311": {
+      "id": "Authentic Football Club:16249805439311",
+      "source": "Authentic Football Club",
+      "title": "2010-11 REAL MADRID HOME SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2010-11-real-madrid-home-shirt-ronaldo-7-xl-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/F441C6D4-D4A5-472F-97CA-AD461A296B4D.jpg?v=1786790820",
+      "price": 289.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2010,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2010 · Domicile.",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "history": [
+        {
+          "date": "2026-08-16",
+          "price": 289.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16248121229647": {
+      "id": "Authentic Football Club:16248121229647",
+      "source": "Authentic Football Club",
+      "title": "2013-14 REAL MADRID HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2013-14-real-madrid-home-shirt-ronaldo-7-m-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/80B4CC87-8B37-4087-A203-2D2E7BCC34DB.jpg?v=1786791322",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2013,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2013 · Domicile. La Décima.",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "history": [
+        {
+          "date": "2026-08-16",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16231945437519": {
+      "id": "Authentic Football Club:16231945437519",
+      "source": "Authentic Football Club",
+      "title": "2015-16 REAL MADRID AWAY SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2015-16-real-madrid-away-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9225DC96-3A20-475B-BF46-21C81C1948F2.jpg?v=1786792608",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Extérieur.",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "history": [
+        {
+          "date": "2026-08-16",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-16 10:41",
+  "updated": "2026-08-16 10:57",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
