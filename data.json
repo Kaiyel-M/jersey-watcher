@@ -1360,7 +1360,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-manchester-united-ronaldo-7-away-shirt-xxl-nike-cult-kits-7309939.jpg?v=1773202502",
       "price": 149.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -26560,7 +26560,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-17 08:02",
+  "updated": "2026-08-17 09:02",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26611,7 +26611,7 @@
       "last_checked": "2026-08-17"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "28da9000dba5686643884a0b47938a7683c2fb11",
+      "sig": "f49e2336fc95af4809cd954815836f2727431c0a",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
