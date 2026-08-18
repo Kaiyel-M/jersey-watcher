@@ -18757,7 +18757,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -26642,9 +26642,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:9365844525343": {
+      "id": "The Soccer Archive:9365844525343",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2007-09 HOME SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2007-09-home-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2007-09_HOME_SHIRT_-_RONALDO_7.jpg?v=1764321688",
+      "price": 220.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "history": [
+        {
+          "date": "2026-08-18",
+          "price": 220.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-18 14:24",
+  "updated": "2026-08-18 15:06",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
