@@ -19131,7 +19131,7 @@
       "title": "2020/21 Juventus Away Football Shirt Ronaldo #7 (3XL)",
       "url": "https://classic11.com/products/2020-21-juventus-away-football-shirt-ronaldo-7-3xl",
       "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20250127_144955.jpg?v=1738154887",
-      "price": 89.95,
+      "price": 79.95,
       "currency": "£",
       "available": true,
       "club": "Juventus",
@@ -19148,6 +19148,10 @@
         {
           "date": "2026-07-12",
           "price": 89.95
+        },
+        {
+          "date": "2026-08-18",
+          "price": 79.95
         }
       ],
       "good_deal": true
@@ -26586,7 +26590,7 @@
       ]
     }
   },
-  "updated": "2026-08-18 09:22",
+  "updated": "2026-08-18 10:02",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
