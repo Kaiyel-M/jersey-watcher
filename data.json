@@ -26597,7 +26597,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/17_7f2eec55-0a45-4a58-a7be-6c3a1d209e4f.png?v=1741097125",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Third",
@@ -26617,7 +26617,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-18 12:19",
+  "updated": "2026-08-18 13:11",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26628,8 +26628,8 @@
       "last_checked": "2026-08-18"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "4897b6511de4ac4f9a243d621b84a282d449f8f7",
-      "count": 25,
+      "sig": "2134a141952267670f66eab25469120db7783dfa",
+      "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-08-18",
