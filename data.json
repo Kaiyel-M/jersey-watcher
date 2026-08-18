@@ -26615,9 +26615,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Classic11:1584556097": {
+      "id": "Classic11:1584556097",
+      "source": "Classic11",
+      "title": "2008/09 Man Utd 3rd Premier League Football Shirt Ronaldo #7 (S)",
+      "url": "https://classic11.com/products/2008-09-man-utd-3rd-premier-league-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260818_130324.jpg?v=1787062273",
+      "price": 149.95,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 98,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "history": [
+        {
+          "date": "2026-08-18",
+          "price": 149.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-18 13:58",
+  "updated": "2026-08-18 14:24",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
