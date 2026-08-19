@@ -25573,7 +25573,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/D2C6AB28-E16B-4519-9F5D-2FF809FA399A.jpg?v=1785267365",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -26752,7 +26752,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-19 21:15",
+  "updated": "2026-08-19 21:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
