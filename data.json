@@ -26696,9 +26696,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Vintage Football Shirts:10661321408859": {
+      "id": "Vintage Football Shirts:10661321408859",
+      "source": "Vintage Football Shirts",
+      "title": "2021-22 Manchester United adidas Away Shirt Ronaldo #7 L",
+      "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-away-shirt-ronaldo-7-l",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/325T13506174375365617074.jpg?v=1754557852",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 62,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Extérieur.",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "history": [
+        {
+          "date": "2026-08-19",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-19 15:48",
+  "updated": "2026-08-19 16:17",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
