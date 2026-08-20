@@ -23001,7 +23001,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/1738057744_juventus-2020-2021-home-shirt-ronaldo.jpg?v=1738058474",
       "price": 49.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -26806,7 +26806,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-20 11:44",
+  "updated": "2026-08-20 12:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26817,7 +26817,7 @@
       "last_checked": "2026-08-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "fc5036f62ed21755bd16eb5645c748aab425a342",
+      "sig": "033e50f928be1917d484722dd86c11823b15f726",
       "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
