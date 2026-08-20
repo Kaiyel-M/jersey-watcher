@@ -26777,9 +26777,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10580612677919": {
+      "id": "The Soccer Archive:10580612677919",
+      "source": "The Soccer Archive",
+      "title": "JUVENTUS 2019-20 HOME SHIRT - RONALDO 7 - KIDS - 7/10",
+      "url": "https://thesoccerarchive.com/products/juventus-2019-20-home-shirt-ronaldo-7-kids-7-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/JUVENTUS_2019-20_HOME_SHIRT_-_RONALDO_7_-_KIDS.jpg?v=1771327232",
+      "price": 50.0,
+      "currency": "$",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "history": [
+        {
+          "date": "2026-08-20",
+          "price": 50.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-08-20 09:25",
+  "updated": "2026-08-20 10:05",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26830,11 +26857,11 @@
       "last_checked": "2026-08-20"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "7721ac3a84539d7179e8efc614ad631d6b16a6a1",
+      "sig": "caeac0f1eab6a39908ab872fd7be58ff63348b06",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-18",
+      "last_change": "2026-08-20",
       "last_checked": "2026-08-20"
     }
   }
