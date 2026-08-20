@@ -26750,9 +26750,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Classic11:2005301067835": {
+      "id": "Classic11:2005301067835",
+      "source": "Classic11",
+      "title": "2016/17 Real Madrid Away La Liga Football Shirt Ronaldo #7 (XL)",
+      "url": "https://classic11.com/products/2016-17-real-madrid-away-la-liga-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260819_145314.jpg?v=1787211834",
+      "price": 149.95,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Extérieur.",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "history": [
+        {
+          "date": "2026-08-20",
+          "price": 149.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-20 07:26",
+  "updated": "2026-08-20 08:09",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
