@@ -26804,9 +26804,36 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:10582560538911": {
+      "id": "The Soccer Archive:10582560538911",
+      "source": "The Soccer Archive",
+      "title": "REAL MADRID 2011-12 THIRD SHIRT - RONALDO 7 - L",
+      "url": "https://thesoccerarchive.com/products/real-madrid-2011-12-third-shirt-ronaldo-7-l",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_d4f13586-adb0-4a57-9d7d-83929af9e0d7.png?v=1787304005",
+      "price": 180.0,
+      "currency": "$",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2011,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Real Madrid · 2011 · Third.",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "history": [
+        {
+          "date": "2026-08-21",
+          "price": 180.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-21 09:12",
+  "updated": "2026-08-21 09:54",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26817,7 +26844,7 @@
       "last_checked": "2026-08-21"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "7231999f5c7f63bee105b67782f3a24f6924f2bb",
+      "sig": "8003f03d92ebf77cec001607e7c64e35cacb0730",
       "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
