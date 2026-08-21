@@ -26840,7 +26840,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2008-09_AWAY_SHIRT_-_RONALDO_7.png?v=1764944307",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -26887,7 +26887,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-21 17:18",
+  "updated": "2026-08-21 17:48",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
