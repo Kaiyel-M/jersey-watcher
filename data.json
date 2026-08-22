@@ -26786,7 +26786,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/JUVENTUS_2019-20_HOME_SHIRT_-_RONALDO_7_-_KIDS.jpg?v=1771327232",
       "price": 50.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Domicile",
@@ -26887,7 +26887,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-08-22 13:02",
+  "updated": "2026-08-22 13:46",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
