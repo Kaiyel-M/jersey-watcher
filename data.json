@@ -26885,9 +26885,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16246768533839": {
+      "id": "Authentic Football Club:16246768533839",
+      "source": "Authentic Football Club",
+      "title": "2008-09 MANCHESTER UNITED THIRD SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2008-09-manchester-united-third-shirt-ronaldo-7-l",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/B065EB2E-4A2A-4FE0-879E-3443A854EA60.jpg?v=1787318522",
+      "price": 379.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 98,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "history": [
+        {
+          "date": "2026-08-23",
+          "price": 379.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-23 09:45",
+  "updated": "2026-08-23 10:11",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
