@@ -3108,7 +3108,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-away-shirt-s-adidas-cult-kits-5444152.jpg?v=1781687298",
       "price": 59.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -26914,7 +26914,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-24 07:43",
+  "updated": "2026-08-24 08:34",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
