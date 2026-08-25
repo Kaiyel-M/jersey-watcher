@@ -26517,7 +26517,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/80B4CC87-8B37-4087-A203-2D2E7BCC34DB.jpg?v=1786791322",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Domicile",
@@ -26941,7 +26941,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-25 14:05",
+  "updated": "2026-08-25 15:07",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26952,11 +26952,11 @@
       "last_checked": "2026-08-25"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "4cbf4ed307f56846eac3f259acc3b1667773c815",
-      "count": 26,
+      "sig": "747da2512f21d580023032a9aa5d0ed2cf24616f",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-24",
+      "last_change": "2026-08-25",
       "last_checked": "2026-08-25"
     },
     "Icons.com (CR7)": {
