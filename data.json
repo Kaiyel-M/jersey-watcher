@@ -26921,7 +26921,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_ad42a02c-7edd-4166-8223-a77ca3240e6b.jpg?v=1747821910",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Third",
@@ -26941,7 +26941,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-26 12:23",
+  "updated": "2026-08-26 13:38",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -26992,11 +26992,11 @@
       "last_checked": "2026-08-26"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "47f2894bcbcb27aa4ad1c3bfe8a55c256703baf5",
+      "sig": "5db68324a520f631f5e05c2a0707f2b5b223f6af",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-24",
+      "last_change": "2026-08-26",
       "last_checked": "2026-08-26"
     }
   }
