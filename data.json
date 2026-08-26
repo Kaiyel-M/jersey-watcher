@@ -26993,9 +26993,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16261758320975": {
+      "id": "Authentic Football Club:16261758320975",
+      "source": "Authentic Football Club",
+      "title": "2017-18 REAL MADRID THIRD SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2017-18-real-madrid-third-shirt-ronaldo-7-m-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/A0C682BB-373B-4CC6-A98A-E027BA27AF64.jpg?v=1787680881",
+      "price": 179.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Third. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "history": [
+        {
+          "date": "2026-08-26",
+          "price": 179.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-26 16:04",
+  "updated": "2026-08-26 17:01",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27046,7 +27073,7 @@
       "last_checked": "2026-08-26"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "3ead348762b6010f12503b213547dc8bfd919cb7",
+      "sig": "127f9318cec22a67a495dcc125bc042706999d7d",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
