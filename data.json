@@ -18757,7 +18757,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -18837,7 +18837,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260611_130202.jpg?v=1781512350",
       "price": 59.95,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Al-Nassr",
       "year": 2023,
       "home_away": "Extérieur",
@@ -26948,7 +26948,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_77acbf54-fa90-4a86-9b75-7c09f444a065.png?v=1742547288",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Third",
@@ -26975,7 +26975,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -27002,7 +27002,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/A0C682BB-373B-4CC6-A98A-E027BA27AF64.jpg?v=1787680881",
       "price": 179.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Third",
@@ -27020,9 +27020,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10480661299487": {
+      "id": "The Soccer Archive:10480661299487",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2005-06 AWAY SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2005-06-away-shirt-ronaldo-7-8-11",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_05bcfdc0-eab3-4d6b-b79c-db964590be4b.jpg?v=1747303541",
+      "price": 150.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "history": [
+        {
+          "date": "2026-08-27",
+          "price": 150.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-27 01:03",
+  "updated": "2026-08-27 11:13",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
