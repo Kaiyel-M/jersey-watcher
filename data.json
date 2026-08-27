@@ -58,7 +58,7 @@
       "title": "2007-09 Manchester United Home Shirt Ronaldo 7 [Perfect]",
       "url": "https://thevault.co.uk/products/2007-09-manchester-united-home-shirt-ronaldo-7-excellent-m",
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/products/ronaldo-manchester-united-07-09-home-shirt.jpg?v=1648605931",
-      "price": 159.99,
+      "price": 189.99,
       "currency": "£",
       "available": false,
       "club": "Manchester United",
@@ -75,6 +75,10 @@
         {
           "date": "2026-07-12",
           "price": 159.99
+        },
+        {
+          "date": "2026-08-27",
+          "price": 189.99
         }
       ]
     },
@@ -189,7 +193,7 @@
       "title": "2007-09 Manchester United Home Shirt Ronaldo 7 [Excellent]",
       "url": "https://thevault.co.uk/products/2007-09-manchester-united-home-shirt-ronaldo-7-excellent-l",
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/products/ronaldo-manchester-united-07-09-home-shirt.jpg?v=1648605931",
-      "price": 139.99,
+      "price": 159.99,
       "currency": "£",
       "available": false,
       "club": "Manchester United",
@@ -206,6 +210,10 @@
         {
           "date": "2026-07-12",
           "price": 139.99
+        },
+        {
+          "date": "2026-08-27",
+          "price": 159.99
         }
       ],
       "good_deal": true
@@ -24215,7 +24223,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24225,7 +24233,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-08-27",
       "history": [
         {
           "date": "2026-07-14",
@@ -26597,7 +26605,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/17_7f2eec55-0a45-4a58-a7be-6c3a1d209e4f.png?v=1741097125",
       "price": 100.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Third",
@@ -26921,7 +26929,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_ad42a02c-7edd-4166-8223-a77ca3240e6b.jpg?v=1747821910",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Third",
@@ -26931,7 +26939,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Third.",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-26",
+      "last_seen": "2026-08-27",
       "history": [
         {
           "date": "2026-08-25",
@@ -27049,7 +27057,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-27 11:13",
+  "updated": "2026-08-27 21:03",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27060,11 +27068,11 @@
       "last_checked": "2026-08-27"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "586533404404a2f9f64b6ac8483443657a0b3a4c",
-      "count": 29,
+      "sig": "e019a82c3b5af864127f1b023e3f9d502c97cc5e",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-26",
+      "last_change": "2026-08-27",
       "last_checked": "2026-08-27"
     },
     "Icons.com (CR7)": {
@@ -27100,11 +27108,11 @@
       "last_checked": "2026-08-27"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "127f9318cec22a67a495dcc125bc042706999d7d",
+      "sig": "e51e419936932639dc6b6713646d81e096d8cc9a",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-26",
+      "last_change": "2026-08-27",
       "last_checked": "2026-08-27"
     }
   }
