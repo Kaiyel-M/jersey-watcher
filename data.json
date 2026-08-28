@@ -18684,7 +18684,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
       "price": 160.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -18694,7 +18694,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-08-28",
       "history": [
         {
           "date": "2026-07-12",
@@ -18765,7 +18765,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -18775,7 +18775,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Extérieur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "history": [
         {
           "date": "2026-07-12",
@@ -23441,7 +23441,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2019-20_Juventus_adidas_Home_Shirt_Ronaldo_7_wtags_L_1.jpg?v=1781686141",
       "price": 175.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Domicile",
@@ -23468,7 +23468,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2015-16RealMadridadidasHomeShirtRonaldo_7wtagsXXL.jpg?v=1783276435",
       "price": 175.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Domicile",
@@ -23495,7 +23495,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2022-23_Manchester_United_adidas_Away_Shirt_Ronaldo_7_wtags_XXL_5.jpg?v=1783276435",
       "price": 85.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -23522,7 +23522,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/325T13506174375365617439_f86a3c42-1684-4929-a37c-59fec6b7a65e.jpg?v=1783276762",
       "price": 70.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Third",
@@ -23549,7 +23549,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/325T13506174375365617074_7b7dbc58-bd4b-4c6f-a95e-4eb21f187d39.jpg?v=1783276792",
       "price": 85.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -26174,7 +26174,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6783B454-10A1-4EF3-BBC1-FBB1607B4B19.jpg?v=1786029393",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -26821,7 +26821,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_d4f13586-adb0-4a57-9d7d-83929af9e0d7.png?v=1787304005",
       "price": 180.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2011,
       "home_away": "Third",
@@ -26929,7 +26929,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_ad42a02c-7edd-4166-8223-a77ca3240e6b.jpg?v=1747821910",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Third",
@@ -26956,7 +26956,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_77acbf54-fa90-4a86-9b75-7c09f444a065.png?v=1742547288",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Third",
@@ -26966,7 +26966,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Third.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "history": [
         {
           "date": "2026-08-26",
@@ -26983,7 +26983,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -26993,7 +26993,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Extérieur.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "history": [
         {
           "date": "2026-08-26",
@@ -27057,7 +27057,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-08-28 05:26",
+  "updated": "2026-08-28 17:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27068,19 +27068,19 @@
       "last_checked": "2026-08-28"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "e019a82c3b5af864127f1b023e3f9d502c97cc5e",
-      "count": 28,
+      "sig": "756aae6825a4ed6be8d08bafbef3c8ff9798ab0f",
+      "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-27",
+      "last_change": "2026-08-28",
       "last_checked": "2026-08-28"
     },
     "Icons.com (CR7)": {
-      "sig": "256a273a86a26447979c15ff8b49ef03ebb24da2",
-      "count": 176,
+      "sig": "899555803c8c87d4a88c57c3ed310e3fee7d1e26",
+      "count": 177,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-25",
+      "last_change": "2026-08-28",
       "last_checked": "2026-08-28"
     },
     "A1 Sporting Memorabilia (CR7)": {
