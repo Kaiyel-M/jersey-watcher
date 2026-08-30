@@ -27055,9 +27055,90 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16283084915023": {
+      "id": "Authentic Football Club:16283084915023",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-ronaldo-7-l-5",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/8F29086E-24C4-4386-8E20-4CC860DBE11D.jpg?v=1787941555",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "history": [
+        {
+          "date": "2026-08-30",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16261755896143": {
+      "id": "Authentic Football Club:16261755896143",
+      "source": "Authentic Football Club",
+      "title": "2019-20 JUVENTUS HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2019-20-juventus-home-shirt-ronaldo-7-m-5",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/467C5A82-B6A9-4245-ABD1-454ADD36EE10.jpg?v=1787770738",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "history": [
+        {
+          "date": "2026-08-30",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16261705236815": {
+      "id": "Authentic Football Club:16261705236815",
+      "source": "Authentic Football Club",
+      "title": "2019-20 JUVENTUS HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2019-20-juventus-home-shirt-ronaldo-7-l-8",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/136616A3-5C3C-4BED-BF50-52AA344C31B1.jpg?v=1787770738",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "history": [
+        {
+          "date": "2026-08-30",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-30 05:33",
+  "updated": "2026-08-30 10:41",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
