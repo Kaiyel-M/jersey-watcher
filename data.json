@@ -27136,9 +27136,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16061554852222": {
+      "id": "Cult Kits:16061554852222",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 BNWT Home Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-bnwt-home-shirt-l-adidas-b63ybdwu",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0016_2_3c017ba5-233b-4f1e-9ece-b895830c7707.jpg?v=1787755662",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16061554262398": {
+      "id": "Cult Kits:16061554262398",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-xl-adidas-doqvc4iq",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0002_2_acddb038-75c0-490e-9c6d-3c306a46e808.jpg?v=1787755898",
+      "price": 299.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2014 · Third.",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "price": 299.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16061554950526": {
+      "id": "Cult Kits:16061554950526",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 BNWT *Authentic Home Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-bnwt-authentic-home-shirt-xl-adidas",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0020_2.jpg?v=1787755631",
+      "price": 249.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2016 · Domicile · Version joueur.",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "price": 249.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16061554393470": {
+      "id": "Cult Kits:16061554393470",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 BNWT Away Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-bnwt-away-shirt-m-adidas-obcb6744",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0004_1_eefbecd4-3f21-4ed3-8f21-240770a35b4f.jpg?v=1787755864",
+      "price": 249.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Extérieur.",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "history": [
+        {
+          "date": "2026-08-31",
+          "price": 249.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-08-31 15:34",
+  "updated": "2026-08-31 21:03",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
