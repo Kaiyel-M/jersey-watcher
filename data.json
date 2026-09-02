@@ -27275,9 +27275,144 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16063009194366": {
+      "id": "Cult Kits:16063009194366",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 BNWT Home Shirt (XXL) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-czj2nclr",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0015_bea16576-954d-4eae-8cea-ccf9aab9f63b.jpg?v=1787840779",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16063008866686": {
+      "id": "Cult Kits:16063008866686",
+      "source": "Cult Kits",
+      "title": "2015/16 Real Madrid Ronaldo #7 BNWT Away Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-bnwt-away-shirt-xl-adidas-08897mb5",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0009_cea0f4ea-3c27-459c-a4ca-51094a493c51.jpg?v=1787840646",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Extérieur.",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
+    },
+    "The Soccer Archive:10437842174239": {
+      "id": "The Soccer Archive:10437842174239",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2002-04 HOME SHIRT - RONALDO 7 - KIDS 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2002-04-home-shirt-ronaldo-7-kids-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7_-_KIDS.png?v=1771575553",
+      "price": 110.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2002,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2002 · Domicile.",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "price": 110.0
+        }
+      ],
+      "good_deal": true
+    },
+    "Authentic Football Club:16283490713935": {
+      "id": "Authentic Football Club:16283490713935",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT RONALDO #7 S",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-ronaldo-7-s-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1D2AE245-CBCF-4352-A661-B4AAD469CE13.jpg?v=1788079484",
+      "price": 139.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "price": 139.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16122877346127": {
+      "id": "Authentic Football Club:16122877346127",
+      "source": "Authentic Football Club",
+      "title": "2008-09 MANCHESTER UNITED AWAY SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2008-09-manchester-united-away-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/0DED3725-DF79-4BEC-AB4C-F058C096E2CE.jpg?v=1787941555",
+      "price": 349.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Extérieur. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "history": [
+        {
+          "date": "2026-09-02",
+          "price": 349.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-02 14:07",
+  "updated": "2026-09-02 17:56",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27288,8 +27423,8 @@
       "last_checked": "2026-09-02"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "191cfef566cc9415de87d374ab997c7088f1bfaf",
-      "count": 27,
+      "sig": "095eb273a468608dee5f08bc26f7b1410efb7b54",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-09-02",
