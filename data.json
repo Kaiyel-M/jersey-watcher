@@ -18370,7 +18370,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18397,7 +18397,7 @@
       "tier": "A",
       "desc": "Real Madrid · 2016 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18424,7 +18424,7 @@
       "tier": "A",
       "desc": "Real Madrid · 2014 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18451,7 +18451,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Extérieur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18478,7 +18478,7 @@
       "tier": "B",
       "desc": "Real Madrid · 2015 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18505,7 +18505,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18532,7 +18532,7 @@
       "tier": "B",
       "desc": "Juventus · 2019 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18559,7 +18559,7 @@
       "tier": "B",
       "desc": "Juventus · 2020.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18586,7 +18586,7 @@
       "tier": "B",
       "desc": "Real Madrid · 2010 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18613,7 +18613,7 @@
       "tier": "S",
       "desc": "Manchester United · 2008 · Extérieur. Saison de la C1 et du Mondial des clubs.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18640,7 +18640,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -18667,7 +18667,7 @@
       "tier": "B",
       "desc": "Real Madrid · 2014 · Extérieur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22209,7 +22209,7 @@
       "tier": "A",
       "desc": "Portugal · 2014 · Domicile · Version joueur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22236,7 +22236,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22263,7 +22263,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22278,9 +22278,9 @@
       "title": "2021-22 Manchester United adidas Home Shirt Ronaldo #7 *w/tags* L",
       "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-home-shirt-ronaldo-7-w-tags-l",
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/325T135061743753293.jpg?v=1743778600",
-      "price": 75.0,
+      "price": 98.0,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -22290,11 +22290,15 @@
       "tier": "C",
       "desc": "Manchester United · 2021 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
           "price": 75.0
+        },
+        {
+          "date": "2026-09-02",
+          "price": 98.0
         }
       ],
       "good_deal": false
@@ -22317,7 +22321,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile · Manches longues.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22344,7 +22348,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Domicile · Version joueur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22371,7 +22375,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22398,7 +22402,7 @@
       "tier": "C",
       "desc": "Manchester United · 2021 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22429,7 +22433,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22456,7 +22460,7 @@
       "tier": "S",
       "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22483,7 +22487,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22510,7 +22514,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Domicile · Manches longues.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22537,7 +22541,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Domicile · Manches longues.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22564,7 +22568,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Extérieur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22591,7 +22595,7 @@
       "tier": "A",
       "desc": "Manchester United · 2002 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22618,7 +22622,7 @@
       "tier": "A",
       "desc": "Manchester United · 2006 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22645,7 +22649,7 @@
       "tier": "B",
       "desc": "Juventus · 2018 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22672,7 +22676,7 @@
       "tier": "A",
       "desc": "Manchester United · 2006 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22699,7 +22703,7 @@
       "tier": "B",
       "desc": "Juventus · 2018 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -22726,7 +22730,7 @@
       "tier": "B",
       "desc": "Juventus · 2019 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-07-12",
@@ -25999,7 +26003,7 @@
       "tier": "B",
       "desc": "Real Madrid · 2015 · Domicile.",
       "first_seen": "2026-08-07",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-08-07",
@@ -26727,7 +26731,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Extérieur.",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "history": [
         {
           "date": "2026-08-19",
@@ -27365,7 +27369,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1D2AE245-CBCF-4352-A661-B4AAD469CE13.jpg?v=1788079484",
       "price": 139.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -27412,7 +27416,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-02 17:56",
+  "updated": "2026-09-02 20:11",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
