@@ -27414,9 +27414,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:9453903282463": {
+      "id": "The Soccer Archive:9453903282463",
+      "source": "The Soccer Archive",
+      "title": "PORTUGAL 2004-06 HOME SHIRT - C.RONALDO 17 - 8/10",
+      "url": "https://thesoccerarchive.com/products/portugal-2004-06-home-shirt-c-ronaldo-17-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_8a7e3f1d-9514-4908-a8e6-401ff9959b25.png?v=1750317413",
+      "price": 250.0,
+      "currency": "$",
+      "available": true,
+      "club": "Portugal",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Portugal · 2004 · Domicile. Débuts en tournoi, n°17.",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "history": [
+        {
+          "date": "2026-09-03",
+          "price": 250.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-03 04:59",
+  "updated": "2026-09-03 09:22",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27427,8 +27454,8 @@
       "last_checked": "2026-09-03"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "49e4defda9fe5a1ec8bb15dee9700163059fe50a",
-      "count": 27,
+      "sig": "5d3b5c4733fdac88b4da22f0d68a531dcab64895",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-09-03",
