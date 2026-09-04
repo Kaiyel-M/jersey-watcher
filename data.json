@@ -27261,7 +27261,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/KIDSLRONALDOCUP.png?v=1788346115",
       "price": 120.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2003,
       "home_away": "Third",
@@ -27271,7 +27271,7 @@
       "tier": "S",
       "desc": "Manchester United · 2003 · Third.",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "history": [
         {
           "date": "2026-09-02",
@@ -27342,7 +27342,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7_-_KIDS.png?v=1771575553",
       "price": 110.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2002,
       "home_away": "Domicile",
@@ -27352,7 +27352,7 @@
       "tier": "A",
       "desc": "Manchester United · 2002 · Domicile.",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "history": [
         {
           "date": "2026-09-02",
@@ -27423,7 +27423,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_8a7e3f1d-9514-4908-a8e6-401ff9959b25.png?v=1750317413",
       "price": 250.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Portugal",
       "year": 2004,
       "home_away": "Domicile",
@@ -27433,7 +27433,7 @@
       "tier": "A",
       "desc": "Portugal · 2004 · Domicile. Débuts en tournoi, n°17.",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "history": [
         {
           "date": "2026-09-03",
@@ -27443,7 +27443,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-04 11:42",
+  "updated": "2026-09-04 15:13",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27454,7 +27454,7 @@
       "last_checked": "2026-09-04"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "0d2aeda413e3ab7a79b417ce1d69eb234d9fde9c",
+      "sig": "7a3dd43fdfa9d56a0ff02b50d9335b5609664167",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
