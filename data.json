@@ -24231,7 +24231,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24241,7 +24241,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-08",
       "history": [
         {
           "date": "2026-07-14",
@@ -26964,7 +26964,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_77acbf54-fa90-4a86-9b75-7c09f444a065.png?v=1742547288",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Third",
@@ -26974,7 +26974,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Third.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-08",
       "history": [
         {
           "date": "2026-08-26",
@@ -26991,7 +26991,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -27001,7 +27001,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Extérieur.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-08",
       "history": [
         {
           "date": "2026-08-26",
@@ -27794,7 +27794,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-08 11:42",
+  "updated": "2026-09-08 15:26",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27805,7 +27805,7 @@
       "last_checked": "2026-09-08"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "ec411dac7e9c100b3b0dc0018850fd2da1dae3f0",
+      "sig": "05d52651b612fa239f3ea210b23e19bdc073c01a",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
