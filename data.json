@@ -27639,7 +27639,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/D3397528-0CF4-46C0-8233-8C6146594240.jpg?v=1788375855",
       "price": 169.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2006,
       "home_away": "Domicile",
@@ -28685,7 +28685,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-09 18:51",
+  "updated": "2026-09-09 21:18",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
