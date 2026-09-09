@@ -18208,7 +18208,7 @@
       "tier": "S",
       "desc": "Manchester United · 2003 · Third.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-09-09",
       "history": [
         {
           "date": "2026-07-12",
@@ -18289,7 +18289,7 @@
       "tier": "C",
       "desc": "Manchester United · 2021.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-24",
+      "last_seen": "2026-09-09",
       "history": [
         {
           "date": "2026-07-12",
@@ -18343,7 +18343,7 @@
       "tier": "C",
       "desc": "Manchester United · 2021.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-09-09",
       "history": [
         {
           "date": "2026-07-12",
@@ -24231,7 +24231,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -26425,7 +26425,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7.jpg?v=1763567317",
       "price": 230.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2002,
       "home_away": "Domicile",
@@ -26964,7 +26964,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_77acbf54-fa90-4a86-9b75-7c09f444a065.png?v=1742547288",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Third",
@@ -26991,7 +26991,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -27666,7 +27666,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6427CBBA-C9DA-454F-A597-882220F939DB.jpg?v=1788375761",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Extérieur",
@@ -27798,7 +27798,7 @@
       "source": "Cult Kits",
       "title": "2017/18 Real Madrid Ronaldo #7 *BNWT* Home Shirt (XXL) Adidas",
       "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0013_ca5f8434-6af1-4038-8457-a846aa6e6fbc.jpg?v=1788879130",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-cult-kits-7246479.jpg?v=1788972136",
       "price": 199.99,
       "currency": "£",
       "available": true,
@@ -27825,7 +27825,7 @@
       "source": "Cult Kits",
       "title": "2015/16 Real Madrid Ronaldo #7 *BNWT* Away Shirt (L) Adidas",
       "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-bnwt-away-shirt-l-adidas",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0009_443c0687-d4ee-41f8-a31b-2f657e311648.jpg?v=1788879185",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-bnwt-away-shirt-l-adidas-cult-kits-1415843.jpg?v=1788972141",
       "price": 199.99,
       "currency": "£",
       "available": true,
@@ -27852,7 +27852,7 @@
       "source": "Cult Kits",
       "title": "2016/17 Real Madrid Ronaldo #7 *BNWT* Authentic Home Shirt (XL) Adidas",
       "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-bnwt-authentic-home-shirt-xl-adidas-1",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0011_d456fc52-5603-49e0-8961-ab64e8363e82.jpg?v=1788879156",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201617-real-madrid-ronaldo-7-bnwt-authentic-home-shirt-xl-adidas-cult-kits-8910649.jpg?v=1788972139",
       "price": 224.99,
       "currency": "£",
       "available": false,
@@ -27900,9 +27900,792 @@
         }
       ],
       "good_deal": true
+    },
+    "Football Shirt Collective:15634217894262": {
+      "id": "Football Shirt Collective:15634217894262",
+      "source": "Football Shirt Collective",
+      "title": "2003/05 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (L)",
+      "url": "https://www.footballshirtcollective.com/products/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l-1",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l-1224805171.png?v=1772562147",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2003,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2003 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15634217992566": {
+      "id": "Football Shirt Collective:15634217992566",
+      "source": "Football Shirt Collective",
+      "title": "2003/05 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m-1224805157.png?v=1772561967",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2003,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2003 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15549026828662": {
+      "id": "Football Shirt Collective:15549026828662",
+      "source": "Football Shirt Collective",
+      "title": "2003/05 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (XL)",
+      "url": "https://www.footballshirtcollective.com/products/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2003-05-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xl-1216672243.png?v=1768481632",
+      "price": 139.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2003,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2003 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 139.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15306797482358": {
+      "id": "Football Shirt Collective:15306797482358",
+      "source": "Football Shirt Collective",
+      "title": "2004/06 RONALDO #7 Manchester United Vintage Nike Home Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2004-06-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-m-1",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2004-06-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-m-1186824269.png?v=1755901019",
+      "price": 119.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 119.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15306797515126": {
+      "id": "Football Shirt Collective:15306797515126",
+      "source": "Football Shirt Collective",
+      "title": "2004/06 RONALDO #7 Manchester United Vintage Nike Home Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2004-06-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-m-2",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2004-06-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-m-1186824265.png?v=1755901006",
+      "price": 139.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 139.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15306805248374": {
+      "id": "Football Shirt Collective:15306805248374",
+      "source": "Football Shirt Collective",
+      "title": "2004/06 RONALDO #7 Manchester United Vintage Nike UCL Home Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2004-06-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-m",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2004-06-ronaldo-7-manchester-united-vintage-nike-ucl-home-football-shirt-m-1186823903.webp?v=1755894772",
+      "price": 139.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 139.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:8187891810551": {
+      "id": "Football Shirt Collective:8187891810551",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 RONALDO #7 Manchester United Vintage Nike Away Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l-42351518712055.jpg?v=1713262743",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:14829529760118": {
+      "id": "Football Shirt Collective:14829529760118",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m-72145828053366.png?v=1731968527",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:8413143826679": {
+      "id": "Football Shirt Collective:8413143826679",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (XL)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l-1",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xl-43481086755063.png?v=1725754758",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15688263172470": {
+      "id": "Football Shirt Collective:15688263172470",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (XL)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xl-1231233968.png?v=1775395971",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15609204081014": {
+      "id": "Football Shirt Collective:15609204081014",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (xxl)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xxl-1220490538.png?v=1770801449",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:7930535837943": {
+      "id": "Football Shirt Collective:7930535837943",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 RONALDO #7 Manchester United Vintage Nike UCL Third Football Shirt (L)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-ucl-third-football-shirt-l",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-ucl-third-football-shirt-l-39813557485815.jpg?v=1684927873",
+      "price": 79.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 88,
+      "tier": "S",
+      "desc": "Manchester United · 2005 · Third.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 79.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:7930536034551": {
+      "id": "Football Shirt Collective:7930536034551",
+      "source": "Football Shirt Collective",
+      "title": "2005/06 RONALDO #7 Manchester United Vintage Nike UCL Third Football Shirt (XL)",
+      "url": "https://www.footballshirtcollective.com/products/2005-06-ronaldo-7-manchester-united-vintage-nike-ucl-third-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2005-06-ronaldo-7-manchester-united-vintage-nike-ucl-third-football-shirt-xl-39813558993143.jpg?v=1684927518",
+      "price": 89.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 88,
+      "tier": "S",
+      "desc": "Manchester United · 2005 · Third.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 89.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15340972704118": {
+      "id": "Football Shirt Collective:15340972704118",
+      "source": "Football Shirt Collective",
+      "title": "2006/07 Ronaldo #7 Manchester United Vintage Nike Home Football Shirt (L)",
+      "url": "https://www.footballshirtcollective.com/products/2006-08-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2006-07-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-l-1192827981.png?v=1757955171",
+      "price": 174.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 174.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Shirt Collective:15575133585782": {
+      "id": "Football Shirt Collective:15575133585782",
+      "source": "Football Shirt Collective",
+      "title": "2006/07 Ronaldo #7 Manchester United Vintage Nike Home Football Shirt (L)",
+      "url": "https://www.footballshirtcollective.com/products/2006-07-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-l",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2006-07-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-l-1218824391.png?v=1769820507",
+      "price": 119.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 119.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:8187889516791": {
+      "id": "Football Shirt Collective:8187889516791",
+      "source": "Football Shirt Collective",
+      "title": "2006/08 RONALDO #7 Manchester United Vintage Nike Away Football Shirt (L)",
+      "url": "https://www.footballshirtcollective.com/products/2006-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2006-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-l-42351612657911.jpg?v=1713262572",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:8413144088823": {
+      "id": "Football Shirt Collective:8413144088823",
+      "source": "Football Shirt Collective",
+      "title": "2006/08 Ronaldo #7 Manchester United Vintage Nike Away Football Shirt (XXL)",
+      "url": "https://www.footballshirtcollective.com/products/2006-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2006-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-xxl-43481087672567.png?v=1725762482",
+      "price": 129.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15096029806966": {
+      "id": "Football Shirt Collective:15096029806966",
+      "source": "Football Shirt Collective",
+      "title": "2007/08 RONALDO #7 Manchester United Vintage Nike Away Football Shirt (M/L)",
+      "url": "https://www.footballshirtcollective.com/products/2007-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m-l",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-08-ronaldo-7-manchester-united-vintage-nike-away-football-shirt-m-l-1141242106.png?v=1740666849",
+      "price": 149.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Extérieur. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 149.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15217123131766": {
+      "id": "Football Shirt Collective:15217123131766",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 RONALDO #7 Manchester United Vintage Nike Away Football Shorts (L) 34/36",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-away-football-shorts-l-34-36",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-away-football-shorts-l-34-36-1173179020.png?v=1749803800",
+      "price": 64.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Extérieur. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 64.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15258282262902": {
+      "id": "Football Shirt Collective:15258282262902",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 RONALDO #7 Manchester United Vintage Nike Home Football Shirt (XL)",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-xl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-xl-1178541939.png?v=1752741653",
+      "price": 149.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 149.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15258283606390": {
+      "id": "Football Shirt Collective:15258283606390",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 RONALDO #7 Manchester United Vintage Nike Home Football Shirt (XXL)",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shirt-xxl-1178541923.png?v=1752741406",
+      "price": 149.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 149.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15217123033462": {
+      "id": "Football Shirt Collective:15217123033462",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 RONALDO #7 Manchester United Vintage Nike Home Football Shorts (L) 34/36",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-l-34-36",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-l-34-36-1173179025.png?v=1749803815",
+      "price": 64.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 64.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:8413142614263": {
+      "id": "Football Shirt Collective:8413142614263",
+      "source": "Football Shirt Collective",
+      "title": "2008/10 Ronaldo #7 Manchester United Vintage Nike Euro Away Football Shirt (XXL)",
+      "url": "https://www.footballshirtcollective.com/products/2008-10-ronaldo-7-manchester-united-vintage-nike-euro-away-football-shirt-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2008-10-ronaldo-7-manchester-united-vintage-nike-euro-away-football-shirt-xxl-43481079316727.png?v=1725751865",
+      "price": 99.99,
+      "currency": "$",
+      "available": false,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Extérieur. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 99.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:15288889835894": {
+      "id": "Football Shirt Collective:15288889835894",
+      "source": "Football Shirt Collective",
+      "title": "2019/20 RONALDO #7 Juventus adidas Home Football Shirt (M)",
+      "url": "https://www.footballshirtcollective.com/products/2019-20-ronaldo-7-juventus-adidas-home-football-shirt-m",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2019-20-ronaldo-7-juventus-adidas-home-football-shirt-m-1183780571.png?v=1754685663",
+      "price": 69.99,
+      "currency": "$",
+      "available": false,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 69.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Authentic Football Club:16291571433807": {
+      "id": "Authentic Football Club:16291571433807",
+      "source": "Authentic Football Club",
+      "title": "2012-13 REAL MADRID AWAY SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2012-13-real-madrid-away-shirt-ronaldo-7-m-3",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/26A808A8-B2AB-468F-8FD7-93ACCCB1A1A8.jpg?v=1788887416",
+      "price": 139.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2012,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2012 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 139.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16283490386255": {
+      "id": "Authentic Football Club:16283490386255",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-ronaldo-7-l-6",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/80DD36E5-E493-4806-A6C3-2960A20CAB35.jpg?v=1788887389",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16258578153807": {
+      "id": "Authentic Football Club:16258578153807",
+      "source": "Authentic Football Club",
+      "title": "2017-18 REAL MADRID AWAY SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2017-18-real-madrid-away-shirt-ronaldo-7-l-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/DC836687-5B70-429D-84F0-62874B21DBBD.jpg?v=1788887416",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 84,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Extérieur. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16257315504463": {
+      "id": "Authentic Football Club:16257315504463",
+      "source": "Authentic Football Club",
+      "title": "2014-15 REAL MADRID AWAY SHIRT RONALDO #7 XXL",
+      "url": "https://authenticfootballclub.com/products/2014-15-real-madrid-away-shirt-ronaldo-7-xxl-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/55F7EECB-7A33-43AD-A15C-5E196D188D61.jpg?v=1788887416",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16240468820303": {
+      "id": "Authentic Football Club:16240468820303",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED THIRD SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-third-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/85CA90AA-6FB1-48C4-B862-F4F7C3F7FFB9.jpg?v=1788805498",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2022 · Third.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-09 15:24",
+  "updated": "2026-09-09 18:51",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27913,7 +28696,7 @@
       "last_checked": "2026-09-09"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "c5c966a761006277940aa3ee02d5deb4fd609558",
+      "sig": "26f5e2f2395a49a8ee2c082dafa0758d64a5e96b",
       "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
