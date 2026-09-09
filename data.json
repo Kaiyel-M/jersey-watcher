@@ -27873,9 +27873,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10443720818975": {
+      "id": "The Soccer Archive:10443720818975",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2022-23 HOME SHIRT - RONALDO 7 - KIDS L",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2022-23-home-shirt-ronaldo-7-kids-l",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/100_720.png?v=1772194702",
+      "price": 60.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "history": [
+        {
+          "date": "2026-09-09",
+          "price": 60.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-09-09 11:49",
+  "updated": "2026-09-09 15:24",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -27886,7 +27913,7 @@
       "last_checked": "2026-09-09"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "95687dcb6f854f394e8631893cfd957c1617f9c6",
+      "sig": "c5c966a761006277940aa3ee02d5deb4fd609558",
       "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
