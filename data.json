@@ -28683,9 +28683,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16080176972158": {
+      "id": "Cult Kits:16080176972158",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 *BNWT* Home Shirt (XXL) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-gg85n9ef",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0011_0bda87f3-9fc6-46fc-9010-ed9c32c4765b.jpg?v=1788964121",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "history": [
+        {
+          "date": "2026-09-10",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-10 14:38",
+  "updated": "2026-09-10 17:51",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -28696,7 +28723,7 @@
       "last_checked": "2026-09-10"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "9843bb41f0913a0a9052b435f713d4c093e7a132",
+      "sig": "360c00e94878bb032968d3c7c7c505cd2f988ec7",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -28736,7 +28763,7 @@
       "last_checked": "2026-09-10"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "22a5d7bea234904875c2f8c9716a4cf2b20181da",
+      "sig": "65eb749e9b188720e76a0a1b60c452f4596894ac",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
