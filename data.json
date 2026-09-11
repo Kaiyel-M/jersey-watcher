@@ -27828,7 +27828,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-bnwt-away-shirt-l-adidas-cult-kits-1415843.jpg?v=1788972141",
       "price": 199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -28712,7 +28712,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-11 13:56",
+  "updated": "2026-09-11 17:23",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -28723,8 +28723,8 @@
       "last_checked": "2026-09-11"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "42b0461c5ce0a2ab7e6e36b0f2aeea1b7b63ab4c",
-      "count": 30,
+      "sig": "7511d402fab0dfceb4f2afc67624bcfa019c7e30",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-09-11",
@@ -28763,11 +28763,11 @@
       "last_checked": "2026-09-11"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "65eb749e9b188720e76a0a1b60c452f4596894ac",
+      "sig": "21c9c060b0c5ed8b80b58dcc243f521e2c9efdc9",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-10",
+      "last_change": "2026-09-11",
       "last_checked": "2026-09-11"
     }
   }
