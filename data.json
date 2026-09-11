@@ -25885,7 +25885,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/75ADD61A-3464-486C-BF32-1CC39AE99D84.jpg?v=1785617003",
       "price": 239.95,
       "currency": "€",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -28689,7 +28689,7 @@
       "source": "Cult Kits",
       "title": "2017/18 Real Madrid Ronaldo #7 *BNWT* Home Shirt (XXL) Adidas",
       "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-gg85n9ef",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0011_0bda87f3-9fc6-46fc-9010-ed9c32c4765b.jpg?v=1788964121",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-cult-kits-5819913.jpg?v=1789114936",
       "price": 199.99,
       "currency": "£",
       "available": true,
@@ -28712,7 +28712,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-11 05:09",
+  "updated": "2026-09-11 09:43",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -28723,7 +28723,7 @@
       "last_checked": "2026-09-11"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "4905822e2d6cb84e683a72131b771029e1bbc16d",
+      "sig": "7511d402fab0dfceb4f2afc67624bcfa019c7e30",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
