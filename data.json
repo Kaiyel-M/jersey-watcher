@@ -27423,7 +27423,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_8a7e3f1d-9514-4908-a8e6-401ff9959b25.png?v=1750317413",
       "price": 250.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2004,
       "home_away": "Domicile",
@@ -28712,7 +28712,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-12 12:27",
+  "updated": "2026-09-12 15:48",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
