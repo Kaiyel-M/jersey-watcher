@@ -27774,7 +27774,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9D4D7448-CC96-47AA-B078-9BBCB85CE460.jpg?v=1788375761",
       "price": 79.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -28710,9 +28710,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16283429077327": {
+      "id": "Authentic Football Club:16283429077327",
+      "source": "Authentic Football Club",
+      "title": "2018-19 PORTUGAL AWAY SHIRT RONALDO #7 XL",
+      "url": "https://authenticfootballclub.com/products/2018-19-portugal-away-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/FA80730B-1CE1-40DC-9F01-B6CEA573B3EE.jpg?v=1789144043",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Portugal",
+      "year": 2018,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Portugal · 2018 · Extérieur.",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "history": [
+        {
+          "date": "2026-09-13",
+          "price": 129.95
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-09-13 06:44",
+  "updated": "2026-09-13 12:24",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
