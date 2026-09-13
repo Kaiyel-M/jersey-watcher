@@ -28584,7 +28584,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/80DD36E5-E493-4806-A6C3-2960A20CAB35.jpg?v=1788887389",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -28611,7 +28611,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/DC836687-5B70-429D-84F0-62874B21DBBD.jpg?v=1788887416",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Extérieur",
@@ -28737,9 +28737,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16080177365374": {
+      "id": "Cult Kits:16080177365374",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 Home Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-home-shirt-xl-adidas-q79b2hng",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0036_0a862ea2-7806-4e7d-a49f-216fe69e44ef.jpg?v=1788964561",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "history": [
+        {
+          "date": "2026-09-13",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-13 16:37",
+  "updated": "2026-09-13 18:57",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
