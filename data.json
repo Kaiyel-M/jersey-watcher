@@ -27585,7 +27585,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6E78D02A-407B-490C-BB0D-49A8D7223C3A.jpg?v=1788375855",
       "price": 259.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Third",
@@ -27612,7 +27612,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/BAA78E1E-E67E-433C-B5B2-C4E1B95EE407.jpg?v=1788375761",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -27882,7 +27882,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/100_720.png?v=1772194702",
       "price": 60.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -28739,7 +28739,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-09-13 12:24",
+  "updated": "2026-09-13 16:37",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
