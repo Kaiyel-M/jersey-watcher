@@ -26665,9 +26665,9 @@
       "title": "MANCHESTER UNITED 2007-09 HOME SHIRT - RONALDO 7 - 8/10",
       "url": "https://thesoccerarchive.com/products/manchester-united-2007-09-home-shirt-ronaldo-7-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2007-09_HOME_SHIRT_-_RONALDO_7.jpg?v=1764321688",
-      "price": 220.0,
+      "price": 270.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -26677,11 +26677,15 @@
       "tier": "S",
       "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-09-15",
       "history": [
         {
           "date": "2026-08-18",
           "price": 220.0
+        },
+        {
+          "date": "2026-09-15",
+          "price": 270.0
         }
       ],
       "good_deal": false
@@ -28743,7 +28747,7 @@
       "source": "Cult Kits",
       "title": "2017/18 Real Madrid Ronaldo #7 Home Shirt (XL) Adidas",
       "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-home-shirt-xl-adidas-q79b2hng",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0036_0a862ea2-7806-4e7d-a49f-216fe69e44ef.jpg?v=1788964561",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-home-shirt-xl-adidas-cult-kits-2532238.jpg?v=1789448246",
       "price": 149.99,
       "currency": "£",
       "available": true,
@@ -28766,7 +28770,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-15 04:56",
+  "updated": "2026-09-15 09:41",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -28777,11 +28781,11 @@
       "last_checked": "2026-09-15"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "819b5d3f7d0fc9d65173e6caa2f99fe4c5cc4474",
-      "count": 29,
+      "sig": "ae17e3627a29f531c6c146e11d59eff709263eef",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-14",
+      "last_change": "2026-09-15",
       "last_checked": "2026-09-15"
     },
     "Icons.com (CR7)": {
