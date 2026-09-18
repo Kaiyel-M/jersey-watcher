@@ -28912,7 +28912,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/PORTUGAL_2008-10_HOME_SHIRT_-_RONALDO_7.jpg?v=1762953760",
       "price": 150.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Portugal",
       "year": 2008,
       "home_away": "Domicile",
@@ -28922,7 +28922,7 @@
       "tier": "B",
       "desc": "Portugal · 2008 · Domicile.",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "history": [
         {
           "date": "2026-09-17",
@@ -28932,7 +28932,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-18 09:16",
+  "updated": "2026-09-18 13:37",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
