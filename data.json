@@ -24231,7 +24231,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24241,7 +24241,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-21",
       "history": [
         {
           "date": "2026-07-14",
@@ -29065,9 +29065,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Vintage Football Shirts:10737036984667": {
+      "id": "Vintage Football Shirts:10737036984667",
+      "source": "Vintage Football Shirts",
+      "title": "2015-16 Real Madrid adidas CL Home Shirt Ronaldo #7 M.Boys",
+      "url": "https://www.vintagefootballshirts.com/products/2015-16-real-madrid-adidas-cl-home-shirt-ronaldo-7-m-boys",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2015-16RealMadridadidasCLHomeShirtRonaldo_7M.Boys0.jpg?v=1789989675",
+      "price": 50.0,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Domicile.",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "history": [
+        {
+          "date": "2026-09-21",
+          "price": 50.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-09-21 07:02",
+  "updated": "2026-09-21 14:11",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29078,11 +29105,11 @@
       "last_checked": "2026-09-21"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "9f33be0dd98cdf4a667fc41c905feb49501f3b16",
+      "sig": "06262393f11590cfe2fd21e772d9607630c9fe6c",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-20",
+      "last_change": "2026-09-21",
       "last_checked": "2026-09-21"
     },
     "Icons.com (CR7)": {
@@ -29118,11 +29145,11 @@
       "last_checked": "2026-09-21"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "40626665a8da569de5a2922ec4ff480379e9f74d",
+      "sig": "8235453fb5623f64475c9aae8d64eadf3d5e2223",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-14",
+      "last_change": "2026-09-21",
       "last_checked": "2026-09-21"
     }
   }
