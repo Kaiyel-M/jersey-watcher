@@ -27373,7 +27373,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1D2AE245-CBCF-4352-A661-B4AAD469CE13.jpg?v=1788079484",
       "price": 139.95,
       "currency": "€",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -28910,7 +28910,7 @@
       "title": "PORTUGAL 2008-10 HOME SHIRT - RONALDO 7 - 8/10",
       "url": "https://thesoccerarchive.com/products/portugal-2008-10-home-shirt-ronaldo-7-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/PORTUGAL_2008-10_HOME_SHIRT_-_RONALDO_7.jpg?v=1762953760",
-      "price": 150.0,
+      "price": 180.0,
       "currency": "$",
       "available": true,
       "club": "Portugal",
@@ -28927,6 +28927,10 @@
         {
           "date": "2026-09-17",
           "price": 150.0
+        },
+        {
+          "date": "2026-09-22",
+          "price": 180.0
         }
       ],
       "good_deal": false
@@ -29121,7 +29125,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-09-22 06:19",
+  "updated": "2026-09-22 11:44",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29132,11 +29136,11 @@
       "last_checked": "2026-09-22"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "60dbcade9f5dbe7c05a71fb5ff3e00e461789d93",
+      "sig": "2614bb5e83e2ebcdd4f607de9808b1f66b5d0330",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-21",
+      "last_change": "2026-09-22",
       "last_checked": "2026-09-22"
     },
     "Icons.com (CR7)": {
