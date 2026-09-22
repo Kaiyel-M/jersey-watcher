@@ -24231,7 +24231,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24241,7 +24241,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-09-22",
       "history": [
         {
           "date": "2026-07-14",
@@ -29102,7 +29102,7 @@
       "source": "Cult Kits",
       "title": "2012/13 Real Madrid Ronaldo #7 C/L *Mourinho Signed* Home Shirt (M) Adidas",
       "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-c-l-signed-home-shirt-m-adidas780",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/01182UFKTFRC.jpg?v=1763557126",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-cl-mourinho-signed-home-shirt-m-adidas-2ufktfrc-5-cult-kits-4633093.jpg?v=1790087113",
       "price": 74.99,
       "currency": "£",
       "available": true,
@@ -29125,7 +29125,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-09-22 11:44",
+  "updated": "2026-09-22 15:49",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29144,11 +29144,11 @@
       "last_checked": "2026-09-22"
     },
     "Icons.com (CR7)": {
-      "sig": "899555803c8c87d4a88c57c3ed310e3fee7d1e26",
+      "sig": "7220783e2825e60c4b3a9e170e4a9afde41f33be",
       "count": 177,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-08-28",
+      "last_change": "2026-09-22",
       "last_checked": "2026-09-22"
     },
     "A1 Sporting Memorabilia (CR7)": {
@@ -29176,11 +29176,11 @@
       "last_checked": "2026-09-22"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "8235453fb5623f64475c9aae8d64eadf3d5e2223",
+      "sig": "98347e7dba1bed6c4a4d4ac575d178a0d4a88cd3",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-21",
+      "last_change": "2026-09-22",
       "last_checked": "2026-09-22"
     }
   }
