@@ -29150,9 +29150,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16335790604623": {
+      "id": "Authentic Football Club:16335790604623",
+      "source": "Authentic Football Club",
+      "title": "2021-22 MANCHESTER UNITED AWAY SHIRT PLAYER ISSUE RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2021-22-manchester-united-away-shirt-player-issue-ronaldo-7",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/8F25C32D-8681-41E7-B6FE-86B2DB059DCE.jpg?v=1790093560",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Extérieur · Version joueur.",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "history": [
+        {
+          "date": "2026-09-23",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-23 14:41",
+  "updated": "2026-09-23 18:39",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29163,8 +29190,8 @@
       "last_checked": "2026-09-23"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "e764fd6550e587dfe61f8526ec2c0a7dd2913357",
-      "count": 30,
+      "sig": "93c4d5afcec66ace1f2d85b3cbaa97a47dbaaa07",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-09-23",
@@ -29203,11 +29230,11 @@
       "last_checked": "2026-09-23"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "98347e7dba1bed6c4a4d4ac575d178a0d4a88cd3",
+      "sig": "873b1930049de69d71894f6d8cf1b5baf3436bb5",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-22",
+      "last_change": "2026-09-23",
       "last_checked": "2026-09-23"
     }
   }
