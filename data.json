@@ -18682,9 +18682,9 @@
       "title": "MANCHESTER UNITED 2004-06 HOME SHIRT - RONALDO 7 - 8/10",
       "url": "https://thesoccerarchive.com/products/manchester-united-2004-06-home-shirt-ronaldo-7-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
-      "price": 160.0,
+      "price": 220.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -18694,11 +18694,15 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-24",
       "history": [
         {
           "date": "2026-07-12",
           "price": 160.0
+        },
+        {
+          "date": "2026-09-24",
+          "price": 220.0
         }
       ],
       "good_deal": false
@@ -26423,9 +26427,9 @@
       "title": "MANCHESTER UNITED 2002-04 HOME SHIRT - RONALDO 7 - 8/10",
       "url": "https://thesoccerarchive.com/products/manchester-united-2002-04-home-shirt-beckham-7-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7.jpg?v=1763567317",
-      "price": 230.0,
+      "price": 240.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2002,
       "home_away": "Domicile",
@@ -26435,11 +26439,15 @@
       "tier": "A",
       "desc": "Manchester United · 2002 · Domicile.",
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-24",
       "history": [
         {
           "date": "2026-08-13",
           "price": 230.0
+        },
+        {
+          "date": "2026-09-24",
+          "price": 240.0
         }
       ],
       "good_deal": false
@@ -29179,7 +29187,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-24 04:52",
+  "updated": "2026-09-24 09:37",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
