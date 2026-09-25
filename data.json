@@ -18684,7 +18684,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_HOME_SHIRT_-_RONALDO_7.jpg?v=1762872029",
       "price": 220.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -18694,7 +18694,7 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "history": [
         {
           "date": "2026-07-12",
@@ -26429,7 +26429,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7.jpg?v=1763567317",
       "price": 240.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2002,
       "home_away": "Domicile",
@@ -26439,7 +26439,7 @@
       "tier": "A",
       "desc": "Manchester United · 2002 · Domicile.",
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "history": [
         {
           "date": "2026-08-13",
@@ -29185,9 +29185,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10623051530527": {
+      "id": "The Soccer Archive:10623051530527",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2006-07 LS HOME SHIRT - RONALDO 7 - S",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2006-07-ls-home-shirt-ronaldo-7-s",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/SLSRONALDO.png?v=1790344903",
+      "price": 250.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Domicile",
+      "sleeve": "Manches longues",
+      "version": "Rétail",
+      "rarity": 85,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Domicile · Manches longues.",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "history": [
+        {
+          "date": "2026-09-25",
+          "price": 250.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-25 09:59",
+  "updated": "2026-09-25 14:54",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29198,7 +29225,7 @@
       "last_checked": "2026-09-25"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "44c8240162105dd69e7f3c44646786b04486ce08",
+      "sig": "e02ee6bcc67ef69e0b5c88b9183f57760ce78084",
       "count": 27,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -29214,11 +29241,11 @@
       "last_checked": "2026-09-25"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "43469785b6ff648bca7f1aee7f0c68f288c29681",
-      "count": 131,
+      "sig": "7a760fe645781f5d8304d6c83dd1032273377ee7",
+      "count": 132,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-23",
+      "last_change": "2026-09-25",
       "last_checked": "2026-09-25"
     },
     "classic-shirts.com (CR7)": {
@@ -29238,7 +29265,7 @@
       "last_checked": "2026-09-25"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "b2a04b9e6f1b210379279fc779c48b58d689d391",
+      "sig": "f5068a15fe186dad7813d61675a4f2d915d2374f",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
