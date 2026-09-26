@@ -1287,7 +1287,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-manchester-united-ronaldo-7-away-shirt-xxl-nike-cult-kits-7880019.jpg?v=1773195563",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -29214,7 +29214,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-26 05:01",
+  "updated": "2026-09-26 09:43",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
