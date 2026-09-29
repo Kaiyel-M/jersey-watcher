@@ -29194,7 +29194,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/SLSRONALDO.png?v=1790344903",
       "price": 250.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Domicile",
@@ -29204,7 +29204,7 @@
       "tier": "A",
       "desc": "Manchester United · 2006 · Domicile · Manches longues.",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "history": [
         {
           "date": "2026-09-25",
@@ -29347,9 +29347,62 @@
         }
       ],
       "good_deal": true
+    },
+    "The Soccer Archive:10626121793823": {
+      "id": "The Soccer Archive:10626121793823",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2022-23 HOME SHIRT - RONALDO 7 - 7/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2022-23-home-shirt-ronaldo-7-7-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
+      "price": 70.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "history": [
+        {
+          "date": "2026-09-29",
+          "price": 70.0
+        }
+      ],
+      "good_deal": true
+    },
+    "Classic11:10306730328282": {
+      "id": "Classic11:10306730328282",
+      "source": "Classic11",
+      "title": "2026/27 Portugal Away Football Shirt Ronaldo #7 (M)",
+      "url": "https://classic11.com/products/2026-27-portugal-away-football-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/20260928_120156.jpg?v=1790673068",
+      "price": 79.95,
+      "currency": "£",
+      "available": true,
+      "club": "Portugal",
+      "year": 2026,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Portugal · 2026 · Extérieur. 1er maillot Puma en Mondial, sans doute son dernier tournoi.",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "history": [
+        {
+          "date": "2026-09-29",
+          "price": 79.95
+        }
+      ]
     }
   },
-  "updated": "2026-09-29 06:11",
+  "updated": "2026-09-29 12:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29360,11 +29413,11 @@
       "last_checked": "2026-09-29"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "f57820a8b3060685b427fc866ecc5a3049778a1a",
-      "count": 27,
+      "sig": "2800c752719df420dd807841dfd1c67f8edaf7ea",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-28",
+      "last_change": "2026-09-29",
       "last_checked": "2026-09-29"
     },
     "Icons.com (CR7)": {
