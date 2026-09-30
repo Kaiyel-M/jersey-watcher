@@ -809,7 +809,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Signed-Cristiano-Ronaldo-Al-Nassr-Shirt-2024-25.jpg?v=1769174414",
       "price": 1099.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Al-Nassr",
       "year": 2024,
       "home_away": "Domicile",
@@ -835,7 +835,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Cristiano-Ronaldo-Signed-Shirt-Al-Nassr-Framed.jpg?v=1769174660",
       "price": 1179.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Al-Nassr",
       "year": null,
       "home_away": "Domicile",
@@ -861,7 +861,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Signed-Ronaldo-Framed-Al-Nassr-Shirt-7.jpg?v=1769174585",
       "price": 1199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Al-Nassr",
       "year": 2024,
       "home_away": "Domicile",
@@ -20962,7 +20962,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/202021-juventus-third-football-shirt-2xl-adidas-7-ronaldo-ff302683-8023355.png?v=1774050327",
       "price": 80.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Third",
@@ -29456,7 +29456,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-09-30 18:39",
+  "updated": "2026-09-30 22:35",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
