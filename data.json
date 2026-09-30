@@ -27813,7 +27813,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-cult-kits-7246479.jpg?v=1788972136",
       "price": 199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Domicile",
@@ -29400,9 +29400,63 @@
           "price": 79.95
         }
       ]
+    },
+    "Cult Kits:16109428736382": {
+      "id": "Cult Kits:16109428736382",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 *BNWT* Away Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-bnwt-away-shirt-m-adidas-rlhey7kx",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0014_335e9172-de32-49f2-897e-97aedc9d2b23.jpg?v=1790771871",
+      "price": 174.99,
+      "currency": "£",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "history": [
+        {
+          "date": "2026-09-30",
+          "price": 174.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16335010627919": {
+      "id": "Authentic Football Club:16335010627919",
+      "source": "Authentic Football Club",
+      "title": "2017-18 REAL MADRID HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2017-18-real-madrid-home-shirt-ronaldo-7-m-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/EC9DE48E-B9F6-4F6A-872B-D158479A2569.jpg?v=1790682873",
+      "price": 149.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "history": [
+        {
+          "date": "2026-09-30",
+          "price": 149.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-09-30 13:50",
+  "updated": "2026-09-30 18:39",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29413,7 +29467,7 @@
       "last_checked": "2026-09-30"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "f24d6d960f9754170b89636f2b0d02347f974ab2",
+      "sig": "927f2a8a26b8ddf87f3622339916e182e593c391",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -29453,7 +29507,7 @@
       "last_checked": "2026-09-30"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "c347e5442820f321a04ad67284847994e9fccdcb",
+      "sig": "c5576d43218d077d17322d8487f9671a9c84649c",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
