@@ -27300,7 +27300,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-bnwt-home-shirt-xxl-adidas-cult-kits-5450554.jpg?v=1788557845",
       "price": 199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Domicile",
@@ -29402,7 +29402,7 @@
       ]
     }
   },
-  "updated": "2026-09-30 07:20",
+  "updated": "2026-09-30 13:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29413,11 +29413,11 @@
       "last_checked": "2026-09-30"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d883ff4eff2cdb78bea421efa443024228ad75d4",
+      "sig": "f24d6d960f9754170b89636f2b0d02347f974ab2",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-29",
+      "last_change": "2026-09-30",
       "last_checked": "2026-09-30"
     },
     "Icons.com (CR7)": {
@@ -29429,11 +29429,11 @@
       "last_checked": "2026-09-30"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "7a760fe645781f5d8304d6c83dd1032273377ee7",
-      "count": 132,
+      "sig": "f3125fff463ee55b96c48ed0f9402b2b96450168",
+      "count": 131,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-25",
+      "last_change": "2026-09-30",
       "last_checked": "2026-09-30"
     },
     "classic-shirts.com (CR7)": {
@@ -29453,11 +29453,11 @@
       "last_checked": "2026-09-30"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "7421946c4241640967b02fe48f34eaf69e082ce2",
+      "sig": "c347e5442820f321a04ad67284847994e9fccdcb",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-29",
+      "last_change": "2026-09-30",
       "last_checked": "2026-09-30"
     }
   }
