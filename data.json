@@ -29356,7 +29356,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 70.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -29436,7 +29436,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/EC9DE48E-B9F6-4F6A-872B-D158479A2569.jpg?v=1790682873",
       "price": 149.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Domicile",
@@ -29456,7 +29456,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-01 07:44",
+  "updated": "2026-10-01 14:52",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29483,11 +29483,11 @@
       "last_checked": "2026-10-01"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "f3125fff463ee55b96c48ed0f9402b2b96450168",
-      "count": 131,
+      "sig": "01d848334c54d72d88022decfa0a279ab66d8f00",
+      "count": 130,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-30",
+      "last_change": "2026-10-01",
       "last_checked": "2026-10-01"
     },
     "classic-shirts.com (CR7)": {
@@ -29507,11 +29507,11 @@
       "last_checked": "2026-10-01"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "c5576d43218d077d17322d8487f9671a9c84649c",
+      "sig": "b39c5bfa08f5e7f730f5b3c7675f8f362ae94a2f",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-30",
+      "last_change": "2026-10-01",
       "last_checked": "2026-10-01"
     }
   }
