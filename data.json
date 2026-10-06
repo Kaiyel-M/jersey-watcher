@@ -29562,9 +29562,90 @@
         }
       ],
       "good_deal": false
+    },
+    "The Vault:15851136516473": {
+      "id": "The Vault:15851136516473",
+      "source": "The Vault",
+      "title": "Framed Cristiano Ronaldo Signed Real Madrid Shirt Purple 2016-17 [Classic]",
+      "url": "https://thevault.co.uk/products/framed-cristiano-ronaldo-signed-real-madrid-shirt-purple-2016-17-classic",
+      "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Framed-Signed-Ronaldo-Purple-Real-Madrid-Shirt_6bc4c528-1926-49c0-b9e8-22910fd97143.jpg?v=1791296502",
+      "price": 1499.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "?",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016.",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "history": [
+        {
+          "date": "2026-10-06",
+          "price": 1499.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Finery:15053535904120": {
+      "id": "Football Finery:15053535904120",
+      "source": "Football Finery",
+      "title": "2005/06 Manchester United Away Football Shirt (M) Nike #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2005-06-manchester-united-away-football-shirt-m-nike-7-ronaldo-ff307632",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_c4a54f09-b34e-4a61-8418-8d85f325f398.jpg?v=1790089224",
+      "price": 140.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "history": [
+        {
+          "date": "2026-10-06",
+          "price": 140.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Football Finery:15053535117688": {
+      "id": "Football Finery:15053535117688",
+      "source": "Football Finery",
+      "title": "2006/07 Manchester United Home Football Shirt (2XL) Nike #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2006-07-manchester-united-home-football-shirt-2xl-nike-7-ronaldo-ff307065",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_45c4b136-dcad-482b-9bdb-431c20e888f9.jpg?v=1790331494",
+      "price": 140.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2006,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2006 · Domicile.",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "history": [
+        {
+          "date": "2026-10-06",
+          "price": 140.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-10-06 08:05",
+  "updated": "2026-10-06 15:14",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29575,11 +29656,11 @@
       "last_checked": "2026-10-06"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d7996cd4fafdc03369f0d8a523f0bf814209bb9c",
-      "count": 29,
+      "sig": "d5b27de6540d69bb6d462a4f23d171d280741d47",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-05",
+      "last_change": "2026-10-06",
       "last_checked": "2026-10-06"
     },
     "Icons.com (CR7)": {
@@ -29615,11 +29696,11 @@
       "last_checked": "2026-10-06"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "806bafe23d3bdf00265962a951dda1840b866df4",
+      "sig": "ec7e5f48cb90fc24695d0536fcc513466d2ef831",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-05",
+      "last_change": "2026-10-06",
       "last_checked": "2026-10-06"
     }
   }
