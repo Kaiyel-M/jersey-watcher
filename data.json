@@ -22367,9 +22367,9 @@
       "title": "2004-06 Manchester United Nike Home Shirt Ronaldo #7 *Mint* M",
       "url": "https://www.vintagefootballshirts.com/products/2004-06-manchester-united-nike-home-shirt-ronaldo-7-m",
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/295T45.jpg?v=1730364180",
-      "price": 175.0,
+      "price": 225.0,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -22384,6 +22384,10 @@
         {
           "date": "2026-07-12",
           "price": 175.0
+        },
+        {
+          "date": "2026-10-06",
+          "price": 225.0
         }
       ],
       "good_deal": false
@@ -29645,7 +29649,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-10-06 15:14",
+  "updated": "2026-10-06 20:21",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29656,8 +29660,8 @@
       "last_checked": "2026-10-06"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d5b27de6540d69bb6d462a4f23d171d280741d47",
-      "count": 28,
+      "sig": "14755f0a5063b3d7e27bee9d47a761492dc6ce8a",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-10-06",
@@ -29696,7 +29700,7 @@
       "last_checked": "2026-10-06"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "ec7e5f48cb90fc24695d0536fcc513466d2ef831",
+      "sig": "9c6af24d4abd6886907df001da26f56594318442",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
