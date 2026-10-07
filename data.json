@@ -22366,7 +22366,7 @@
       "source": "Vintage Football Shirts",
       "title": "2004-06 Manchester United Nike Home Shirt Ronaldo #7 *Mint* M",
       "url": "https://www.vintagefootballshirts.com/products/2004-06-manchester-united-nike-home-shirt-ronaldo-7-m",
-      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/295T45.jpg?v=1730364180",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2004-06ManchesterUnitedNikeHomeShirtRonaldo_7MintM3.jpg?v=1791365730",
       "price": 225.0,
       "currency": "£",
       "available": true,
@@ -29599,7 +29599,7 @@
       "source": "Football Finery",
       "title": "2005/06 Manchester United Away Football Shirt (M) Nike #7 Ronaldo",
       "url": "https://www.footballfinery.co.uk/products/2005-06-manchester-united-away-football-shirt-m-nike-7-ronaldo-ff307632",
-      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_c4a54f09-b34e-4a61-8418-8d85f325f398.jpg?v=1790089224",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/200506-manchester-united-away-football-shirt-m-nike-7-ronaldo-ff307632-5023799.jpg?v=1791380183",
       "price": 140.0,
       "currency": "£",
       "available": true,
@@ -29626,7 +29626,7 @@
       "source": "Football Finery",
       "title": "2006/07 Manchester United Home Football Shirt (2XL) Nike #7 Ronaldo",
       "url": "https://www.footballfinery.co.uk/products/2006-07-manchester-united-home-football-shirt-2xl-nike-7-ronaldo-ff307065",
-      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_45c4b136-dcad-482b-9bdb-431c20e888f9.jpg?v=1790331494",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/200607-manchester-united-home-football-shirt-2xl-nike-7-ronaldo-ff307065-1379601.jpg?v=1791380180",
       "price": 140.0,
       "currency": "£",
       "available": true,
@@ -29647,9 +29647,90 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16343681565007": {
+      "id": "Authentic Football Club:16343681565007",
+      "source": "Authentic Football Club",
+      "title": "2018-19 JUVENTUS HOME SHIRT PLAYER ISSUE RONALDO #7 XXL",
+      "url": "https://authenticfootballclub.com/products/2018-19-juventus-home-shirt-player-issue-ronaldo-7-xxl",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/753F676F-3AA2-492E-8E1C-2310E7F861CD.jpg?v=1791308261",
+      "price": 119.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 73,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Domicile · Version joueur.",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "history": [
+        {
+          "date": "2026-10-07",
+          "price": 119.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16337156243791": {
+      "id": "Authentic Football Club:16337156243791",
+      "source": "Authentic Football Club",
+      "title": "2017-18 REAL MADRID HOME SHIRT RONALDO #7 S",
+      "url": "https://authenticfootballclub.com/products/2017-18-real-madrid-home-shirt-ronaldo-7-s-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1EA35B8A-7A4A-4CD2-BA85-EA0043EA2485.jpg?v=1791308261",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Domicile. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "history": [
+        {
+          "date": "2026-10-07",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16336887349583": {
+      "id": "Authentic Football Club:16336887349583",
+      "source": "Authentic Football Club",
+      "title": "2019-20 JUVENTUS HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2019-20-juventus-home-shirt-ronaldo-7-m-6",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/787FAACF-A9FD-42B1-BC28-40431AD22388.jpg?v=1791308261",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "history": [
+        {
+          "date": "2026-10-07",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-07 09:26",
+  "updated": "2026-10-07 21:41",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29660,7 +29741,7 @@
       "last_checked": "2026-10-07"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "86caddd6ed1f270e41880bcfa64b25c5a610d816",
+      "sig": "87dd8896c74e1167c79884ca2eaa27ba7c5cc6ee",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -29700,11 +29781,11 @@
       "last_checked": "2026-10-07"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "9c6af24d4abd6886907df001da26f56594318442",
+      "sig": "d906f93d5a59fcf2d38d92e2a8d720ebe38b0e75",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-06",
+      "last_change": "2026-10-07",
       "last_checked": "2026-10-07"
     }
   }
