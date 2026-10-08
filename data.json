@@ -25325,7 +25325,7 @@
       "title": "MANCHESTER UNITED 2007-09 HOME SHIRT - RONALDO 7 - 7/10",
       "url": "https://thesoccerarchive.com/products/manchester-united-2007-09-home-shirt-ronaldo-7-7-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/RONALDOS-M.jpg?v=1747044524",
-      "price": 200.0,
+      "price": 240.0,
       "currency": "$",
       "available": true,
       "club": "Manchester United",
@@ -25342,6 +25342,10 @@
         {
           "date": "2026-07-29",
           "price": 200.0
+        },
+        {
+          "date": "2026-10-08",
+          "price": 240.0
         }
       ],
       "good_deal": false
@@ -26652,7 +26656,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0188/0122/files/IMG_20260818_130324.jpg?v=1787062273",
       "price": 149.95,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -28654,7 +28658,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/55F7EECB-7A33-43AD-A15C-5E196D188D61.jpg?v=1788887416",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -29730,7 +29734,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-08 14:53",
+  "updated": "2026-10-08 20:17",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29741,8 +29745,8 @@
       "last_checked": "2026-10-08"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "87dd8896c74e1167c79884ca2eaa27ba7c5cc6ee",
-      "count": 30,
+      "sig": "a6328603784dd365a1b7e0b7814da9466618a65f",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-10-08",
