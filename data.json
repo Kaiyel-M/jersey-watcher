@@ -29637,7 +29637,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/200607-manchester-united-home-football-shirt-2xl-nike-7-ronaldo-ff307065-1379601.jpg?v=1791380180",
       "price": 140.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Domicile",
@@ -29691,7 +29691,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1EA35B8A-7A4A-4CD2-BA85-EA0043EA2485.jpg?v=1791308261",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Domicile",
@@ -29742,7 +29742,7 @@
       "source": "Football Finery",
       "title": "2004/06 Manchester United Home Football Shirt (L) Nike #7 Ronaldo",
       "url": "https://www.footballfinery.co.uk/products/2004-06-manchester-united-home-football-shirt-l-nike-7-ronaldo-ff307629",
-      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_85e0b8d3-2bf6-4fc4-991f-236e43a148eb.jpg?v=1789732922",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/200406-manchester-united-home-football-shirt-l-nike-7-ronaldo-ff307629-8646749.jpg?v=1791580638",
       "price": 120.0,
       "currency": "£",
       "available": true,
@@ -29765,7 +29765,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-09 19:07",
+  "updated": "2026-10-09 23:17",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29792,8 +29792,8 @@
       "last_checked": "2026-10-09"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "a41014f4278d9d96ae4c8400159e14af56650125",
-      "count": 132,
+      "sig": "e947ef90f5b2e87343f59b97fd05afebb069d799",
+      "count": 131,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
       "last_change": "2026-10-09",
