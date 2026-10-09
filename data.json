@@ -27096,7 +27096,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/8F29086E-24C4-4386-8E20-4CC860DBE11D.jpg?v=1787941555",
       "price": 99.95,
       "currency": "€",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2018,
       "home_away": "Domicile",
@@ -28743,7 +28743,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/FA80730B-1CE1-40DC-9F01-B6CEA573B3EE.jpg?v=1789144043",
       "price": 129.95,
       "currency": "€",
-      "available": false,
+      "available": true,
       "club": "Portugal",
       "year": 2018,
       "home_away": "Extérieur",
@@ -29765,7 +29765,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-09 13:42",
+  "updated": "2026-10-09 19:07",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29816,7 +29816,7 @@
       "last_checked": "2026-10-09"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "11d4a0009e273fe62204b66101eb7535e4a084a3",
+      "sig": "e489f0df1dff87ab70b14a6b3e62ed11edb4dd3f",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
