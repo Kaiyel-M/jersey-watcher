@@ -224,9 +224,9 @@
       "title": "2002-03 Sporting Lisbon Home Shirt Ronaldo 28 Rookie [Excellent] M",
       "url": "https://thevault.co.uk/products/2002-03-sporting-lisbon-home-shirt-ronaldo-28-rookie-excellent-m",
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Cristiano-Ronaldo-2002-debut-sporting-lisbon-rookie-shirt.jpg?v=1727188801",
-      "price": 629.99,
+      "price": 699.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Sporting CP",
       "year": 2002,
       "home_away": "Domicile",
@@ -241,6 +241,10 @@
         {
           "date": "2026-07-12",
           "price": 629.99
+        },
+        {
+          "date": "2026-10-09",
+          "price": 699.99
         }
       ]
     },
@@ -29229,7 +29233,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/336E9209-7664-4615-AF9C-536860AD4572.jpg?v=1790339387",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -29732,9 +29736,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Football Finery:15055270478200": {
+      "id": "Football Finery:15055270478200",
+      "source": "Football Finery",
+      "title": "2004/06 Manchester United Home Football Shirt (L) Nike #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2004-06-manchester-united-home-football-shirt-l-nike-7-ronaldo-ff307629",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_85e0b8d3-2bf6-4fc4-991f-236e43a148eb.jpg?v=1789732922",
+      "price": 120.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "history": [
+        {
+          "date": "2026-10-09",
+          "price": 120.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-09 06:38",
+  "updated": "2026-10-09 13:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29745,27 +29776,27 @@
       "last_checked": "2026-10-09"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "a6328603784dd365a1b7e0b7814da9466618a65f",
-      "count": 29,
+      "sig": "a2ac1d5e438943be6ad9210d6943d779f0f2e757",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-08",
+      "last_change": "2026-10-09",
       "last_checked": "2026-10-09"
     },
     "Icons.com (CR7)": {
-      "sig": "7a85feaa4e706eb29f20404d713cade36d6dfd06",
-      "count": 177,
+      "sig": "768fb347f3413a6b156d065758a21bd76dc36a01",
+      "count": 176,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-09-23",
+      "last_change": "2026-10-09",
       "last_checked": "2026-10-09"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "c12e3ad99d894edda819f5099fbfad522ff7d965",
+      "sig": "a41014f4278d9d96ae4c8400159e14af56650125",
       "count": 132,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-02",
+      "last_change": "2026-10-09",
       "last_checked": "2026-10-09"
     },
     "classic-shirts.com (CR7)": {
@@ -29785,11 +29816,11 @@
       "last_checked": "2026-10-09"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "9c6af24d4abd6886907df001da26f56594318442",
+      "sig": "11d4a0009e273fe62204b66101eb7535e4a084a3",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-08",
+      "last_change": "2026-10-09",
       "last_checked": "2026-10-09"
     }
   }
