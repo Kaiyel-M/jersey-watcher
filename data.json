@@ -29772,7 +29772,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/A3FE1BD4-7CF1-4FB8-848C-1585024B2B2C.jpg?v=1791566971",
       "price": 269.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -29900,7 +29900,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-11 14:04",
+  "updated": "2026-10-11 18:56",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
