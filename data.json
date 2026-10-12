@@ -25304,7 +25304,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_bf24b0a2-5dcb-474e-8b6a-6c51a1a72324.png?v=1744634618",
       "price": 130.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Domicile",
@@ -25314,7 +25314,7 @@
       "tier": "B",
       "desc": "Juventus · 2019 · Domicile.",
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-12",
       "history": [
         {
           "date": "2026-07-28",
@@ -27015,7 +27015,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -27025,7 +27025,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Extérieur.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-10-12",
       "history": [
         {
           "date": "2026-08-26",
@@ -29900,7 +29900,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-12 08:10",
+  "updated": "2026-10-12 17:56",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29951,11 +29951,11 @@
       "last_checked": "2026-10-12"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "e489f0df1dff87ab70b14a6b3e62ed11edb4dd3f",
+      "sig": "14d3acdd1deb9dc4b4c7a460b4d6714e0441b3fb",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-09",
+      "last_change": "2026-10-12",
       "last_checked": "2026-10-12"
     }
   }
