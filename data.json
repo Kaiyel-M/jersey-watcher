@@ -25331,7 +25331,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/RONALDOS-M.jpg?v=1747044524",
       "price": 240.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -27015,7 +27015,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -29475,7 +29475,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/REAL_MADRID_2014-15_HOME_SHIRT_-_RONALDO_7.png?v=1771490956",
       "price": 200.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Domicile",
@@ -29853,7 +29853,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/F87AA2B8-0779-4E47-9648-440967099A29.jpg?v=1791566970",
       "price": 389.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Third",
@@ -29954,7 +29954,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-10-14 06:49",
+  "updated": "2026-10-14 12:32",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -29965,11 +29965,11 @@
       "last_checked": "2026-10-14"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "ea15e7c56afecc045d2c42500ef929c46eb800be",
-      "count": 29,
+      "sig": "ba4c5b855d97ef56e8f6c5d9c58b9204fd68728e",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-13",
+      "last_change": "2026-10-14",
       "last_checked": "2026-10-14"
     },
     "Icons.com (CR7)": {
