@@ -20453,7 +20453,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/6A69617D-A632-4171-8FAD-6C26637EDDF7.jpg?v=1779041170",
       "price": 279.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Extérieur",
@@ -26580,7 +26580,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9225DC96-3A20-475B-BF46-21C81C1948F2.jpg?v=1786792608",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -28581,7 +28581,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/26A808A8-B2AB-468F-8FD7-93ACCCB1A1A8.jpg?v=1788887416",
       "price": 139.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Extérieur",
@@ -29880,7 +29880,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/47A7EA99-0DB4-404B-800D-47BAAECE6D60.jpg?v=1791566828",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Domicile",
@@ -30015,7 +30015,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201920-juventus-ronaldo-7-home-shirt-m-adidas-5acnhhgo-cult-kits-3877344.jpg?v=1791996263",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2019,
       "home_away": "Domicile",
@@ -30062,7 +30062,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-14 17:34",
+  "updated": "2026-10-14 20:57",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
