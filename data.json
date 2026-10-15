@@ -24243,7 +24243,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24253,7 +24253,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-15",
       "history": [
         {
           "date": "2026-07-14",
@@ -30062,7 +30062,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-15 06:35",
+  "updated": "2026-10-15 12:01",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30073,11 +30073,11 @@
       "last_checked": "2026-10-15"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "7504bcb5348d928b8f76c472a5f0936451fff2f0",
-      "count": 29,
+      "sig": "d6b76fcbf2f0da8de4472faac1c63ea6d5047544",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-14",
+      "last_change": "2026-10-15",
       "last_checked": "2026-10-15"
     },
     "Icons.com (CR7)": {
