@@ -1053,12 +1053,12 @@
       "available": true,
       "club": "Real Madrid",
       "year": 2012,
-      "home_away": "Extérieur",
+      "home_away": "Third",
       "sleeve": "",
       "version": "Rétail",
-      "rarity": 78,
+      "rarity": 80,
       "tier": "A",
-      "desc": "Real Madrid · 2012 · Extérieur.",
+      "desc": "Real Madrid · 2012 · Third.",
       "first_seen": "2026-07-12",
       "last_seen": "2026-10-15",
       "history": [
@@ -30087,9 +30087,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16133099389310": {
+      "id": "Cult Kits:16133099389310",
+      "source": "Cult Kits",
+      "title": "2019/20 Juventus Ronaldo #7 *BNWT* Home Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-bnwt-home-shirt-xl-adidas-rnca8x24",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0008_1_4ab3841a-afd6-42fa-ad11-1f04102fcd49.jpg?v=1791987552",
+      "price": 174.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "history": [
+        {
+          "date": "2026-10-15",
+          "price": 174.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-15 16:21",
+  "updated": "2026-10-15 20:01",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30100,8 +30127,8 @@
       "last_checked": "2026-10-15"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d6b76fcbf2f0da8de4472faac1c63ea6d5047544",
-      "count": 30,
+      "sig": "499fa134e3e209ed33e5ea10dc3810c741215dc1",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-10-15",
