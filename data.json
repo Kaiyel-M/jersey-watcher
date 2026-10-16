@@ -30093,7 +30093,7 @@
       "source": "Cult Kits",
       "title": "2019/20 Juventus Ronaldo #7 *BNWT* Home Shirt (XL) Adidas",
       "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-bnwt-home-shirt-xl-adidas-rnca8x24",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0008_1_4ab3841a-afd6-42fa-ad11-1f04102fcd49.jpg?v=1791987552",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201920-juventus-ronaldo-7-bnwt-home-shirt-xl-adidas-rnca8x24-cult-kits-4299706.jpg?v=1792166787",
       "price": 174.99,
       "currency": "£",
       "available": true,
@@ -30222,9 +30222,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16133099192702": {
+      "id": "Cult Kits:16133099192702",
+      "source": "Cult Kits",
+      "title": "2014/15 Portugal Ronaldo #7 Authentic Away Shirt (M) Nike",
+      "url": "https://cultkits.com/products/2014-15-portugal-ronaldo-7-authentic-away-shirt-m-nike-e6cpytwn",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0040_98bb5a3b-7efe-4db0-9e51-6acf170fc88f.jpg?v=1791987384",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Portugal",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 82,
+      "tier": "A",
+      "desc": "Portugal · 2014 · Extérieur · Version joueur.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16133099061630": {
+      "id": "Cult Kits:16133099061630",
+      "source": "Cult Kits",
+      "title": "2019/20 Juventus Ronaldo #7 Home Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-home-shirt-s-adidas-vw98w68q",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0036_b527c215-85c1-40be-a6de-94d01e1f077f.jpg?v=1791987334",
+      "price": 89.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 89.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16133098570110": {
+      "id": "Cult Kits:16133098570110",
+      "source": "Cult Kits",
+      "title": "2004/06 Manchester United Ronaldo #7 Home Shirt (S) Nike",
+      "url": "https://cultkits.com/products/2004-06-manchester-united-ronaldo-7-home-shirt-s-nike-16svyrn9",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0024_1f732884-22f1-4a84-8264-8f2cd9947101.jpg?v=1791987174",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 124.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16133097980286": {
+      "id": "Cult Kits:16133097980286",
+      "source": "Cult Kits",
+      "title": "2015/16 Real Madrid Ronaldo #7 L/S *Player Issue* Home Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-l-s-player-issue-home-shirt-s-adidas-7vydi4r7",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0010_ab531c6c-10a8-4fe5-8e12-7539b5c5b4a0.jpg?v=1791986993",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Domicile",
+      "sleeve": "Manches longues",
+      "version": "Version joueur",
+      "rarity": 83,
+      "tier": "A",
+      "desc": "Real Madrid · 2015 · Domicile · Manches longues · Version joueur.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 124.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-16 14:23",
+  "updated": "2026-10-16 18:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30275,11 +30383,11 @@
       "last_checked": "2026-10-16"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "21d85e3deaae3392175e25c0f663603d78b5b4f8",
+      "sig": "23d5bb43e4d5abd22e8f506813e95f0af6378721",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-14",
+      "last_change": "2026-10-16",
       "last_checked": "2026-10-16"
     }
   }
