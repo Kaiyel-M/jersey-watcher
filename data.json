@@ -30069,7 +30069,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.jpg?v=1746613868",
       "price": 200.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -30120,7 +30120,7 @@
       "source": "Football Finery",
       "title": "2017/19 Real Madrid Away Football Shirt (M) Adidas #7 Ronaldo",
       "url": "https://www.footballfinery.co.uk/products/2017-19-real-madrid-away-football-shirt-m-adidas-7-ronaldo-ff306940",
-      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/rn-image_picker_lib_temp_f208b8fc-8c17-4cf2-a76c-dd3bb33d3877.jpg?v=1790590648",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/201719-real-madrid-away-football-shirt-m-adidas-7-ronaldo-ff306940-2490788.jpg?v=1792148546",
       "price": 90.0,
       "currency": "£",
       "available": true,
@@ -30141,9 +30141,90 @@
         }
       ],
       "good_deal": true
+    },
+    "Vintage Football Shirts:10802838634843": {
+      "id": "Vintage Football Shirts:10802838634843",
+      "source": "Vintage Football Shirts",
+      "title": "2018-19 Juventus adidas Third Shirt Ronaldo #7 *Mint*",
+      "url": "https://www.vintagefootballshirts.com/products/2018-19-juventus-adidas-third-shirt-ronaldo-7",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/325T1350617437536468.jpg?v=1744808267",
+      "price": 125.0,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 71,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Third.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 125.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Vintage Football Shirts:10802508071259": {
+      "id": "Vintage Football Shirts:10802508071259",
+      "source": "Vintage Football Shirts",
+      "title": "2021-22 Manchester United adidas Away Shirt Ronaldo #7 M",
+      "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-away-shirt-ronaldo-7-m-1",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2021-22ManchesterUnitedadidasAwayShirtRonaldo_7M.jpg?v=1792157355",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 62,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Extérieur.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Vintage Football Shirts:10802531959131": {
+      "id": "Vintage Football Shirts:10802531959131",
+      "source": "Vintage Football Shirts",
+      "title": "2021-22 Manchester United adidas Home Shirt Ronaldo #7",
+      "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-home-shirt-ronaldo-7-xl",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2021-22-manchester-united-adid-66587-1.jpg?v=1730199112",
+      "price": 90.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2021 · Domicile.",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "history": [
+        {
+          "date": "2026-10-16",
+          "price": 90.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-16 09:51",
+  "updated": "2026-10-16 14:23",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30154,11 +30235,11 @@
       "last_checked": "2026-10-16"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d6b76fcbf2f0da8de4472faac1c63ea6d5047544",
+      "sig": "d4e9aa7c8aa8de2c24ccdb83b9c375ebbe55259d",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-15",
+      "last_change": "2026-10-16",
       "last_checked": "2026-10-16"
     },
     "Icons.com (CR7)": {
