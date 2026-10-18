@@ -30393,7 +30393,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0056_f2c9de1a-7826-4eed-a2ca-e0d2a2d2eb75.jpg?v=1792160398",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2016,
       "home_away": "Domicile",
@@ -30440,7 +30440,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-18 17:00",
+  "updated": "2026-10-18 19:14",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
