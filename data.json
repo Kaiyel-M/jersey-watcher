@@ -30357,9 +30357,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16357791007055": {
+      "id": "Authentic Football Club:16357791007055",
+      "source": "Authentic Football Club",
+      "title": "2018-19 PORTUGAL HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2018-19-portugal-home-shirt-ronaldo-7-l-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/2D41E8EB-EDAE-4C10-BFA5-81528EF0DE7F.jpg?v=1792074126",
+      "price": 129.95,
+      "currency": "€",
+      "available": true,
+      "club": "Portugal",
+      "year": 2018,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 58,
+      "tier": "C",
+      "desc": "Portugal · 2018 · Domicile.",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "history": [
+        {
+          "date": "2026-10-18",
+          "price": 129.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-18 05:55",
+  "updated": "2026-10-18 10:00",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
