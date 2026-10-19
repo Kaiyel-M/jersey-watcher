@@ -18744,9 +18744,9 @@
       "title": "JUVENTUS 2020-21 HOME SHIRT - RONALDO 7 - 8/10",
       "url": "https://thesoccerarchive.com/products/juventus-2020-21-home-shirt-ronaldo-7-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
-      "price": 110.0,
+      "price": 120.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -18756,7 +18756,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-10-19",
       "history": [
         {
           "date": "2026-07-12",
@@ -18765,6 +18765,10 @@
         {
           "date": "2026-09-02",
           "price": 110.0
+        },
+        {
+          "date": "2026-10-19",
+          "price": 120.0
         }
       ],
       "good_deal": true
@@ -30366,7 +30370,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/2D41E8EB-EDAE-4C10-BFA5-81528EF0DE7F.jpg?v=1792074126",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2018,
       "home_away": "Domicile",
@@ -30438,9 +30442,90 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16142007730558": {
+      "id": "Cult Kits:16142007730558",
+      "source": "Cult Kits",
+      "title": "2013/14 Real Madrid Ronaldo #7 Third Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2013-14-real-madrid-ronaldo-7-third-shirt-s-adidas-tf8pg0sj",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0040_9bfb4154-4cf3-47bc-87f3-1e6fa5eceb9a.jpg?v=1792403797",
+      "price": 79.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2013,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Real Madrid · 2013 · Third. La Décima.",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "history": [
+        {
+          "date": "2026-10-19",
+          "price": 79.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16141937344894": {
+      "id": "Cult Kits:16141937344894",
+      "source": "Cult Kits",
+      "title": "2012/13 Portugal Ronaldo #7 *Player Issue* Home Shirt (L) Nike",
+      "url": "https://cultkits.com/products/2012-13-portugal-ronaldo-7-player-issue-home-shirt-l-nike-yqz6qwts",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0030_473299d7-57b3-465e-bd3a-6711e4ba26b1.jpg?v=1792403362",
+      "price": 174.99,
+      "currency": "£",
+      "available": true,
+      "club": "Portugal",
+      "year": 2012,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Portugal · 2012 · Domicile · Version joueur.",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "history": [
+        {
+          "date": "2026-10-19",
+          "price": 174.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16141937279358": {
+      "id": "Cult Kits:16141937279358",
+      "source": "Cult Kits",
+      "title": "2010/11 Real Madrid Ronaldo #7 Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2010-11-real-madrid-ronaldo-7-player-issue-home-shirt-m-adidas-gs9v628f",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0026_6dff09e3-c786-4cb4-9625-9535b8390ed2.jpg?v=1792403159",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2010,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2010 · Domicile.",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "history": [
+        {
+          "date": "2026-10-19",
+          "price": 124.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-10-19 14:07",
+  "updated": "2026-10-19 19:58",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30451,7 +30536,7 @@
       "last_checked": "2026-10-19"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "3e6d96c88d8f9bfde353bcb16345d624ddad6f1a",
+      "sig": "4cf9f0498c6c0d4145c60f079f32f0eff8d37fee",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
