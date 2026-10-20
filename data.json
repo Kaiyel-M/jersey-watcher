@@ -18746,7 +18746,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 120.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -30523,9 +30523,117 @@
         }
       ],
       "good_deal": true
+    },
+    "Classic Football Kit:15583322210679": {
+      "id": "Classic Football Kit:15583322210679",
+      "source": "Classic Football Kit",
+      "title": "2018-19 Juventus adidas Third Shirt Ronaldo #7 *Mint* L",
+      "url": "https://classicfootballkit.co.uk/products/2018-19-juventus-adidas-third-shirt-ronaldo-7-mint-54380033900891",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/325T1350617437536468.jpg?v=1792499420",
+      "price": 125.0,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 71,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Third.",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "history": [
+        {
+          "date": "2026-10-20",
+          "price": 125.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Classic Football Kit:15583324242295": {
+      "id": "Classic Football Kit:15583324242295",
+      "source": "Classic Football Kit",
+      "title": "2021-22 Manchester United adidas Home Shirt Ronaldo #7 XL",
+      "url": "https://classicfootballkit.co.uk/products/2021-22-manchester-united-adidas-home-shirt-ronaldo-7-54378810442075",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2021-22-manchester-united-adid-66587-1_6f92911c-5ab5-47f9-9b63-2db72bfb493d.jpg?v=1792499461",
+      "price": 90.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2021 · Domicile.",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "history": [
+        {
+          "date": "2026-10-20",
+          "price": 90.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Classic Football Kit:15583326077303": {
+      "id": "Classic Football Kit:15583326077303",
+      "source": "Classic Football Kit",
+      "title": "2021-22 Manchester United adidas Away Shirt Ronaldo #7 M",
+      "url": "https://classicfootballkit.co.uk/products/2021-22-manchester-united-adidas-away-shirt-ronaldo-7-54378766827867",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2021-22ManchesterUnitedadidasAwayShirtRonaldo_7M.jpg?v=1792499497",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 62,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Extérieur.",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "history": [
+        {
+          "date": "2026-10-20",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
+    },
+    "Classic Football Kit:15583391252855": {
+      "id": "Classic Football Kit:15583391252855",
+      "source": "Classic Football Kit",
+      "title": "2004-06 Manchester United Nike Home Shirt Ronaldo #7 *Mint* M",
+      "url": "https://classicfootballkit.co.uk/products/2004-06-manchester-united-nike-home-shirt-ronaldo-7-mint-51322215072091",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2004-06ManchesterUnitedNikeHomeShirtRonaldo_7MintM3.jpg?v=1792501923",
+      "price": 225.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "history": [
+        {
+          "date": "2026-10-20",
+          "price": 225.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-20 12:22",
+  "updated": "2026-10-20 17:19",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30536,7 +30644,7 @@
       "last_checked": "2026-10-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "cd0bd30e523ba66eb41a2af3c29f8964602af5d1",
+      "sig": "440098d20ec81e0a981e8a6e4bfc06f6e13a01c2",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
