@@ -18746,7 +18746,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 120.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -18756,7 +18756,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "history": [
         {
           "date": "2026-07-12",
@@ -30631,9 +30631,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16146683593086": {
+      "id": "Cult Kits:16146683593086",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Away Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-away-shirt-s-adidas-qwh5vvj8",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0029_a9a6a09e-98b6-4d35-9755-318142066a23.jpg?v=1792589182",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Extérieur.",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "history": [
+        {
+          "date": "2026-10-21",
+          "price": 99.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-10-21 12:31",
+  "updated": "2026-10-21 17:38",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
