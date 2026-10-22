@@ -23411,7 +23411,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2020-21_Juventus_adidas_x_Humanrace_Fourth_Shirt_Ronaldo_7_wtags_M_0_cff406d5-b491-4986-9771-6691497a227e.jpg?v=1780670210",
       "price": 250.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "?",
@@ -23438,7 +23438,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2010-11RealMadridadidasHomeShirtRonaldo_9XL0_63644535-a367-443d-9409-53f8fb9be959.jpg?v=1780670223",
       "price": 150.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Domicile",
@@ -23600,7 +23600,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2020-21-juventus-adidas-third-65540-1_0272d6b2-29fd-4443-826b-60e8b36b277b.jpg?v=1783277226",
       "price": 150.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Third",
@@ -29830,7 +29830,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/C9104890-711B-45B2-995E-1E2E28FE30D7.jpg?v=1791566828",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Domicile",
@@ -30660,7 +30660,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-10-22 07:37",
+  "updated": "2026-10-22 13:11",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30671,11 +30671,11 @@
       "last_checked": "2026-10-22"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "a53250d02d33cd499b5a02c6c2914c5810565bce",
+      "sig": "d5a3784d2adf876644cf57f172ce0eb96571a898",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-21",
+      "last_change": "2026-10-22",
       "last_checked": "2026-10-22"
     },
     "Icons.com (CR7)": {
@@ -30687,11 +30687,11 @@
       "last_checked": "2026-10-22"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "1c43f9bd93b31810301643439c38f1ab4d155d92",
-      "count": 130,
+      "sig": "b12b426c85ca196e2f7804ba6dd21525fb8bdd94",
+      "count": 131,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-20",
+      "last_change": "2026-10-22",
       "last_checked": "2026-10-22"
     },
     "classic-shirts.com (CR7)": {
@@ -30711,11 +30711,11 @@
       "last_checked": "2026-10-22"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "f2512b1142e424d4967980807bca2bb1b1bd5f69",
+      "sig": "9018f7759f6ce536b20b75e65a46bc1802e07c45",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-16",
+      "last_change": "2026-10-22",
       "last_checked": "2026-10-22"
     }
   }
