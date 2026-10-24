@@ -30847,9 +30847,90 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16149012513150": {
+      "id": "Cult Kits:16149012513150",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 *BNWT with defect* Away Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-bnwt-away-shirt-xl-adidas-d35mc9oa",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0040_1_beac7b91-02b7-4694-9dd0-5bb45d08dc90.jpg?v=1792678873",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2014 · Extérieur.",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 99.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16149012283774": {
+      "id": "Cult Kits:16149012283774",
+      "source": "Cult Kits",
+      "title": "2013/14 Real Madrid Ronaldo #7 Away Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2013-14-real-madrid-ronaldo-7-away-shirt-m-adidas-f1sn421f",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0036_1_24a8398c-da8e-4950-aa25-da8f538d13d3.jpg?v=1792678812",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2013,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 84,
+      "tier": "A",
+      "desc": "Real Madrid · 2013 · Extérieur. La Décima.",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Classic Football Kit:15585588380023": {
+      "id": "Classic Football Kit:15585588380023",
+      "source": "Classic Football Kit",
+      "title": "2022-23 Manchester United adidas Home Shirt Ronaldo #7 *Mint* M",
+      "url": "https://classicfootballkit.co.uk/products/2022-23-manchester-united-adidas-home-shirt-ronaldo-7-mint-54413591052635",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2022-23-manchester-united-adid-53544-1.jpg?v=1792859921",
+      "price": 65.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 65.0
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-10-24 14:50",
+  "updated": "2026-10-24 17:42",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30860,11 +30941,11 @@
       "last_checked": "2026-10-24"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "6394893ab473fb9caebd5af32d32fd689290cf6c",
-      "count": 30,
+      "sig": "815fc21931f7b36e67805adcc473b5b52cd176ca",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-23",
+      "last_change": "2026-10-24",
       "last_checked": "2026-10-24"
     },
     "Icons.com (CR7)": {
