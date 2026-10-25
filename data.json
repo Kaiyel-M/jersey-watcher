@@ -30982,9 +30982,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16150918758782": {
+      "id": "Cult Kits:16150918758782",
+      "source": "Cult Kits",
+      "title": "2016/17 Real Madrid Ronaldo #7 Third Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-third-shirt-m-adidas-m0zxidwr",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0034_393819cc-07d4-4a1c-835d-8cd3b9027f7d.jpg?v=1792764074",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2016 · Third.",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16150917677438": {
+      "id": "Cult Kits:16150917677438",
+      "source": "Cult Kits",
+      "title": "2019/20 Juventus Ronaldo #7 Home Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-home-shirt-xl-adidas-plvcz0i7",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0010_e475344b-b353-4af5-9b57-ad2123b10716.jpg?v=1792763556",
+      "price": 79.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "price": 79.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-10-25 17:18",
+  "updated": "2026-10-25 19:41",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
