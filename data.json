@@ -26445,7 +26445,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2002-04_HOME_SHIRT_-_RONALDO_7.jpg?v=1763567317",
       "price": 240.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2002,
       "home_away": "Domicile",
@@ -30928,9 +30928,63 @@
         }
       ],
       "good_deal": true
+    },
+    "Authentic Football Club:16384835748175": {
+      "id": "Authentic Football Club:16384835748175",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-l-8",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/497921D6-A8E2-42E8-949F-B6F1B0F3A281.jpg?v=1792779912",
+      "price": 79.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "price": 79.95
+        }
+      ],
+      "good_deal": true
+    },
+    "Authentic Football Club:16256368312655": {
+      "id": "Authentic Football Club:16256368312655",
+      "source": "Authentic Football Club",
+      "title": "2004-06 MANCHESTER UNITED HOME SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2004-06-manchester-united-home-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/AFAC1A0A-4F06-4D26-81F8-A04DA6CC9903.jpg?v=1792779086",
+      "price": 399.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2004,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2004 · Domicile.",
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "price": 399.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-25 09:29",
+  "updated": "2026-10-25 13:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -30965,7 +31019,7 @@
       "last_checked": "2026-10-25"
     },
     "classic-shirts.com (CR7)": {
-      "sig": "1a41919a587bbb1e1f98834ef30e6a874ff58c70",
+      "sig": "9c35eab2f6cda9b14ff72dcd7c6912ef3a42b09c",
       "count": 313,
       "url": "https://classic-shirts.com/search.php?text=cristiano+ronaldo",
       "first_seen": "2026-07-12",
