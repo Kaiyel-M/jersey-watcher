@@ -31036,9 +31036,63 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16150921085310": {
+      "id": "Cult Kits:16150921085310",
+      "source": "Cult Kits",
+      "title": "2018/19 Juventus Ronaldo #7 Third Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2018-19-juventus-ronaldo-7-third-shirt-xl-adidas-iiz41a19",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0077_07293720-f264-4bf5-bf87-f365ece5f1de.jpg?v=1792765308",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2018,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 71,
+      "tier": "B",
+      "desc": "Juventus · 2018 · Third.",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "price": 99.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16150919676286": {
+      "id": "Cult Kits:16150919676286",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 Away Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-away-shirt-l-adidas-pv8sjrra",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0051_03c24b75-dc36-40cd-ab18-e4b5a0612bfb.jpg?v=1792764534",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 84,
+      "tier": "A",
+      "desc": "Real Madrid · 2017 · Extérieur. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "history": [
+        {
+          "date": "2026-10-26",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-26 17:25",
+  "updated": "2026-10-26 21:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
