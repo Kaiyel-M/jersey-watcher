@@ -18746,7 +18746,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 120.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -18781,7 +18781,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -27019,7 +27019,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -30775,7 +30775,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-away-shirt-l-adidas-l73htzec-cult-kits-1621953.jpg?v=1792826007",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Extérieur",
@@ -31038,7 +31038,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-10-26 11:09",
+  "updated": "2026-10-26 17:25",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31049,7 +31049,7 @@
       "last_checked": "2026-10-26"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "56457ebcecb356a4512e467de7fe62e14fa40ea0",
+      "sig": "135953236233058434de4092b1a99335286324b1",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
