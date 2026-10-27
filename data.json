@@ -18781,7 +18781,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -18791,7 +18791,7 @@
       "tier": "B",
       "desc": "Manchester United · 2021 · Extérieur.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "history": [
         {
           "date": "2026-07-12",
@@ -27019,7 +27019,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_f2bbf414-b173-4b48-9e8c-e41a41bdc48c.png?v=1745507988",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -27029,7 +27029,7 @@
       "tier": "B",
       "desc": "Manchester United · 2022 · Extérieur.",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "history": [
         {
           "date": "2026-08-26",
@@ -30559,7 +30559,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2021-22-manchester-united-adid-66587-1_6f92911c-5ab5-47f9-9b63-2db72bfb493d.jpg?v=1792499461",
       "price": 90.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -31090,9 +31090,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:9543732789535": {
+      "id": "The Soccer Archive:9543732789535",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2003-05 AWAY SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2003-04-away-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.png?v=1744885994",
+      "price": 200.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2003,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2003 · Extérieur.",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "price": 200.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-27 11:08",
+  "updated": "2026-10-27 16:40",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31103,8 +31130,8 @@
       "last_checked": "2026-10-27"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "928e68514cd1edea3ef121066da875244a4abc4e",
-      "count": 29,
+      "sig": "01974b30d20a1e85f790bd60fdb387675291ca4e",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-10-27",
