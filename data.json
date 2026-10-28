@@ -29183,7 +29183,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/8F25C32D-8681-41E7-B6FE-86B2DB059DCE.jpg?v=1790093560",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -29695,7 +29695,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/E328C4C0-19E0-4E28-9D33-5D2C9C181A07.jpg?v=1791566829",
       "price": 159.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2017,
       "home_away": "Domicile",
@@ -31146,7 +31146,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-28 11:44",
+  "updated": "2026-10-28 17:30",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31173,15 +31173,15 @@
       "last_checked": "2026-10-28"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "3e7f0f9b2c3b561d0c1711ec6dfb2232af4ae0bf",
-      "count": 132,
+      "sig": "5c6f37bd1e8c5596ae83ecf639c4748eb03e4cd9",
+      "count": 133,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-23",
+      "last_change": "2026-10-28",
       "last_checked": "2026-10-28"
     },
     "classic-shirts.com (CR7)": {
-      "sig": "5320dda7183770ef1df4148ca84f533e175659ea",
+      "sig": "2e837729445f201c4db45f4a2349626fccf4206b",
       "count": 314,
       "url": "https://classic-shirts.com/search.php?text=cristiano+ronaldo",
       "first_seen": "2026-07-12",
@@ -31197,11 +31197,11 @@
       "last_checked": "2026-10-28"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "9018f7759f6ce536b20b75e65a46bc1802e07c45",
+      "sig": "c22ff366901254500d71a5d4e2644f7dcd55e929",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-22",
+      "last_change": "2026-10-28",
       "last_checked": "2026-10-28"
     }
   }
