@@ -30640,7 +30640,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201617-real-madrid-ronaldo-7-away-shirt-s-adidas-qwh5vvj8-cult-kits-3553177.jpg?v=1792682356",
       "price": 99.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2016,
       "home_away": "Extérieur",
@@ -31146,7 +31146,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-10-28 05:44",
+  "updated": "2026-10-28 11:44",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31157,7 +31157,7 @@
       "last_checked": "2026-10-28"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "a924a7b1cfc3fb3875688d8e6306d0f222ccb8c8",
+      "sig": "b696136c2658c2bf57c41bf36c430dca0fb4987d",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -31165,11 +31165,11 @@
       "last_checked": "2026-10-28"
     },
     "Icons.com (CR7)": {
-      "sig": "bad50492a002a38909bdf37f2fd3c69f863619e6",
-      "count": 178,
+      "sig": "94fd139ac265faf66de9de3d42a2259d7bde45f7",
+      "count": 177,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-27",
+      "last_change": "2026-10-28",
       "last_checked": "2026-10-28"
     },
     "A1 Sporting Memorabilia (CR7)": {
@@ -31181,11 +31181,11 @@
       "last_checked": "2026-10-28"
     },
     "classic-shirts.com (CR7)": {
-      "sig": "9c35eab2f6cda9b14ff72dcd7c6912ef3a42b09c",
-      "count": 313,
+      "sig": "5320dda7183770ef1df4148ca84f533e175659ea",
+      "count": 314,
       "url": "https://classic-shirts.com/search.php?text=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-25",
+      "last_change": "2026-10-28",
       "last_checked": "2026-10-28"
     },
     "Footuni Japan (CR7)": {
