@@ -1423,7 +1423,7 @@
       "source": "Cult Kits",
       "title": "Real Madrid Cristiano Ronaldo Bootleg Tee",
       "url": "https://cultkits.com/products/real-madrid-cristiano-ronaldo-bootleg-tee",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/real-madrid-cristiano-ronaldo-bootleg-tee-cult-kits-2875938.jpg?v=1781112134",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/CRISTIANO_REAL_MADRID_BLACK_TEE_copy.jpg?v=1793281333",
       "price": 24.99,
       "currency": "£",
       "available": true,
@@ -18781,7 +18781,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDO_715172fc-6bc9-433f-9348-c7ffe40d53f2.jpg?v=1745508448",
       "price": 80.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -29372,7 +29372,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 70.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -31254,7 +31254,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-10-29 07:13",
+  "updated": "2026-10-29 14:21",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31265,11 +31265,11 @@
       "last_checked": "2026-10-29"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "b696136c2658c2bf57c41bf36c430dca0fb4987d",
+      "sig": "6ac2753418a151f75f933bb287932d0dfe264199",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-28",
+      "last_change": "2026-10-29",
       "last_checked": "2026-10-29"
     },
     "Icons.com (CR7)": {
