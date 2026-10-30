@@ -31252,9 +31252,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Vintage Football Shirts:10848162283867": {
+      "id": "Vintage Football Shirts:10848162283867",
+      "source": "Vintage Football Shirts",
+      "title": "2021-22 Manchester United adidas Third Shirt Ronaldo #7",
+      "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-third-shirt-ronaldo-7-l-copy",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2021-22ManchesterUnitedadidasThirdShirtRonaldo_7L00.jpg?v=1769681256",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "history": [
+        {
+          "date": "2026-10-30",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-10-30 09:08",
+  "updated": "2026-10-30 15:58",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31265,11 +31292,11 @@
       "last_checked": "2026-10-30"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "f856ceae62eee5ec2c175752710dd4d607f22839",
+      "sig": "eddc3c711f3eaea49d3240b2ba110b8c1db85271",
       "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-29",
+      "last_change": "2026-10-30",
       "last_checked": "2026-10-30"
     },
     "Icons.com (CR7)": {
