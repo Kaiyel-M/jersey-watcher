@@ -22182,7 +22182,7 @@
       "title": "Cristiano Ronaldo 7 Real Madrid 2017-2018 Home Signed Soccer Shirt | La Decimotercera",
       "url": "https://walkouts.com/products/cristiano-ronaldo-7-real-madrid-2017-2018-home-signed-soccer-shirt-la-decimotercera",
       "image": "https://cdn.shopify.com/s/files/1/0849/3721/2232/files/Cristiano-Ronaldo-7-Real-Madrid-Home-Frame_20ff0f68-91ee-48b1-a4f2-eee3eae865c3.webp?v=1758959725",
-      "price": 1599.0,
+      "price": 995.0,
       "currency": "£",
       "available": false,
       "club": "Real Madrid",
@@ -22199,6 +22199,10 @@
         {
           "date": "2026-07-12",
           "price": 1599.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 995.0
         }
       ],
       "good_deal": false
@@ -31279,9 +31283,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16346210042191": {
+      "id": "Authentic Football Club:16346210042191",
+      "source": "Authentic Football Club",
+      "title": "2015-16 REAL MADRID AWAY SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2015-16-real-madrid-away-shirt-ronaldo-7-l-2",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/E5B0C1D7-730D-4824-B7EE-0657D25BBEA3.jpg?v=1793128014",
+      "price": 159.95,
+      "currency": "€",
+      "available": false,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Extérieur.",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "history": [
+        {
+          "date": "2026-11-01",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-01 08:04",
+  "updated": "2026-11-01 15:10",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
