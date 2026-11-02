@@ -1372,7 +1372,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-manchester-united-ronaldo-7-away-shirt-xxl-nike-cult-kits-7309939.jpg?v=1773202502",
       "price": 149.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -30833,7 +30833,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2022-23-manchester-united-adid-53544-1.jpg?v=1730063250",
       "price": 65.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -31103,7 +31103,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.png?v=1744885994",
       "price": 200.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2003,
       "home_away": "Extérieur",
@@ -31310,9 +31310,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Classic Football Kit:15592019001719": {
+      "id": "Classic Football Kit:15592019001719",
+      "source": "Classic Football Kit",
+      "title": "2021-22 Manchester United adidas Third Shirt Ronaldo #7 XL",
+      "url": "https://classicfootballkit.co.uk/products/2021-22-manchester-united-adidas-third-shirt-ronaldo-7-54582247620955",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2021-22ManchesterUnitedadidasThirdShirtRonaldo_7L00_b82dbbd1-d27b-4bf5-a7bc-da2220322859.jpg?v=1793622818",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 64,
+      "tier": "B",
+      "desc": "Manchester United · 2021 · Third.",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "history": [
+        {
+          "date": "2026-11-02",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-02 09:55",
+  "updated": "2026-11-02 19:52",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31323,8 +31350,8 @@
       "last_checked": "2026-11-02"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "3d6f095ad59719fb99b65bc59391dd2b2175180d",
-      "count": 29,
+      "sig": "7a5f9833b7342e0f24f9ac5dabcf5132157e8f30",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-02",
