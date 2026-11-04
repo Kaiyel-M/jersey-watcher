@@ -1399,7 +1399,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-manchester-united-ronaldo-7-bnwt-away-shirt-xxl-nike-cult-kits-7472221.jpg?v=1780932975",
       "price": 199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Extérieur",
@@ -30914,7 +30914,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/2022-23-manchester-united-adid-53544-1.jpg?v=1792859921",
       "price": 65.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -31339,7 +31339,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-04 08:12",
+  "updated": "2026-11-04 16:20",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31374,11 +31374,11 @@
       "last_checked": "2026-11-04"
     },
     "classic-shirts.com (CR7)": {
-      "sig": "2e837729445f201c4db45f4a2349626fccf4206b",
-      "count": 314,
+      "sig": "7a4190701ccd87ce48d7ad522538350bbbbe2519",
+      "count": 318,
       "url": "https://classic-shirts.com/search.php?text=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-28",
+      "last_change": "2026-11-04",
       "last_checked": "2026-11-04"
     },
     "Footuni Japan (CR7)": {
