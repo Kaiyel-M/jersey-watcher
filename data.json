@@ -29537,7 +29537,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201415-real-madrid-ronaldo-7-bnwt-away-shirt-m-adidas-3mstdmt9-cult-kits-4265987.jpg?v=1791009254",
       "price": 199.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -29942,7 +29942,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201012-portugal-ronaldo-7-away-shirt-s-nike-ml0u0hz8-cult-kits-7262320.jpg?v=1791996325",
       "price": 69.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2010,
       "home_away": "Extérieur",
@@ -30752,7 +30752,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201011-real-madrid-ronaldo-7-home-shirt-m-adidas-vsdrl2hc-cult-kits-5317001.jpg?v=1792826007",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2010,
       "home_away": "Domicile",
@@ -31211,7 +31211,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9AF4C85B-8B21-4088-B652-792B838B5D86.jpg?v=1793047368",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -31238,7 +31238,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/40A7C863-E125-47EB-AA33-D1D5D65FE660.jpg?v=1793047207",
       "price": 149.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2016,
       "home_away": "Extérieur",
@@ -31474,7 +31474,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-11-05 08:38",
+  "updated": "2026-11-05 16:46",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31485,19 +31485,19 @@
       "last_checked": "2026-11-05"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "19a6fca875dff8863131e876a2e18949eae188c0",
-      "count": 30,
+      "sig": "253209462d86bb5077103cb6c5ae9680e76ef73e",
+      "count": 26,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-03",
+      "last_change": "2026-11-05",
       "last_checked": "2026-11-05"
     },
     "Icons.com (CR7)": {
-      "sig": "94fd139ac265faf66de9de3d42a2259d7bde45f7",
-      "count": 177,
+      "sig": "c9dca7f552b3f6ef0d8fb44f39331513f9f645c7",
+      "count": 174,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-28",
+      "last_change": "2026-11-05",
       "last_checked": "2026-11-05"
     },
     "A1 Sporting Memorabilia (CR7)": {
