@@ -31535,7 +31535,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0022_2becca54-45d1-435e-b355-6db865de7f4b.jpg?v=1793874547",
       "price": 69.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2010,
       "home_away": "Extérieur",
@@ -31562,7 +31562,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0016_a7f3bd33-35d0-43db-9dd6-bb94d67d3276.jpg?v=1793874437",
       "price": 79.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Third",
@@ -31636,7 +31636,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-06 17:09",
+  "updated": "2026-11-06 22:08",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31663,11 +31663,11 @@
       "last_checked": "2026-11-06"
     },
     "A1 Sporting Memorabilia (CR7)": {
-      "sig": "5c6f37bd1e8c5596ae83ecf639c4748eb03e4cd9",
-      "count": 133,
+      "sig": "be9192d29ffb5e9fd0b84ec799ef3e667e32dbbf",
+      "count": 132,
       "url": "https://www.a1sportingmemorabilia.co.uk/index.php?route=product/search&search=cristiano+ronaldo",
       "first_seen": "2026-07-12",
-      "last_change": "2026-10-28",
+      "last_change": "2026-11-06",
       "last_checked": "2026-11-06"
     },
     "classic-shirts.com (CR7)": {
