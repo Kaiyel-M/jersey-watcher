@@ -30860,7 +30860,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201415-real-madrid-ronaldo-7-bnwt-with-defect-away-shirt-xl-adidas-d35mc9oa-cult-kits-8139617.jpg?v=1792959853",
       "price": 99.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -31505,7 +31505,7 @@
       "source": "Cult Kits",
       "title": "2016/17 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
       "url": "https://cultkits.com/products/2016-17-real-madrid-ronaldo-7-home-shirt-l-adidas-azl5qgn5",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0024_3369d0c9-a8f0-47db-8e5b-253d14f0c8f3.jpg?v=1793874569",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201617-real-madrid-ronaldo-7-home-shirt-l-adidas-azl5qgn5-cult-kits-3185784.jpg?v=1794047720",
       "price": 59.99,
       "currency": "£",
       "available": true,
@@ -31586,7 +31586,7 @@
       "source": "Cult Kits",
       "title": "2015/16 Real Madrid Ronaldo #7 Third Shirt (S) Adidas",
       "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-third-shirt-s-adidas-91jly2au",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0008_9d71a3f8-b156-4047-9da4-cc54c741653a.jpg?v=1793874318",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-third-shirt-s-adidas-91jly2au-cult-kits-2769500.jpg?v=1794047780",
       "price": 69.99,
       "currency": "£",
       "available": true,
@@ -31636,7 +31636,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-07 07:55",
+  "updated": "2026-11-07 14:27",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31647,8 +31647,8 @@
       "last_checked": "2026-11-07"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "c1944f8f5018d2f04e50cae43f1e71a84d906d7b",
-      "count": 28,
+      "sig": "7ac09bbe0a103f7bd3912af55c42407b8b97163b",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-07",
