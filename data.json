@@ -31634,9 +31634,117 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16179190694270": {
+      "id": "Cult Kits:16179190694270",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (S) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-s-adidas-5t3g9rse",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0038_8678bdf6-e6aa-4c9c-a5ae-2ac0cd5788bb.jpg?v=1793965828",
+      "price": 79.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2014 · Third.",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 79.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Cult Kits:16179189973374": {
+      "id": "Cult Kits:16179189973374",
+      "source": "Cult Kits",
+      "title": "2019/20 Juventus Ronaldo #7 Home Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-home-shirt-m-adidas-l9mbi4sx",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0018_f8f04189-cc12-4ba0-8253-9ebbba84b770.jpg?v=1793965458",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 99.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16179189907838": {
+      "id": "Cult Kits:16179189907838",
+      "source": "Cult Kits",
+      "title": "2015/16 Real Madrid Ronaldo #7 Away Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-away-shirt-l-adidas-qswqjkp3",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0016_a90e4d0e-9a47-4f88-bfbb-6831786692a6.jpg?v=1793965435",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 74,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Extérieur.",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16179189776766": {
+      "id": "Cult Kits:16179189776766",
+      "source": "Cult Kits",
+      "title": "2019/20 Juventus Ronaldo #7 Home Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2019-20-juventus-ronaldo-7-home-shirt-xl-adidas-iv82n6r8",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0014_bb1364f9-eac4-4c34-9937-4a197c1bd5e4.jpg?v=1793965078",
+      "price": 99.99,
+      "currency": "£",
+      "available": true,
+      "club": "Juventus",
+      "year": 2019,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 63,
+      "tier": "B",
+      "desc": "Juventus · 2019 · Domicile.",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 99.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-07 14:27",
+  "updated": "2026-11-07 19:01",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
