@@ -31742,9 +31742,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16423215628623": {
+      "id": "Authentic Football Club:16423215628623",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED HOME SHIRT RONALDO #7 S",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-home-shirt-ronaldo-7-s",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/library-2538FF42-322D-4BD7-82B8-C5CB4396D2DB-L0-001.jpg?v=1793793862",
+      "price": 99.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2022 · Domicile.",
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08",
+      "history": [
+        {
+          "date": "2026-11-08",
+          "price": 99.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-08 08:08",
+  "updated": "2026-11-08 15:14",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
