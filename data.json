@@ -31620,7 +31620,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_f3ab9397-404e-4da0-b816-e3264ea640bb.png?v=1793978457",
       "price": 200.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Domicile",
@@ -31630,7 +31630,7 @@
       "tier": "A",
       "desc": "Real Madrid · 2013 · Domicile. La Décima.",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-12",
       "history": [
         {
           "date": "2026-11-06",
@@ -31863,7 +31863,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.png?v=1744885994",
       "price": 200.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2003,
       "home_away": "Extérieur",
@@ -31873,7 +31873,7 @@
       "tier": "A",
       "desc": "Manchester United · 2003 · Extérieur.",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "history": [
         {
           "date": "2026-11-10",
@@ -31937,7 +31937,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-12 13:10",
+  "updated": "2026-11-12 20:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31948,7 +31948,7 @@
       "last_checked": "2026-11-12"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "16c7d65f0d11569eef79097c66a3cb97f8dd12e6",
+      "sig": "5d0feeb856056611965dc28f06829bb6aa86cffc",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
@@ -31988,11 +31988,11 @@
       "last_checked": "2026-11-12"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "6280700f8e62f07a644d938aea69cf4b17f42559",
-      "count": 0,
+      "sig": "923e2d4917eca5e1b92a9fe966bcc430730ae2f6",
+      "count": 3,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-11",
+      "last_change": "2026-11-12",
       "last_checked": "2026-11-12"
     }
   }
