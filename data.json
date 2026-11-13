@@ -29002,7 +29002,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/200810-portugal-ronaldo-7-home-shirt-m-nike-e33v138v-cult-kits-3308264.jpg?v=1789879997",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2008,
       "home_away": "Domicile",
@@ -31968,7 +31968,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-13 16:49",
+  "updated": "2026-11-13 22:16",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
