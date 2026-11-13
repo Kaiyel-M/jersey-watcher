@@ -25368,9 +25368,9 @@
       "title": "MANCHESTER UNITED 2004-06 HOME SHIRT - RONALDO 7 - KIDS - 8/10",
       "url": "https://thesoccerarchive.com/products/manchester-united-2004-06-home-shirt-ronaldo-7-kids-8-10",
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/50_3c8cd65f-a220-406a-80f3-76da68b4ce2e.png?v=1754405290",
-      "price": 100.0,
+      "price": 110.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -25380,11 +25380,15 @@
       "tier": "A",
       "desc": "Manchester United · 2004 · Domicile.",
       "first_seen": "2026-07-29",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-11-13",
       "history": [
         {
           "date": "2026-07-29",
           "price": 100.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 110.0
         }
       ],
       "good_deal": true
@@ -31809,7 +31813,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_67d937d6-2df7-4654-b5c0-e0ff7d369d4c.png?v=1794226484",
       "price": 280.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Third",
@@ -31935,9 +31939,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Vintage Football Shirts:10887923302747": {
+      "id": "Vintage Football Shirts:10887923302747",
+      "source": "Vintage Football Shirts",
+      "title": "2005-06 Manchester United Nike Away Shirt Ronaldo #7",
+      "url": "https://www.vintagefootballshirts.com/products/2005-06-manchester-united-nike-away-shirt-ronaldo-7",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/325T13506174375364625.jpg?v=1746184165",
+      "price": 175.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "history": [
+        {
+          "date": "2026-11-13",
+          "price": 175.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-13 08:42",
+  "updated": "2026-11-13 16:49",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31948,7 +31979,7 @@
       "last_checked": "2026-11-13"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "eabc112b7a13285a9d8a6cd5a4efde4dcd352209",
+      "sig": "8d5f73695db3cdacc1e2c73a77a153e1b90289fd",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
