@@ -18719,7 +18719,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2006-07_HOME_SHIRT_-_RONALDO.jpg?v=1767018703",
       "price": 180.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Domicile",
@@ -31968,7 +31968,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-14 09:21",
+  "updated": "2026-11-14 15:53",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -31979,11 +31979,11 @@
       "last_checked": "2026-11-14"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "8d5f73695db3cdacc1e2c73a77a153e1b90289fd",
+      "sig": "c087d18ccb36135ed65a62ddbd234a4cfd8656a1",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-13",
+      "last_change": "2026-11-14",
       "last_checked": "2026-11-14"
     },
     "Icons.com (CR7)": {
