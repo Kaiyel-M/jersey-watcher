@@ -25370,7 +25370,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/50_3c8cd65f-a220-406a-80f3-76da68b4ce2e.png?v=1754405290",
       "price": 110.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -31786,7 +31786,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/35_8046e43f-ecdf-4014-9612-42a860f13bdf.png?v=1794217536",
       "price": 150.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Extérieur",
@@ -31840,7 +31840,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2004-06_LS_HOME_SHIRT_-_RONALDO_7_-_KIDS.png?v=1794220802",
       "price": 140.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2004,
       "home_away": "Domicile",
@@ -32022,7 +32022,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-15 10:59",
+  "updated": "2026-11-15 17:32",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32033,11 +32033,11 @@
       "last_checked": "2026-11-15"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "dc55075fe17811f91e506befed850922b9d69d4b",
+      "sig": "e53bbaf74a495faf28468f4ba614cfa71df1c479",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-14",
+      "last_change": "2026-11-15",
       "last_checked": "2026-11-15"
     },
     "Icons.com (CR7)": {
