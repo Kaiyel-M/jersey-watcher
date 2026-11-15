@@ -31966,9 +31966,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Authentic Football Club:16454786810191": {
+      "id": "Authentic Football Club:16454786810191",
+      "source": "Authentic Football Club",
+      "title": "2016-17 REAL MADRID HOME SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2016-17-real-madrid-home-shirt-ronaldo-7-l",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/library-822DC16A-32D9-4AE2-8801-9A4881C3CC02-L0-001.jpg?v=1794598799",
+      "price": 159.95,
+      "currency": "€",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2016,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2016 · Domicile.",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "history": [
+        {
+          "date": "2026-11-15",
+          "price": 159.95
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16445412114767": {
+      "id": "Authentic Football Club:16445412114767",
+      "source": "Authentic Football Club",
+      "title": "2022-23 MANCHESTER UNITED PLAYER ISSUE AWAY SHIRT RONALDO #7 M",
+      "url": "https://authenticfootballclub.com/products/2022-23-manchester-united-player-issue-away-shirt-ronaldo-7-m",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/library-3B9685E2-F34F-42FA-ACA4-EBC468380959-L0-001.jpg?v=1794598800",
+      "price": 109.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2022,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Version joueur",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Manchester United · 2022 · Extérieur · Version joueur.",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "history": [
+        {
+          "date": "2026-11-15",
+          "price": 109.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-15 03:17",
+  "updated": "2026-11-15 10:59",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
