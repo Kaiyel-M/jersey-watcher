@@ -32220,9 +32220,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Classic Football Kit:15609202508151": {
+      "id": "Classic Football Kit:15609202508151",
+      "source": "Classic Football Kit",
+      "title": "2005-06 Manchester United Nike Away Shirt Ronaldo #7 XL",
+      "url": "https://classicfootballkit.co.uk/products/2005-06-manchester-united-nike-away-shirt-ronaldo-7-55176500904283",
+      "image": "https://cdn.shopify.com/s/files/1/0248/8870/5077/files/325T13506174375364625.jpg?v=1794847074",
+      "price": 175.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2005,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 86,
+      "tier": "A",
+      "desc": "Manchester United · 2005 · Extérieur.",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "history": [
+        {
+          "date": "2026-11-16",
+          "price": 175.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-16 09:44",
+  "updated": "2026-11-16 19:55",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32233,8 +32260,8 @@
       "last_checked": "2026-11-16"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "fc2739946287ee4d493106db7a405b4eb94a8361",
-      "count": 29,
+      "sig": "8d5f73695db3cdacc1e2c73a77a153e1b90289fd",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-16",
