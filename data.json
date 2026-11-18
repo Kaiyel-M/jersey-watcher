@@ -29001,7 +29001,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/CAACF30C-ADA7-460A-85A6-4D21E0F511D7.jpg?v=1789492761",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Extérieur",
@@ -32247,9 +32247,90 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16196666786174": {
+      "id": "Cult Kits:16196666786174",
+      "source": "Cult Kits",
+      "title": "2007/08 Man United Ronaldo #7 Away Shirt (L) Nike",
+      "url": "https://cultkits.com/products/2007-08-man-united-ronaldo-7-away-shirt-l-nike-sku-j4bdrqol",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0060_9f22273a-28c4-44bc-9a71-f75ac79c4b69.jpg?v=1795011282",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Extérieur. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16196666687870": {
+      "id": "Cult Kits:16196666687870",
+      "source": "Cult Kits",
+      "title": "2015/16 Real Madrid Ronaldo #7 L/S Away Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-l-s-away-shirt-xl-adidas-sku-vc5lxo56",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0058_060043de-a678-49f8-b373-eee4a801114a.jpg?v=1795011264",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Extérieur",
+      "sleeve": "Manches longues",
+      "version": "Rétail",
+      "rarity": 79,
+      "tier": "A",
+      "desc": "Real Madrid · 2015 · Extérieur · Manches longues.",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Authentic Football Club:16278410756431": {
+      "id": "Authentic Football Club:16278410756431",
+      "source": "Authentic Football Club",
+      "title": "2008-09 MANCHESTER UNITED THIRD SHIRT RONALDO #7 L",
+      "url": "https://authenticfootballclub.com/products/2008-09-manchester-united-third-shirt-ronaldo-7-l-1",
+      "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/IMG_3576-Photoroom.jpg?v=1794918784",
+      "price": 269.95,
+      "currency": "€",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 98,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "price": 269.95
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-18 09:19",
+  "updated": "2026-11-18 18:09",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32260,11 +32341,11 @@
       "last_checked": "2026-11-18"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "145360ac28dcc3be82a422263f41d3ea7448e9b3",
+      "sig": "64f6594f88b2f3465c5d9174abf39e3d2e296a26",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-17",
+      "last_change": "2026-11-18",
       "last_checked": "2026-11-18"
     },
     "Icons.com (CR7)": {
@@ -32300,11 +32381,11 @@
       "last_checked": "2026-11-18"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "923e2d4917eca5e1b92a9fe966bcc430730ae2f6",
-      "count": 3,
+      "sig": "be894cbfe662af00ed43def9a76cc8be78ded4b7",
+      "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-12",
+      "last_change": "2026-11-18",
       "last_checked": "2026-11-18"
     }
   }
