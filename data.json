@@ -32283,7 +32283,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-ls-away-shirt-xl-adidas-sku-vc5lxo56-cult-kits-3095212.jpg?v=1795050922",
       "price": 149.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -32355,9 +32355,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16196665475454": {
+      "id": "Cult Kits:16196665475454",
+      "source": "Cult Kits",
+      "title": "2015/16 Real Madrid Ronaldo #7 UCL Final Home Shirt (XXL) Adidas",
+      "url": "https://cultkits.com/products/2015-16-real-madrid-ronaldo-7-player-issue-ucl-final-home-shirt-xxl-adidas-sku-rsj2tkye",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0022_f0e0f070-6abe-4f84-899b-609b512e817d.jpg?v=1795010838",
+      "price": 149.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2015,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 68,
+      "tier": "B",
+      "desc": "Real Madrid · 2015 · Domicile.",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "price": 149.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-19 16:53",
+  "updated": "2026-11-19 23:18",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
