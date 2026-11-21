@@ -899,7 +899,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Cristiano-Ronaldo-Signed-Boot-Mecurial-Victory-CR7.jpg?v=1770128279",
       "price": 900.0,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "?",
       "year": null,
       "home_away": "?",
@@ -26891,7 +26891,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2007-09_HOME_SHIRT_-_RONALDO_7.jpg?v=1764321688",
       "price": 270.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -32409,9 +32409,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Cult Kits:16200879571326": {
+      "id": "Cult Kits:16200879571326",
+      "source": "Cult Kits",
+      "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (M) Adidas",
+      "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-m-adidas-sku-20jwcmhj",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0077_a1c433f0-ee6c-4711-bb74-47192b674211.jpg?v=1795190803",
+      "price": 249.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2014,
+      "home_away": "Third",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 76,
+      "tier": "A",
+      "desc": "Real Madrid · 2014 · Third.",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "price": 249.99
+        }
+      ],
+      "good_deal": false
+    },
+    "Cult Kits:16200878653822": {
+      "id": "Cult Kits:16200878653822",
+      "source": "Cult Kits",
+      "title": "2012/13 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
+      "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-home-shirt-l-adidas-sku-43j90g9i",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0043_91cc2e58-9cc7-4e24-b551-5667b4314dd9.jpg?v=1795190275",
+      "price": 124.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2012,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 72,
+      "tier": "B",
+      "desc": "Real Madrid · 2012 · Domicile.",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "price": 124.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-21 16:28",
+  "updated": "2026-11-21 21:50",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
