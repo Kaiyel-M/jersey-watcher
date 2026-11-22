@@ -132,7 +132,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/ronaldo-manchester-united-Blue-shirt-rare-2008_90f923dc-a394-4992-a9f4-a280be4249c5.jpg?v=1742837518",
       "price": 85.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -29545,7 +29545,7 @@
       "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-xxl-40-42-1260198452.png?v=1790620590",
       "price": 64.99,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2007,
       "home_away": "Domicile",
@@ -32519,7 +32519,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-11-22 16:45",
+  "updated": "2026-11-22 22:12",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32530,7 +32530,7 @@
       "last_checked": "2026-11-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "b534b6cf9fae359a7684f8a0d833e21ef6a4a979",
+      "sig": "ef8b5e9c0cd74a3295b3d5e026e3e2a6fe87e8e5",
       "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
