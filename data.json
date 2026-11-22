@@ -25782,7 +25782,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/73B07059-1DC4-4A88-AF12-E747F494AFCB.jpg?v=1785261879",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Extérieur",
@@ -32094,7 +32094,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/IMG_3130-Photoroom.jpg?v=1794217014",
       "price": 109.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2021,
       "home_away": "Domicile",
@@ -32415,7 +32415,7 @@
       "source": "Cult Kits",
       "title": "2014/15 Real Madrid Ronaldo #7 Third Shirt (M) Adidas",
       "url": "https://cultkits.com/products/2014-15-real-madrid-ronaldo-7-third-shirt-m-adidas-sku-20jwcmhj",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0077_a1c433f0-ee6c-4711-bb74-47192b674211.jpg?v=1795190803",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201415-real-madrid-ronaldo-7-third-shirt-m-adidas-sku-20jwcmhj-cult-kits-8927575.jpg?v=1795345825",
       "price": 249.99,
       "currency": "£",
       "available": true,
@@ -32442,7 +32442,7 @@
       "source": "Cult Kits",
       "title": "2012/13 Real Madrid Ronaldo #7 Home Shirt (L) Adidas",
       "url": "https://cultkits.com/products/2012-13-real-madrid-ronaldo-7-home-shirt-l-adidas-sku-43j90g9i",
-      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/IMG_0043_91cc2e58-9cc7-4e24-b551-5667b4314dd9.jpg?v=1795190275",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-home-shirt-l-adidas-sku-43j90g9i-cult-kits-6308715.jpg?v=1795345834",
       "price": 124.99,
       "currency": "£",
       "available": true,
@@ -32463,9 +32463,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Football Shirt Collective:16033354547574": {
+      "id": "Football Shirt Collective:16033354547574",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 Ronaldo #7 Manchester United Vintage Nike Home Football Shorts (S) 28/30",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-s-28-32",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-s-28-30-1269338706.png?v=1795348402",
+      "price": 64.99,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "history": [
+        {
+          "date": "2026-11-22",
+          "price": 64.99
+        }
+      ],
+      "good_deal": true
+    },
+    "Football Shirt Collective:16033354514806": {
+      "id": "Football Shirt Collective:16033354514806",
+      "source": "Football Shirt Collective",
+      "title": "2007/09 Ronaldo #7 Manchester United Vintage Nike Home Football Shorts (S) 28/30",
+      "url": "https://www.footballshirtcollective.com/products/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-s-28-31",
+      "image": "https://cdn.shopify.com/s/files/1/1175/1708/files/2007-09-ronaldo-7-manchester-united-vintage-nike-home-football-shorts-s-28-30-1269338713.png?v=1795348488",
+      "price": 59.99,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2007,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 90,
+      "tier": "S",
+      "desc": "Manchester United · 2007 · Domicile. Saison du 1er Ballon d'Or et du doublé PL/C1.",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "history": [
+        {
+          "date": "2026-11-22",
+          "price": 59.99
+        }
+      ],
+      "good_deal": true
     }
   },
-  "updated": "2026-11-22 08:56",
+  "updated": "2026-11-22 16:45",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32476,8 +32530,8 @@
       "last_checked": "2026-11-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "2efcc48a2539ab885210c1e37a82399ba0b7765e",
-      "count": 29,
+      "sig": "b534b6cf9fae359a7684f8a0d833e21ef6a4a979",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-22",
@@ -32516,11 +32570,11 @@
       "last_checked": "2026-11-22"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "2317783a5d5127bd66481d5bee6bfeafbfa6507e",
-      "count": 3,
+      "sig": "d364e0ce353b2ffe81f1ff6371c8c9107c68103e",
+      "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-21",
+      "last_change": "2026-11-22",
       "last_checked": "2026-11-22"
     }
   }
