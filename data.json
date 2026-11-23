@@ -18934,7 +18934,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 120.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -32445,7 +32445,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-real-madrid-ronaldo-7-home-shirt-l-adidas-sku-43j90g9i-cult-kits-6308715.jpg?v=1795345834",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2012,
       "home_away": "Domicile",
@@ -32519,7 +32519,7 @@
       "good_deal": true
     }
   },
-  "updated": "2026-11-23 11:24",
+  "updated": "2026-11-23 22:53",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32530,11 +32530,11 @@
       "last_checked": "2026-11-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "ef8b5e9c0cd74a3295b3d5e026e3e2a6fe87e8e5",
-      "count": 30,
+      "sig": "d7adbf5844f0920582009cd2a456254c4305f8a6",
+      "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-22",
+      "last_change": "2026-11-23",
       "last_checked": "2026-11-23"
     },
     "Icons.com (CR7)": {
@@ -32570,11 +32570,11 @@
       "last_checked": "2026-11-23"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "d364e0ce353b2ffe81f1ff6371c8c9107c68103e",
+      "sig": "95d61727d16df7ff025a1a3c09a9d792d32a1f5a",
       "count": 0,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-22",
+      "last_change": "2026-11-23",
       "last_checked": "2026-11-23"
     }
   }
