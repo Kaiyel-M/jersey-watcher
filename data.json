@@ -18907,7 +18907,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2006-07_HOME_SHIRT_-_RONALDO.jpg?v=1767018703",
       "price": 180.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2006,
       "home_away": "Domicile",
@@ -18917,7 +18917,7 @@
       "tier": "A",
       "desc": "Manchester United · 2006 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-24",
       "history": [
         {
           "date": "2026-07-12",
@@ -18934,7 +18934,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/LRONALDO_0afcb598-3df5-45d3-9c3e-9acce678848f.png?v=1749109721",
       "price": 120.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -18944,7 +18944,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-07-12",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "history": [
         {
           "date": "2026-07-12",
@@ -24439,7 +24439,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2022-23_HOME_SHIRT_-_RONALDO_7.png?v=1763549083",
       "price": 80.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -24449,7 +24449,7 @@
       "tier": "C",
       "desc": "Manchester United · 2022 · Domicile.",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-24",
       "history": [
         {
           "date": "2026-07-14",
@@ -32517,9 +32517,36 @@
         }
       ],
       "good_deal": true
+    },
+    "Cult Kits:16205946454398": {
+      "id": "Cult Kits:16205946454398",
+      "source": "Cult Kits",
+      "title": "2017/18 Real Madrid Ronaldo #7 L/S UCL Final Away Shirt (XL) Adidas",
+      "url": "https://cultkits.com/products/2017-18-real-madrid-ronaldo-7-l-s-ucl-final-away-shirt-xl-adidas-sku-nb9yn4eh",
+      "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201718-real-madrid-ronaldo-7-ls-ucl-final-away-shirt-xl-adidas-sku-nb9yn4eh-cult-kits-5983099.jpg?v=1795542671",
+      "price": 199.99,
+      "currency": "£",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2017,
+      "home_away": "Extérieur",
+      "sleeve": "Manches longues",
+      "version": "Rétail",
+      "rarity": 89,
+      "tier": "S",
+      "desc": "Real Madrid · 2017 · Extérieur · Manches longues. Dernière saison, 3e C1 d'affilée.",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "history": [
+        {
+          "date": "2026-11-24",
+          "price": 199.99
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-24 06:32",
+  "updated": "2026-11-24 18:12",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32530,16 +32557,16 @@
       "last_checked": "2026-11-20"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "d7adbf5844f0920582009cd2a456254c4305f8a6",
-      "count": 28,
+      "sig": "09ec7c7c6c47fdd5380502edd0ae07b7c57b087c",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-23",
+      "last_change": "2026-11-24",
       "last_checked": "2026-11-24"
     },
     "Icons.com (CR7)": {
-      "sig": "a9e78d8e2359876a5d6c5840380f48b7717d1988",
-      "count": 178,
+      "sig": "fff962ba7bde442d8c9cc49396d015b97dc9a4dc",
+      "count": 169,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-24",
