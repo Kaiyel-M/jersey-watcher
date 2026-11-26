@@ -899,7 +899,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0550/9349/3954/files/Cristiano-Ronaldo-Signed-Boot-Mecurial-Victory-CR7.jpg?v=1770128279",
       "price": 900.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "?",
       "year": null,
       "home_away": "?",
@@ -30285,7 +30285,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.jpg?v=1746613868",
       "price": 200.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -30690,7 +30690,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201213-portugal-ronaldo-7-player-issue-home-shirt-l-nike-yqz6qwts-cult-kits-8893560.jpg?v=1792495574",
       "price": 174.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2012,
       "home_away": "Domicile",
@@ -32850,7 +32850,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/XLRONALDOVG.jpg?v=1795692140",
       "price": 180.0,
       "currency": "$",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Domicile",
@@ -32870,7 +32870,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-26 12:34",
+  "updated": "2026-11-26 21:52",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32881,16 +32881,16 @@
       "last_checked": "2026-11-26"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "a32223b92455c03974c8b36bfdd295926770eab0",
-      "count": 30,
+      "sig": "cc7fecfb79e0191eedf0dcf9ae4516cf0ecd7461",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-26",
       "last_checked": "2026-11-26"
     },
     "Icons.com (CR7)": {
-      "sig": "bc2faf3d3cc5cc99183a25a3d2a78eeb9fa0d984",
-      "count": 155,
+      "sig": "54723408fb8a802c9bdd685633f01a6b8be46550",
+      "count": 168,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-26",
@@ -32921,8 +32921,8 @@
       "last_checked": "2026-11-26"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "cf41e88388d843832a51dc3f4c5de5a8ce0ae278",
-      "count": 4,
+      "sig": "72cb13a906fdc30feeaf743ac8ecaf46cfc025a7",
+      "count": 3,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-26",
