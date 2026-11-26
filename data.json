@@ -30285,7 +30285,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.jpg?v=1746613868",
       "price": 200.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -30295,7 +30295,7 @@
       "tier": "S",
       "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-11-26",
       "history": [
         {
           "date": "2026-10-15",
@@ -31689,7 +31689,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201516-real-madrid-ronaldo-7-away-shirt-xl-adidas-qql6d5lg-cult-kits-9714355.jpg?v=1793951414",
       "price": 149.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2015,
       "home_away": "Extérieur",
@@ -32841,9 +32841,36 @@
         }
       ],
       "good_deal": false
+    },
+    "The Soccer Archive:10712827625759": {
+      "id": "The Soccer Archive:10712827625759",
+      "source": "The Soccer Archive",
+      "title": "REAL MADRID 2013-14 HOME SHIRT - RONALDO 7 - 7/10",
+      "url": "https://thesoccerarchive.com/products/real-madrid-2013-14-home-shirt-ronaldo-7-7-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/XLRONALDOVG.jpg?v=1795692140",
+      "price": 180.0,
+      "currency": "$",
+      "available": true,
+      "club": "Real Madrid",
+      "year": 2013,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 78,
+      "tier": "A",
+      "desc": "Real Madrid · 2013 · Domicile. La Décima.",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "history": [
+        {
+          "date": "2026-11-26",
+          "price": 180.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-26 03:03",
+  "updated": "2026-11-26 12:34",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32854,19 +32881,19 @@
       "last_checked": "2026-11-26"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "9fddf93fffbee6d1d967b0e90455ed124f6dfda3",
-      "count": 29,
+      "sig": "a32223b92455c03974c8b36bfdd295926770eab0",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-25",
+      "last_change": "2026-11-26",
       "last_checked": "2026-11-26"
     },
     "Icons.com (CR7)": {
-      "sig": "7f89b37511f52834f271827d8d55c5f5af6f8c0b",
+      "sig": "bc2faf3d3cc5cc99183a25a3d2a78eeb9fa0d984",
       "count": 155,
       "url": "https://www.icons.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-25",
+      "last_change": "2026-11-26",
       "last_checked": "2026-11-26"
     },
     "A1 Sporting Memorabilia (CR7)": {
@@ -32894,11 +32921,11 @@
       "last_checked": "2026-11-26"
     },
     "MatchWornShirt (Portugal)": {
-      "sig": "7e691aa1afbf9620790da47223a41c1ccf3f8104",
-      "count": 3,
+      "sig": "cf41e88388d843832a51dc3f4c5de5a8ce0ae278",
+      "count": 4,
       "url": "https://mws.com/category/portugal",
       "first_seen": "2026-07-12",
-      "last_change": "2026-11-25",
+      "last_change": "2026-11-26",
       "last_checked": "2026-11-26"
     }
   }
