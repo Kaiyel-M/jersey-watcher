@@ -31365,7 +31365,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/9F0C982B-24E3-46D9-93B7-608C8F9B2888.jpg?v=1793047327",
       "price": 99.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -32148,7 +32148,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/325T13506174375364625.jpg?v=1746184165",
       "price": 175.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2005,
       "home_away": "Extérieur",
@@ -32391,7 +32391,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2013-14-real-madrid-adidas-awa-49112-1.jpg?v=1730045614",
       "price": 175.0,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Extérieur",
@@ -32661,7 +32661,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/IMG_4270-Photoroom.jpg?v=1795461301",
       "price": 129.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2018,
       "home_away": "Domicile",
@@ -32796,7 +32796,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/IMG_4448-Photoroom_2.jpg?v=1795544977",
       "price": 99.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2022,
       "home_away": "Domicile",
@@ -32868,9 +32868,36 @@
         }
       ],
       "good_deal": false
+    },
+    "Football Finery:15066026475896": {
+      "id": "Football Finery:15066026475896",
+      "source": "Football Finery",
+      "title": "2002/04 Manchester United Home Football Shirt (2XL) Nike #7 Ronaldo",
+      "url": "https://www.footballfinery.co.uk/products/2002-04-manchester-united-home-football-shirt-2xl-nike-7-ronaldo-ff307063",
+      "image": "https://cdn.shopify.com/s/files/1/0681/3076/7126/files/20261021_115236-Photoroom.jpg?v=1792582873",
+      "price": 135.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2002,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 80,
+      "tier": "A",
+      "desc": "Manchester United · 2002 · Domicile.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "price": 135.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-27 03:51",
+  "updated": "2026-11-27 13:14",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32881,7 +32908,7 @@
       "last_checked": "2026-11-27"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "52fdd36d9accac2d1bb2c9bd10d94df231be2eef",
+      "sig": "3f60d785499ef81875b5bb2df686d7777162b02a",
       "count": 28,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
