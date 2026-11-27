@@ -27786,7 +27786,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/1AF8EF85-563B-4F1B-BDE0-6CA19B3A3B7C.jpg?v=1788375855",
       "price": 279.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Portugal",
       "year": 2006,
       "home_away": "Extérieur",
@@ -30177,7 +30177,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/202021-juventus-ronaldo-7-home-shirt-xl-adidas-uq42bb6q-cult-kits-5220327.jpg?v=1791996254",
       "price": 124.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -30285,7 +30285,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MRONALDOPL.jpg?v=1746613868",
       "price": 200.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -30295,7 +30295,7 @@
       "tier": "S",
       "desc": "Manchester United · 2008 · Third. Saison de la C1 et du Mondial des clubs.",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "history": [
         {
           "date": "2026-10-15",
@@ -32310,7 +32310,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0834/0042/5807/files/IMG_3576-Photoroom.jpg?v=1794918784",
       "price": 269.95,
       "currency": "€",
-      "available": true,
+      "available": false,
       "club": "Manchester United",
       "year": 2008,
       "home_away": "Third",
@@ -32850,7 +32850,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/XLRONALDOVG.jpg?v=1795692140",
       "price": 180.0,
       "currency": "$",
-      "available": false,
+      "available": true,
       "club": "Real Madrid",
       "year": 2013,
       "home_away": "Domicile",
@@ -32860,7 +32860,7 @@
       "tier": "A",
       "desc": "Real Madrid · 2013 · Domicile. La Décima.",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "history": [
         {
           "date": "2026-11-26",
@@ -32895,9 +32895,63 @@
         }
       ],
       "good_deal": false
+    },
+    "Vintage Football Shirts:10920819491163": {
+      "id": "Vintage Football Shirts:10920819491163",
+      "source": "Vintage Football Shirts",
+      "title": "2021-22 Manchester United adidas CL Home Shirt Ronaldo #7 *w/tags*",
+      "url": "https://www.vintagefootballshirts.com/products/2021-22-manchester-united-adidas-cl-home-shirt-ronaldo-7-w-tags",
+      "image": "https://cdn.shopify.com/s/files/1/0823/7986/6459/files/2021-22ManchesterUnitedadidasCLHomeShirtRonaldo_7wtags.jpg?v=1795790906",
+      "price": 98.0,
+      "currency": "£",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2021,
+      "home_away": "Domicile",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 56,
+      "tier": "C",
+      "desc": "Manchester United · 2021 · Domicile.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "price": 98.0
+        }
+      ],
+      "good_deal": false
+    },
+    "The Soccer Archive:9209765462303": {
+      "id": "The Soccer Archive:9209765462303",
+      "source": "The Soccer Archive",
+      "title": "MANCHESTER UNITED 2008-09 AWAY SHIRT - RONALDO 7 - 8/10",
+      "url": "https://thesoccerarchive.com/products/manchester-united-2008-09-away-shirt-ronaldo-7-8-10",
+      "image": "https://cdn.shopify.com/s/files/1/0709/3508/5343/files/MANCHESTER_UNITED_2008-09_AWAY_SHIRT_-_RONALDO_7.jpg?v=1768383285",
+      "price": 200.0,
+      "currency": "$",
+      "available": true,
+      "club": "Manchester United",
+      "year": 2008,
+      "home_away": "Extérieur",
+      "sleeve": "",
+      "version": "Rétail",
+      "rarity": 96,
+      "tier": "S",
+      "desc": "Manchester United · 2008 · Extérieur. Saison de la C1 et du Mondial des clubs.",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "history": [
+        {
+          "date": "2026-11-27",
+          "price": 200.0
+        }
+      ],
+      "good_deal": false
     }
   },
-  "updated": "2026-11-27 13:14",
+  "updated": "2026-11-27 21:58",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32908,8 +32962,8 @@
       "last_checked": "2026-11-27"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "3f60d785499ef81875b5bb2df686d7777162b02a",
-      "count": 28,
+      "sig": "bc9030cbc327fac76d42eb232a656a6e058293ba",
+      "count": 29,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-27",
