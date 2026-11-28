@@ -30177,7 +30177,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/202021-juventus-ronaldo-7-home-shirt-xl-adidas-uq42bb6q-cult-kits-5220327.jpg?v=1791996254",
       "price": 124.99,
       "currency": "£",
-      "available": false,
+      "available": true,
       "club": "Juventus",
       "year": 2020,
       "home_away": "Domicile",
@@ -30187,7 +30187,7 @@
       "tier": "B",
       "desc": "Juventus · 2020 · Domicile.",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "history": [
         {
           "date": "2026-10-14",
@@ -32418,7 +32418,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0622/3691/7987/files/201415-real-madrid-ronaldo-7-third-shirt-m-adidas-sku-20jwcmhj-cult-kits-8927575.jpg?v=1795345825",
       "price": 249.99,
       "currency": "£",
-      "available": true,
+      "available": false,
       "club": "Real Madrid",
       "year": 2014,
       "home_away": "Third",
@@ -32951,7 +32951,7 @@
       "good_deal": false
     }
   },
-  "updated": "2026-11-28 03:41",
+  "updated": "2026-11-28 12:29",
   "pages_state": {
     "Top Vintage (CR7)": {
       "sig": "04be1e27b7db5e0845643a4e84850e409620e182",
@@ -32962,8 +32962,8 @@
       "last_checked": "2026-11-28"
     },
     "Classic Football Shirts (CR7)": {
-      "sig": "6331b47cf6785303f9f3ce9a8c9f1c30ba5868cb",
-      "count": 27,
+      "sig": "11bc59359c30cd3de68d37181186c8aecfd2deba",
+      "count": 30,
       "url": "https://www.classicfootballshirts.com/players/cristiano-ronaldo.html",
       "first_seen": "2026-07-12",
       "last_change": "2026-11-28",
